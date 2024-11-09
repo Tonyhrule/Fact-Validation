@@ -11,4 +11,7 @@ def prepare_pubmed_dataset():
     if not isinstance(passages, Dataset):
         raise TypeError("Expected a Dataset object")
 
+    for passage in passages:
+        print(passage)
+
     passages.to_json(SRC_DIR + "input_data/pubmed.json", lines=False)

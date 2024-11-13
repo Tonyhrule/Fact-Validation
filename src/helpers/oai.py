@@ -1,3 +1,4 @@
+from unittest import result
 from openai import AsyncOpenAI, OpenAI
 from openai.types import CompletionUsage
 from openai.types.create_embedding_response import Usage
@@ -27,6 +28,8 @@ prices = {
     "gpt-4o-mini": {"input": 0.15, "output": 0.6},
     "text-embedding-3-small": 0.02,
 }
+
+DEFAULT_SYSTEM = ""
 
 if not os.path.exists(SRC_DIR + "../running-batches.txt"):
     save_file(SRC_DIR + "../running-batches.txt", "")
@@ -59,7 +62,10 @@ class EmbeddingResponse:
 
 
 def call_gpt(
-    prompt: str, model="gpt-4o-mini", system="", max_tokens: int | None = None
+    prompt: str,
+    model="gpt-4o-mini",
+    system=DEFAULT_SYSTEM,
+    max_tokens: int | None = None,
 ):
     messages = []
     if system:
@@ -107,7 +113,7 @@ async def get_embeddings(texts: list[str], model="text-embedding-3-small"):
         ]
     )
 
-    result = []
+    result: list[EmbeddingResponse] = []
 
     for response in responses:
         if not response.usage:
@@ -144,7 +150,7 @@ def batch_gpt_call(
     batch_name: str,
     prompts: list[str],
     model="gpt-4o-mini",
-    system="",
+    system=DEFAULT_SYSTEM,
     max_tokens: int | None = None,
 ):
     calls = []
@@ -214,7 +220,10 @@ def get_batch_result(batch_id: str):
 
 
 async def async_call_gpt(
-    prompt: str, model="gpt-4o-mini", system="", max_tokens: int | None = None
+    prompt: str,
+    model="gpt-4o-mini",
+    system=DEFAULT_SYSTEM,
+    max_tokens: int | None = None,
 ):
     messages = []
     if system:
@@ -238,12 +247,24 @@ async def async_call_gpt(
     )
 
 
-def async_gpt_calls(
-    prompts: list[str], model="gpt-4o-mini", system="", max_tokens: int | None = None
+async def async_gpt_calls(
+    prompts: list[str],
+    model="gpt-4o-mini",
+    system=DEFAULT_SYSTEM,
+    max_tokens: int | None = None,
 ):
-    return asyncio.gather(
-        *[
-            async_call_gpt(prompt, model=model, system=system, max_tokens=max_tokens)
-            for prompt in prompts
-        ]
-    )
+    batches = chunk_list(prompts, 100)
+
+    results: list[GPTResponse] = []
+
+    for batch in batches:
+        results += await asyncio.gather(
+            *[
+                async_call_gpt(
+                    prompt, model=model, system=system, max_tokens=max_tokens
+                )
+                for prompt in batch
+            ]
+        )
+
+    return results

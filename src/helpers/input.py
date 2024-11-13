@@ -1,4 +1,5 @@
-from collections.abc import Callable
+import asyncio
+from collections.abc import Callable, Coroutine
 
 
 def function_from_list(prompt: str, options: list[tuple[str, Callable]]):
@@ -13,4 +14,7 @@ def function_from_list(prompt: str, options: list[tuple[str, Callable]]):
         print("Invalid selection. Please try again.\n")
         return function_from_list(prompt, options)
 
-    options[int(selection) - 1][1]()
+    run = options[int(selection) - 1][1]()
+
+    if isinstance(run, Coroutine):
+        asyncio.run(run)

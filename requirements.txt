@@ -4,3 +4,4 @@ datasets
 ragas
 deepeval
 pinecone
+pinecone[grpc]

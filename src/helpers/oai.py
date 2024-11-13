@@ -1,15 +1,17 @@
-from openai import NotFoundError, OpenAI
+from openai import AsyncOpenAI, OpenAI
 from openai.types import CompletionUsage
 from openai.types.create_embedding_response import Usage
 import os
 from dotenv import load_dotenv
 from uuid import uuid4
+import asyncio
 
-from helpers.data import add_to_file, delete_file, save_file, stringify
+from helpers.data import add_to_file, chunk_list, delete_file, save_file, stringify
 from helpers.variables import SRC_DIR
 
 load_dotenv()
 client = OpenAI()
+asyncClient = AsyncOpenAI()
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
@@ -17,6 +19,7 @@ if not OPENAI_API_KEY:
     raise Exception("OpenAI API Key not found")
 
 client.api_key = OPENAI_API_KEY
+asyncClient.api_key = OPENAI_API_KEY
 
 # Per 1 Million Tokens
 prices = {
@@ -46,8 +49,8 @@ class GPTResponse:
 
 
 class EmbeddingResponse:
-    def __init__(self, embeddings: list[float], model: str, usage: Usage):
-        self.embeddings = embeddings
+    def __init__(self, vector: list[float], model: str, usage: Usage):
+        self.vector = vector
         self.model = model
         self.usage = usage
 
@@ -96,6 +99,27 @@ def get_embedding(text: str, model="text-embedding-3-small"):
     )
 
 
+async def get_embeddings(texts: list[str], model="text-embedding-3-small"):
+    responses = await asyncio.gather(
+        *[
+            asyncClient.embeddings.create(input=textBatch, model=model)
+            for textBatch in chunk_list(texts, 2048)
+        ]
+    )
+
+    result = []
+
+    for response in responses:
+        if not response.usage:
+            raise Exception("Error getting embeddings")
+        result += [
+            EmbeddingResponse(embedding.embedding, model, response.usage)
+            for embedding in response.data
+        ]
+
+    return result
+
+
 def batch_call(body: list):
     file = ""
     for i, item in enumerate(body):
@@ -103,17 +127,17 @@ def batch_call(body: list):
         file += stringify(item) + "\n"
 
     file_name = SRC_DIR + "temp/" + uuid4().hex + ".jsonl"
-    save_file(file_name, body)
+    save_file(file_name, file)
     batch_input_file = client.files.create(file=open(file_name, "rb"), purpose="batch")
     delete_file(file_name)
 
-    client.batches.create(
+    batch = client.batches.create(
         input_file_id=batch_input_file.id,
         endpoint="/v1/chat/completions",
         completion_window="24h",
     )
 
-    return batch_input_file.id
+    return batch.id
 
 
 def batch_gpt_call(
@@ -187,3 +211,39 @@ def get_batch_result(batch_id: str):
 
     output_file = client.files.retrieve(batch.output_file_id)
     return output_file.to_json()
+
+
+async def async_call_gpt(
+    prompt: str, model="gpt-4o-mini", system="", max_tokens: int | None = None
+):
+    messages = []
+    if system:
+        messages.append({"role": "system", "content": system})
+
+    messages.append({"role": "user", "content": prompt})
+
+    result = await asyncClient.chat.completions.create(
+        model=model,
+        messages=messages,
+        max_tokens=max_tokens,
+    )
+
+    if not result.choices[0].message.content or not result.usage:
+        raise Exception("Error calling GPT")
+
+    return GPTResponse(
+        result.choices[0].message.content,
+        result.model,
+        result.usage,
+    )
+
+
+def async_gpt_calls(
+    prompts: list[str], model="gpt-4o-mini", system="", max_tokens: int | None = None
+):
+    return asyncio.gather(
+        *[
+            async_call_gpt(prompt, model=model, system=system, max_tokens=max_tokens)
+            for prompt in prompts
+        ]
+    )

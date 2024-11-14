@@ -27,6 +27,7 @@ prices = {
     "gpt-4o": {"input": 2.5, "output": 10},
     "gpt-4o-mini": {"input": 0.15, "output": 0.6},
     "text-embedding-3-small": 0.02,
+    "text-embedding-3-large": 0.13,
 }
 
 DEFAULT_SYSTEM = ""
@@ -89,7 +90,7 @@ def call_gpt(
     )
 
 
-def get_embedding(text: str, model="text-embedding-3-small"):
+def get_embedding(text: str, model="text-embedding-3-large"):
     result = client.embeddings.create(
         input=text,
         model=model,
@@ -105,7 +106,7 @@ def get_embedding(text: str, model="text-embedding-3-small"):
     )
 
 
-async def get_embeddings(texts: list[str], model="text-embedding-3-small"):
+async def get_embeddings(texts: list[str], model="text-embedding-3-large"):
     responses = await asyncio.gather(
         *[
             asyncClient.embeddings.create(input=textBatch, model=model)
@@ -253,7 +254,7 @@ async def async_gpt_calls(
     system=DEFAULT_SYSTEM,
     max_tokens: int | None = None,
 ):
-    batches = chunk_list(prompts, 100)
+    batches = chunk_list(prompts, 100 if model == "gpt-4o-mini" else 20)
 
     results: list[GPTResponse] = []
 

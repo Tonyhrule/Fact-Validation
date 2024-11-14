@@ -3,6 +3,7 @@ import os
 from dotenv import load_dotenv
 from pinecone.grpc import PineconeGRPC as Pinecone
 from pinecone_plugins.inference import Inference
+from pinecone.core.openapi.data.model.query_response import QueryResponse
 from typing import Literal
 
 from helpers.data import chunk_list
@@ -27,26 +28,55 @@ index = pinecone.Index(host=PINECONE_HOST)
 def upsert_index(namespace: str, vectors: list[dict]):
     requests = [
         index.upsert(namespace=namespace, vectors=batch, async_req=True)
-        for batch in chunk_list(vectors, 300)
+        for batch in chunk_list(vectors, 100)
     ]
 
     return [request.result() for request in requests]  # type: ignore
 
 
-def embed(
+async def embed_small(
+    inputs: list[str],
+    model="multilingual-e5-small",
+    input_type: Literal["query", "passage"] = "passage",
+    truncate=False,
+):
+    return [
+        embedding["values"]
+        for embedding in inference.embed(
+            model=model,
+            inputs=inputs,
+            parameters={
+                "input_type": input_type,
+                "truncate": "END" if truncate else "NONE",
+            },
+        ).data
+    ]
+
+
+async def embed(
     inputs: list[str],
     model="multilingual-e5-large",
     input_type: Literal["query", "passage"] = "passage",
     truncate=False,
 ):
-    return inference.embed(
-        model=model,
-        inputs=inputs,
-        parameters={
-            "input_type": input_type,
-            "truncate": "END" if truncate else "NONE",
-        },
+    responses = await asyncio.gather(
+        *[
+            embed_small(
+                inputs=chunk,
+                model=model,
+                input_type=input_type,
+                truncate=truncate,
+            )
+            for chunk in chunk_list(inputs, 96)
+        ]
     )
+
+    result: list[list[float]] = []
+
+    for response in responses:
+        result += response
+
+    return result
 
 
 def query_index(
@@ -91,7 +121,7 @@ async def async_query_index(
 async def multiple_queries(
     queries: list[str],
     namespace: str,
-    top_k=5,
+    top_k=10,
     include_metadata=False,
     include_vector=False,
     min_score=0.0,
@@ -116,5 +146,5 @@ async def multiple_queries(
     return responses
 
 
-def content_from_query_result(result):
+def content_from_query_result(result: QueryResponse):
     return [match.metadata["content"] for match in result.matches]

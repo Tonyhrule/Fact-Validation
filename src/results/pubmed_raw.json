@@ -2,5001 +2,6001 @@
   {
     "pubid": 21645374,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16418930,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 9488747,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17208539,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 10808977,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23831910,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 26037986,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 26852225,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 17113061,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 10966337,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25432938,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18847643,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 18239988,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25957366,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 24866606,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26578404,
-    "decision": "Maybe",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 11729377,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 17096624,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22694248,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22990761,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19394934,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 11481599,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21669959,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23806388,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17919952,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 10966943,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 23690198,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 17940352,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 20537205,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 28707539,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 7482275,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 24183388,
     "decision": "No.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 9645785,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 26298839,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 24153338,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18534072,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 8847047,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 10575390,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 20084845,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 15703931,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 18269157,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25489696,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 14599616,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 22537902,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 19054501,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 16432652,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19504993,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20571467,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24237112,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21402341,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 20082356,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 26606599,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 11340218,
     "decision": "Maybe.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 25481573,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25277731,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 25475395,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23177368,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 17179167,
-    "decision": "Maybe.",
-    "correct": true
-  },
-  {
-    "pubid": 14612308,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
+    "pubid": 14612308,
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
+  },
+  {
     "pubid": 27491658,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 19822586,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27643961,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 23539689,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22453060,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 22227642,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 12380309,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 22186742,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 22188074,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27989969,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 18607272,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18235194,
     "decision": "No.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 18049437,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 15597845,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 24996865,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23361217,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17489316,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 14518645,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20337202,
     "decision": "Maybe",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 26449554,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 26215326,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 29112560,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 24315783,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 9381529,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 8985020,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26708803,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 22427593,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 11570976,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 19757704,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27592038,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 27044366,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 9792366,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17562682,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 15800018,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 14978612,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 18843057,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 23076787,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 9199905,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23999452,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22534881,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 24785562,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22564465,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 27456836,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27287237,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 14697414,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26686513,
-    "decision": "Maybe",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 15530261,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24160268,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 21823940,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 27217036,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 18565233,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 19694846,
     "decision": "No.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 27184293,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 19459018,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 22042121,
-    "decision": "Yes.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 16100194,
-    "decision": "Yes.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 25480629,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 17453263,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 18322741,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19106867,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 25691513,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 11035130,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 19409117,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21900017,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16968876,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 18540901,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27448572,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17621202,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 25987398,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 16816043,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 12920330,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 23497210,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 21952349,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 21712147,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 25311479,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 20602784,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12836106,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25588461,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 19299238,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 22706226,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 12913878,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16769333,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 22497340,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 10223070,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 8566975,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 25186850,
-    "decision": "Yes.",
-    "correct": true
+    "decision": "Maybe",
+    "correct_answer": "yes",
+    "correct": false
   },
   {
     "pubid": 9427037,
-    "decision": "Yes.",
-    "correct": true
+    "decision": "Maybe",
+    "correct_answer": "yes",
+    "correct": false
   },
   {
     "pubid": 28359277,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 11411430,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 16956164,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 15687156,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 28127977,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 16809243,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 17276182,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21123461,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22428608,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27858166,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23791827,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18243752,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 17279467,
     "decision": "Maybe.",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 22758782,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 15223725,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19482903,
     "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 25752912,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 21946341,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 16428354,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19302863,
     "decision": "Maybe.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 24245816,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24666444,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 19913785,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 1571683,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 15631914,
-    "decision": "Maybe",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 11970923,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20121683,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27281318,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12846929,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26505821,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "Yes",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 25156467,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22023714,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 16046584,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16155169,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 19398929,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 28143468,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 9483814,
-    "decision": "Maybe.",
+    "decision": "No",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 22720085,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 24748473,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 15588538,
     "decision": "Maybe.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 22211919,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 24433626,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 9542484,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 17008699,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 23228527,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 15489384,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 17444776,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 8422202,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 23794696,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 20549895,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 18714572,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 2224269,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 8910148,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 23899611,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 10548670,
     "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 26907557,
-    "decision": "Maybe",
-    "correct": false
-  },
-  {
-    "pubid": 20871246,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
-    "pubid": 22876568,
-    "decision": "Yes.",
+    "pubid": 20871246,
+    "decision": "No.",
+    "correct_answer": "maybe",
     "correct": false
+  },
+  {
+    "pubid": 22876568,
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 15280782,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 17502203,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 26370095,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 10354335,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26452334,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 15065192,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25488308,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 22449464,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 26222664,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22617083,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 9767546,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21214884,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 23321509,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16827975,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 18179827,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 14872327,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24809662,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 26485091,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 12805495,
     "decision": "Maybe.",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 19925761,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 11458136,
     "decision": "No.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 20382292,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22236315,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 17051586,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 25007420,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "Yes",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 26556589,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 12612531,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26194560,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 11079675,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 21459725,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 21172844,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24946973,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 17335331,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 27581329,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 11867487,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 12765819,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24507422,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 9854965,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21756515,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 19131405,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18568290,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 18667100,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 9191526,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 10605400,
     "decision": "Maybe.",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 17601244,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20608141,
-    "decision": "No.",
-    "correct": true
+    "decision": "Maybe",
+    "correct_answer": "no",
+    "correct": false
   },
   {
     "pubid": 25986020,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 15670262,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22900881,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 11413427,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 9602458,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 24434052,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 17598882,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21190419,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 16403186,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 11888773,
-    "decision": "Yes.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 25940336,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24014276,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18359123,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 26113007,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 11838307,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 18222909,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24747511,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12407608,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 19836806,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 17076091,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 21801416,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25819796,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 18496363,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 14551704,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23234860,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 22532370,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22656647,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22683044,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 11566686,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 15502995,
-    "decision": "Yes.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 24019262,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22867778,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 23348330,
-    "decision": "Maybe",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 21658267,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 28177278,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 18403944,
     "decision": "Maybe.",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 20363841,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 19664156,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 23356465,
-    "decision": "No",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 22972546,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 21850494,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 26778755,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 20187289,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 27615402,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 20297950,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 23735520,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 10759659,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25592625,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 12595848,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 20064872,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 23588461,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18019905,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 25859857,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 26418796,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22825590,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 18832500,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18955431,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 9550200,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 10135926,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 11296674,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 24139705,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 16253970,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 14745753,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 27078715,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 15939071,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 11926574,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 18594195,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25614468,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 19653482,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 11380492,
-    "decision": "Maybe",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 16296668,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 19520213,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 14992556,
     "decision": "Maybe.",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 19931500,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18378554,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 17306983,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26879871,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24336869,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 16962519,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 17704864,
-    "decision": "Maybe",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 18307476,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 15151701,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26399179,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21889895,
     "decision": "Maybe.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 21569408,
-    "decision": "Yes.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 23025584,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 23587089,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 15539888,
     "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 23096188,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21881325,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19542542,
     "decision": "No.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 16872243,
     "decision": "Maybe.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 15141797,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 25394614,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 10381996,
-    "decision": "No",
+    "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 26134053,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 25274085,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 12098035,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12963175,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 21865668,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16510651,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 24901580,
-    "decision": "Maybe",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 19468282,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 21481154,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 21398266,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25371231,
     "decision": "Maybe.",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 23252468,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 22440363,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 12068831,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 20530150,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 21618245,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26085176,
-    "decision": "Maybe",
+    "decision": "No",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 18158048,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 21256734,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 28027677,
-    "decision": "No",
+    "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 17595200,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 26548832,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 15879722,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27554179,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 15381614,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 22012962,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18948835,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18435678,
-    "decision": "Yes.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 19268855,
     "decision": "Maybe.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 12238307,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 20684175,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 27216167,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19852337,
-    "decision": "Maybe",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 22680064,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25417760,
-    "decision": "Different.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 22365295,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 15125825,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24652474,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 24947183,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25779009,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 17105833,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 27338535,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 27690714,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21346501,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24964725,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18708308,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 11759976,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 16319544,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 20674150,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 25336163,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 25887165,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 12947068,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16776337,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22668852,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 25251991,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 7497757,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 8262881,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 11943048,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20306735,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23414523,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 11882828,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24939676,
-    "decision": "Yes.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 17076590,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 21745056,
     "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 22979954,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 22955530,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18507507,
-    "decision": "Maybe",
+    "decision": "Maybe.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 17323047,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 24851767,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 12006913,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 8245806,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17691856,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 15222284,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25501465,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 16414216,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 19155657,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 27050489,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 24977765,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 19130332,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 23949294,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 18926458,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 10749257,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 17610439,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26859535,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 25446909,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17220021,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 10158597,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21198823,
-    "decision": "Yes.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 17259061,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18375490,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 24142776,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 18388848,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22251324,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 27896825,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22117569,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25787073,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 14631523,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 26717802,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 23810330,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19027440,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 24446763,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 9444542,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 23389866,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 19142546,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 9107172,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 9363244,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 10411439,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 21166749,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 27818079,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25982163,
-    "decision": "No.",
-    "correct": true
+    "decision": "Yes.",
+    "correct_answer": "no",
+    "correct": false
   },
   {
     "pubid": 20353735,
-    "decision": "No",
+    "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 24630333,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 27096199,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 22519710,
     "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 12040336,
     "decision": "Maybe.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 15918864,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23601294,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 21361755,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 9003088,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23337545,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 10490564,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23375036,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 11555508,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 16778275,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 27136599,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 27050505,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 18403945,
-    "decision": "Maybe",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 11149643,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 26200172,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18783922,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12684740,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25155638,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26820719,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 21080127,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 18086459,
-    "decision": "Yes.",
-    "correct": true
+    "decision": "No",
+    "correct_answer": "yes",
+    "correct": false
   },
   {
     "pubid": 11978239,
-    "decision": "Maybe",
-    "correct": false
-  },
-  {
-    "pubid": 10798511,
-    "decision": "Maybe.",
-    "correct": false
-  },
-  {
-    "pubid": 15477551,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
-    "pubid": 19327500,
-    "decision": "Maybe.",
+    "pubid": 10798511,
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
+  },
+  {
+    "pubid": 15477551,
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
+  },
+  {
+    "pubid": 19327500,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 24614789,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23283159,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16465002,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24191126,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25218577,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20488985,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 11567820,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 19100463,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12769830,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 10331115,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 17483607,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 28056802,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 11776681,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24922528,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 8200238,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 10593212,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 12630042,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 24519615,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 24267613,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 21074975,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19712912,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 12690589,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 10757151,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 15388567,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 10877371,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22324545,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19419587,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16909975,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 18799291,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 12163782,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16392897,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 19615731,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 18537964,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25747932,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17445978,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 19309468,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 25885219,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26348845,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12221908,
-    "decision": "Yes.",
-    "correct": true
+    "decision": "Maybe",
+    "correct_answer": "yes",
+    "correct": false
   },
   {
     "pubid": 21904069,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 14976655,
     "decision": "Maybe.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 22644412,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26419377,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23052500,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 26104852,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 9142039,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18399830,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 18575014,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 15223779,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24487044,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 12377809,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16195477,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16678696,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 18801797,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 12153648,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 12632437,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 10201555,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21342862,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26818046,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 18005142,
     "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 11481172,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19230985,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17295865,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17565137,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 18041059,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17274051,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 26460153,
     "decision": "Maybe.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 24061619,
-    "decision": "Maybe",
+    "decision": "Maybe.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 26867834,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22349635,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 15112004,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 15954832,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19640728,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 22154448,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 11146778,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 8199520,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 9100537,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 26518378,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 23774337,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 16151770,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26418441,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 20130378,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 11799314,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 20828836,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19608436,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 15995461,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23224030,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17910536,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12070552,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 18182265,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 15841770,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 8017535,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24172579,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 10781708,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 26561905,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17089900,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 26536001,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 19643525,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 26285789,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22266735,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 15052394,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 23264436,
     "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 22302658,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 17894828,
-    "decision": "Maybe.",
+    "decision": "No",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 18096128,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 12913347,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 24684514,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 24793469,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23360491,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 10340286,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 22954812,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 18274917,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 22350859,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 26237424,
-    "decision": "Yes.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 15041506,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25280365,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20813740,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20401819,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 7860319,
     "decision": "Maybe.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 25255719,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24352924,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 24973051,
-    "decision": "Maybe",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 20497146,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19401574,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23571528,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 25228241,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22348433,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20538207,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 10927144,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 20197761,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 21394762,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12442934,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 9347843,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 23072266,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12607666,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24074624,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 17224424,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16097998,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 25487603,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 20594006,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 26363639,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27405146,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 17192736,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 14652839,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 12145243,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25571931,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 19108857,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 25443385,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18719011,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 9044116,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 23621776,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 12970636,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 21084567,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19546588,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 19923859,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 18616781,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27991408,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 14655021,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 26175531,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 25168472,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 9446993,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 10473855,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 28006766,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 11833948,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27757987,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 16772913,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19575104,
-    "decision": "Yes.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 24449622,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 12095973,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 23761381,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 16971978,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 10375486,
-    "decision": "Yes.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 21558951,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 15528969,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17062225,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 14713788,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24374414,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20736887,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 22504515,
-    "decision": "Yes.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 10577397,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 15369037,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24073931,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 18472368,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23992109,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21164063,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 21951591,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18619710,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 18784527,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 15919266,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 2503176,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 22108230,
     "decision": "Maybe.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 20338971,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17276801,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20497880,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 23495128,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26701174,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24695920,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 15488260,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 15466981,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 18603989,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21789019,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 14692023,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25150098,
-    "decision": "Maybe.",
-    "correct": false
-  },
-  {
-    "pubid": 20337874,
-    "decision": "No.",
+    "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
-    "pubid": 19198736,
-    "decision": "Maybe.",
+    "pubid": 20337874,
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
+    "pubid": 19198736,
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
+  },
+  {
     "pubid": 22411435,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 16266387,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23792130,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17462393,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 21457946,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26383908,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 19481382,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 25699562,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17682349,
     "decision": "Maybe.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 18251357,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 20971618,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 19648304,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23222920,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21864397,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 26601554,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19322056,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22522271,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 9363529,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 15962678,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 7547656,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 24235894,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 17429333,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 19156007,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 9603166,
-    "decision": "No.",
-    "correct": true
+    "decision": "Maybe",
+    "correct_answer": "no",
+    "correct": false
   },
   {
     "pubid": 24298614,
-    "decision": "Maybe.",
+    "decision": "No",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 21849531,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 19854401,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 22237146,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25793749,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 15095519,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 25981682,
-    "decision": "Maybe.",
-    "correct": false
-  },
-  {
-    "pubid": 18284441,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
+    "pubid": 18284441,
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
+  },
+  {
     "pubid": 10173769,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 20354380,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 9616411,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22205377,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16241924,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 12484580,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24599411,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23860049,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 7664228,
-    "decision": "Maybe",
+    "decision": "Maybe.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 22233470,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 17971187,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 27394685,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 25079920,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 17355582,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20736672,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 12419743,
-    "decision": "Yes.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "yes",
+    "correct": false
   },
   {
     "pubid": 10973547,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 25499207,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26133538,
     "decision": "Maybe.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 26163474,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 14968373,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 24698298,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 23088164,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 24481006,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17032327,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 22658587,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 8916748,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16361634,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 25756710,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23916653,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12790890,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 23449952,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 10430303,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 20605051,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23048048,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16991071,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12090319,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 24614851,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17578985,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 26965932,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 15137012,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 21194998,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 15787677,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 24625433,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 25304452,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19711462,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 28196511,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 24591144,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 21431987,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 18928979,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25752725,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12855939,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 24476003,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 24606627,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23386371,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 10922093,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20602101,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 18065862,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 9569972,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 25406780,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20629769,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23149821,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 11483547,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 27884344,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 18800356,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 22301406,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26079501,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 15774570,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 18319270,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 26209118,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 11713724,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 25070942,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 19683101,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 10783841,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 11862129,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 23455575,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 21848798,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 25103647,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 19406119,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 24359102,
-    "decision": "Maybe",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 18802997,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 26304701,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 19058191,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27549226,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 24799031,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 25043083,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26516021,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23736032,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 17312514,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 23002947,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 23453079,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 15053041,
-    "decision": "Maybe",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 9465206,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 19593710,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 8521557,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 24340838,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24751724,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21368683,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27832831,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 15208005,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24958650,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16713745,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24669960,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 9278754,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 8738894,
-    "decision": "Maybe",
+    "decision": "Maybe.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 24671913,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22540518,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 16538201,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 17054994,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 26999038,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23598835,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 17890090,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22813804,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 26923375,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20304513,
-    "decision": "Yes.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 21689015,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 10811329,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 10834864,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 27909738,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 26063028,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 25034219,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 25521278,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27908583,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 23422012,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 11500608,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 8111516,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25604390,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25985014,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 14627582,
-    "decision": "Maybe.",
+    "decision": "Yes",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 18570208,
-    "decision": "Maybe.",
+    "decision": "No",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 23448747,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20156655,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 16147837,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16249670,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 24495711,
-    "decision": "No.",
-    "correct": false
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 20101129,
-    "decision": "Maybe",
-    "correct": true
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 17593459,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24577079,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 9582182,
     "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 17715311,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12094116,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 19430778,
     "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 12848629,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 10732884,
-    "decision": "No",
+    "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 23568387,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 25675614,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26864326,
     "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 26784147,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 20850631,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22849512,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 27642458,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 17403428,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 21252642,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 25503376,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12172698,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 19351635,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 17551944,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17606778,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 24318956,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 26044262,
-    "decision": "Yes.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 20011163,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 16735905,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 18670651,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 11034241,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 24013712,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23240452,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 21420186,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22302761,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21979183,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 12607120,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 21914194,
     "decision": "Maybe.",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 25725704,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 24516646,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 28247485,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 11334578,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 21593045,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 22902073,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 26471488,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 16647887,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 22668712,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 18439500,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 23347337,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22970993,
-    "decision": "Yes",
+    "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16498158,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 24622801,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 15000338,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 22491528,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 11247896,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 19145527,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 18568239,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22075911,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 10401824,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21880023,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 21726930,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22768311,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 25636371,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "maybe",
     "correct": true
   },
   {
     "pubid": 15050326,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23412195,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 16968183,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23359100,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 15943725,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 25735444,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 9722752,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 23870157,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22303473,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 24995509,
-    "decision": "No.",
+    "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 24270957,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23848044,
-    "decision": "Yes.",
-    "correct": true
+    "decision": "Maybe",
+    "correct_answer": "yes",
+    "correct": false
   },
   {
     "pubid": 9920954,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 21276532,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23379759,
     "decision": "Maybe.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 25891436,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 24450673,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 17914515,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 24739448,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 19444061,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 25669733,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20577124,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21592383,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 11053064,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 9745063,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 11138995,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 15475728,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 12121321,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 17342562,
-    "decision": "Maybe.",
-    "correct": false
-  },
-  {
-    "pubid": 28011794,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
-    "pubid": 24098953,
-    "decision": "Maybe.",
+    "pubid": 28011794,
+    "decision": "No",
+    "correct_answer": "maybe",
     "correct": false
+  },
+  {
+    "pubid": 24098953,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 24827404,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 28407529,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 27928673,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 22011946,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 23517744,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 20842006,
-    "decision": "Maybe.",
-    "correct": false
-  },
-  {
-    "pubid": 9140335,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
+    "pubid": 9140335,
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "correct": false
+  },
+  {
     "pubid": 12142826,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 22382608,
-    "decision": "Yes.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 17329379,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27288618,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 21873082,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 25810292,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21739621,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 20073599,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 21845457,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 16216859,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 19103915,
-    "decision": "Maybe.",
-    "correct": true
-  },
-  {
-    "pubid": 22521460,
-    "decision": "Maybe.",
+    "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
-    "pubid": 17062234,
+    "pubid": 22521460,
     "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
+  },
+  {
+    "pubid": 17062234,
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 26126304,
     "decision": "Yes.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 19578820,
-    "decision": "Maybe.",
-    "correct": true
+    "decision": "No",
+    "correct_answer": "maybe",
+    "correct": false
   },
   {
     "pubid": 21228436,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23972333,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23719685,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 11601252,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 23506394,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 19575307,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 11977907,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 12626177,
     "decision": "Yes.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 15483019,
-    "decision": "No.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 18693227,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 27131771,
-    "decision": "Maybe.",
+    "decision": "No.",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 24783217,
-    "decision": "Yes.",
-    "correct": true
+    "decision": "Maybe",
+    "correct_answer": "yes",
+    "correct": false
   },
   {
     "pubid": 17916877,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "yes",
     "correct": false
   },
   {
     "pubid": 8375607,
-    "decision": "Yes.",
+    "decision": "Yes",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 11955750,
     "decision": "Maybe.",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 27040842,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 17244100,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 15708048,
     "decision": "Yes.",
+    "correct_answer": "yes",
     "correct": true
   },
   {
     "pubid": 11438275,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 22513023,
     "decision": "No.",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 27146470,
     "decision": "No.",
+    "correct_answer": "maybe",
     "correct": false
   },
   {
     "pubid": 8165771,
-    "decision": "Yes",
-    "correct": true
+    "decision": "Maybe",
+    "correct_answer": "yes",
+    "correct": false
   },
   {
     "pubid": 23677366,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 19237087,
-    "decision": "Maybe.",
+    "decision": "Maybe",
+    "correct_answer": "no",
     "correct": false
   },
   {
     "pubid": 10456814,
-    "decision": "No.",
+    "decision": "No",
+    "correct_answer": "no",
     "correct": true
   },
   {
     "pubid": 8921484,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 16564683,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 23147106,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   },
   {
     "pubid": 21550158,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "correct": true
   },
   {
     "pubid": 17559449,
-    "decision": "Maybe.",
-    "correct": false
+    "decision": "No.",
+    "correct_answer": "no",
+    "correct": true
   }
 ]

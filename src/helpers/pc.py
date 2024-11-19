@@ -93,7 +93,7 @@ def query_index(
         vector=embedding.vector,
         top_k=top_k,
         include_metadata=include_metadata,
-        include_vector=include_vector,
+        include_values=include_vector,
     )
     response.matches = [match for match in response.matches if match.score >= min_score]
     return response

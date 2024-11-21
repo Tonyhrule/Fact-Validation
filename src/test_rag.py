@@ -12,7 +12,7 @@ if not isinstance(data, Dataset):
 
 print("Querying contexts...")
 
-contexts = asyncio.run(multiple_queries(data["question"], "pubmed_summarized"))
+contexts = asyncio.run(multiple_queries(data["question"], "pubmed_raw"))
 
 print("Mapping contexts...")
 
@@ -25,7 +25,6 @@ for context, pubid in zip(contexts, data["pubid"]):
         if str(pubid) in matches[i]:
             index = i
             break
-    print(pubid, matches, index)
     results.append(
         {
             "pubid": pubid,

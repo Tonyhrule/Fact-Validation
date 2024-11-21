@@ -1,8 +1,6 @@
 import asyncio
-from uuid import uuid4
 from datasets import load_dataset, Dataset
 
-from helpers.data import save_json
 from helpers.oai import get_embeddings
 from helpers.pc import upsert_index
 

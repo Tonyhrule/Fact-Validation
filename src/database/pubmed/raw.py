@@ -17,24 +17,12 @@ async def pubmed_raw():
 
     contexts = []
 
-    context_to_UUID = {}
-
     for context_obj in data["context"]:
-        for context in context_obj["contexts"]:
-            if context not in context_to_UUID:
-                context_to_UUID[context] = str(uuid4())
-                contexts.append(context)
+        contexts.append(" ".join(context_obj["contexts"]))
 
     print("Getting embeddings...")
 
     embeddings = await get_embeddings(contexts)
-
-    pubid_to_context_uuids = {}
-
-    for item in list(data):
-        pubid = str(item["pubid"])  # type: ignore
-        context_uuids = [context_to_UUID[context] for context in item["context"]["contexts"]]  # type: ignore
-        pubid_to_context_uuids[pubid] = context_uuids
 
     print("Upserting embeddings...")
 
@@ -42,16 +30,14 @@ async def pubmed_raw():
         "pubmed_raw",
         [
             {
-                "id": context_to_UUID[context],
+                "id": str(data["pubid"][i]),
                 "values": embedding.vector,
                 "metadata": {
                     "content": context,
                 },
             }
-            for embedding, context in zip(embeddings, contexts)
+            for i, (embedding, context) in enumerate(zip(embeddings, contexts))
         ],
     )
-
-    save_json("data/pubmed_raw_context_map.json", pubid_to_context_uuids)
 
     print("Done")

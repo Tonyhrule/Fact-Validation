@@ -1,5 +1,5 @@
 from datasets import load_dataset, Dataset
-from helpers.data import read_json, save_json
+from helpers.data import save_json
 from helpers.pc import multiple_queries
 import asyncio
 
@@ -12,32 +12,25 @@ if not isinstance(data, Dataset):
 
 print("Querying contexts...")
 
-contexts = asyncio.run(multiple_queries(data["question"], "pubmed_raw"))
-
-context_map = read_json("data/pubmed_raw_context_map.json")
+contexts = asyncio.run(multiple_queries(data["question"], "pubmed_summarized"))
 
 print("Mapping contexts...")
 
 results = []
 
 for context, pubid in zip(contexts, data["pubid"]):
-    context_ids = set(context_map[str(pubid)])
-    context = context["matches"]
-    missing_matches = len(context_ids)
-
-    for i in range(len(context_ids)):
-        if context[i]["id"] in context_ids:
-            missing_matches -= 1
-
+    matches = [x["id"] for x in context.matches]
+    index = 9
+    for i in range(10):
+        if str(pubid) in matches[i]:
+            index = i
+            break
+    print(pubid, matches, index)
     results.append(
         {
             "pubid": pubid,
-            "missing_matches": missing_matches,
-            "lowest_k": (
-                context[len(context_ids) - 1 + missing_matches]["score"]
-                if len(context) > len(context_ids) - 1 + missing_matches
-                else 0
-            ),
+            "missing_matches": index,
+            "lowest_k": context.matches[index]["score"],
         }
     )
 

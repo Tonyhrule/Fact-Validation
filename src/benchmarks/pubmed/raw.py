@@ -34,7 +34,7 @@ async def raw():
     print("Querying contexts...")
 
     contexts = await multiple_queries(
-        data["question"], "pubmed_raw", min_score=0.4, include_metadata=True  # type: ignore
+        data["question"], "pubmed_raw", min_score=0.55, include_metadata=True  # type: ignore
     )
 
     print("Running GPT...")

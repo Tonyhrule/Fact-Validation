@@ -5,3 +5,4 @@ ragas
 deepeval
 pinecone
 pinecone[grpc]
+scikit-learn

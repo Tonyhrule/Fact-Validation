@@ -4,7 +4,7 @@ import os
 from helpers.variables import SRC_DIR
 
 
-def stringify(data):
+def stringify(data: dict | list):
     return dumps(
         data,
         separators=(",", ":"),
@@ -12,33 +12,33 @@ def stringify(data):
     )
 
 
-def parse(data):
+def parse(data: str):
     return loads(data)
 
 
-def read_json(file):
-    with open(SRC_DIR + file, "r") as f:
+def read_json(path: str):
+    with open(SRC_DIR + path, "r") as f:
         return load(f)
 
 
-def save_json(file, data):
-    with open(SRC_DIR + file, "w") as f:
+def save_json(path: str, data: dict | list):
+    with open(SRC_DIR + path, "w") as f:
         dump(data, f, indent=2)
 
 
-def save_file(file, data):
-    with open(SRC_DIR + file, "w") as f:
+def save_file(path: str, data: str):
+    with open(SRC_DIR + path, "w") as f:
         f.write(data)
 
 
-def add_to_file(file, data):
-    with open(SRC_DIR + file, "a") as f:
+def add_to_file(path: str, data: str):
+    with open(SRC_DIR + path, "a") as f:
         f.write(data)
 
 
-def delete_file(file):
-    os.remove(SRC_DIR + file)
+def delete_file(path: str):
+    os.remove(SRC_DIR + path)
 
 
-def chunk_list(lst, chunk_size):
-    return [lst[i : i + chunk_size] for i in range(0, len(lst), chunk_size)]
+def chunk_list(list: list, chunk_size: int):
+    return [list[i : i + chunk_size] for i in range(0, len(list), chunk_size)]

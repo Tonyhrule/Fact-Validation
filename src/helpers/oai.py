@@ -1,4 +1,3 @@
-from unittest import result
 from openai import AsyncOpenAI, OpenAI
 from openai.types import CompletionUsage
 from openai.types.create_embedding_response import Usage
@@ -8,6 +7,7 @@ from uuid import uuid4
 import asyncio
 
 from helpers.data import add_to_file, chunk_list, delete_file, save_file, stringify
+from helpers.progress import Progress
 from helpers.variables import SRC_DIR
 
 load_dotenv()
@@ -225,6 +225,7 @@ async def async_call_gpt(
     model="gpt-4o-mini",
     system=DEFAULT_SYSTEM,
     max_tokens: int | None = None,
+    progress: Progress | None = None,
 ):
     messages = []
     if system:
@@ -240,6 +241,9 @@ async def async_call_gpt(
 
     if not result.choices[0].message.content or not result.usage:
         raise Exception("Error calling GPT")
+
+    if progress:
+        progress.increment()
 
     return GPTResponse(
         result.choices[0].message.content,
@@ -258,14 +262,22 @@ async def async_gpt_calls(
 
     results: list[GPTResponse] = []
 
+    p = Progress(len(prompts))
+
     for batch in batches:
         results += await asyncio.gather(
             *[
                 async_call_gpt(
-                    prompt, model=model, system=system, max_tokens=max_tokens
+                    prompt,
+                    model=model,
+                    system=system,
+                    max_tokens=max_tokens,
+                    progress=p,
                 )
                 for prompt in batch
             ]
         )
+
+    p.finish()
 
     return results

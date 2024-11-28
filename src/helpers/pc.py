@@ -8,6 +8,7 @@ from typing import Literal
 
 from helpers.data import chunk_list
 from helpers.oai import get_embedding, get_embeddings
+from helpers.progress import Progress
 
 load_dotenv()
 
@@ -106,6 +107,7 @@ async def async_query_index(
     include_metadata=False,
     include_vector=False,
     min_score=0.0,
+    progress: Progress | None = None,
 ):
     response = index.query(
         namespace=namespace,
@@ -115,6 +117,8 @@ async def async_query_index(
         include_vector=include_vector,
     )
     response.matches = [match for match in response.matches if match.score >= min_score]
+    if progress:
+        progress.increment()
     return response
 
 
@@ -127,6 +131,9 @@ async def multiple_queries(
     min_score=0.0,
 ):
     embeddings = await get_embeddings(queries)
+
+    p = Progress(len(embeddings))
+
     responses = await asyncio.gather(
         *[
             async_query_index(
@@ -135,6 +142,7 @@ async def multiple_queries(
                 top_k=top_k,
                 include_metadata=include_metadata,
                 include_vector=include_vector,
+                progress=p,
             )
             for embedding in embeddings
         ]
@@ -143,6 +151,9 @@ async def multiple_queries(
         response.matches = [
             match for match in response.matches if match.score >= min_score
         ]
+
+    p.finish()
+
     return responses
 
 

@@ -6,3 +6,4 @@ deepeval
 pinecone
 pinecone[grpc]
 scikit-learn
+tqdm

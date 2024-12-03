@@ -129,10 +129,11 @@ async def multiple_queries(
     include_metadata=False,
     include_vector=False,
     min_score=0.0,
+    progress: bool = False,
 ):
     embeddings = await get_embeddings(queries)
 
-    p = Progress(len(embeddings))
+    p = Progress(len(embeddings)) if progress else None
 
     responses = await asyncio.gather(
         *[
@@ -152,10 +153,10 @@ async def multiple_queries(
             match for match in response.matches if match.score >= min_score
         ]
 
-    p.finish()
+    p.finish() if p else None
 
     return responses
 
 
-def content_from_query_result(result: QueryResponse):
+def content_from_query_result(result: QueryResponse) -> list[str]:
     return [match.metadata["content"] for match in result.matches]

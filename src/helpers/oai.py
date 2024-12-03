@@ -257,12 +257,13 @@ async def async_gpt_calls(
     model="gpt-4o-mini",
     system=DEFAULT_SYSTEM,
     max_tokens: int | None = None,
+    progress_bar: bool = False,
 ):
     batches = chunk_list(prompts, 100 if model == "gpt-4o-mini" else 20)
 
     results: list[GPTResponse] = []
 
-    p = Progress(len(prompts))
+    p = Progress(len(prompts)) if progress_bar else None
 
     for batch in batches:
         results += await asyncio.gather(
@@ -278,6 +279,6 @@ async def async_gpt_calls(
             ]
         )
 
-    p.finish()
+    p.finish() if p else None
 
     return results

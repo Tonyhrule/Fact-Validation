@@ -1,0 +1,3712 @@
+[
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Programmed cell death (PCD) occurs in the cells of the lace plant, Aponogeton madagascariensis."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Mitochondrial dynamics are altered during programmed cell death (PCD) in the cells of the lace plant."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. CsA treatment affects mitochondrial dynamics in the leaves of the lace plant, Aponogeton madagascariensis."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "4. Perforation numbers in lace plant leaves are affected by CsA treatment."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Mitochondria are involved in the remodeling process during programmed cell death in plant cells."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. The lace plant has structures called areoles where programmed cell death occurs."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. Cells undergo changes in mitochondrial dynamics during PCD, which could influence the remodeling of leaves."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Snellen E acuity is generally higher than Landolt C acuity."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Differences in acuity between patients with amblyopia and healthy volunteers show similar trends."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The relationship between visual acuity measures and eye disorders is established."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Variations in acuity between Snellen E and Landolt C optotypes are minimal across groups."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Immersion in water can cause physiological reactions in infants."
+    },
+    {
+      "validity": 0.6,
+      "importance": 1.0,
+      "statement": "2. Infants can exhibit symptoms such as syncope during bathing."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. There is a recognized condition related to water exposure that can affect infants."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Histamine levels may influence symptoms in infants during or after exposure to water."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Infants may experience symptoms like pallor and hypotonia during or after bathing."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Dermographism can be a relevant symptom in both infants and their families."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "7. Symptoms associated with water exposure can persist in some infants even after extended periods without exposure."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "8. The term \"water-induced urticaria\" pertains to a recognized medical condition involving skin reactions prompted by water."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. The continence score is significantly better in the transabdominal (ABD) group compared to the transanal endorectal pull-through (TERPT) group."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. The stool pattern score is significantly better in the transanal endorectal pull-through (TERPT) group compared to the transabdominal (ABD) group."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The age at interview does not significantly affect the long-term scoring outcome between the transabdominal (ABD) and transanal endorectal pull-through (TERPT) groups."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The overall scores between the transanal endorectal pull-through (TERPT) and transabdominal (ABD) procedures are similar and not significant."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. The findings of the study indicate that the two surgical procedures (TERPT and ABD) have different long-term outcomes in specific scoring categories."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Telephone counseling promotes higher mammogram adherence compared to usual care."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Tailored print communications show lower mammogram adherence compared to usual care."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Telephone counseling is more effective than tailored print materials at keeping women on schedule for screening."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The methods used in the study are specifically tailored interventions for promoting mammography use."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. The study focuses on women aged 50 and older."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "6. Higher mammogram adherence is associated with more frequent screenings."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. Usual care does not involve enhanced or effective communication methods for promoting screenings."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "8. The effectiveness of interventions is measured by adherence rates to mammogram screenings among participants."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "9. Tailored print communications are less effective than telephone counseling in promoting mammography use."
+    },
+    {
+      "validity": 0.2,
+      "importance": 1.0,
+      "statement": "10. If both interventions (telephone counseling and tailored print communications) are not effective for increasing mammography use, then interventions that are tailored may not increase usage among HMO women."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Double-balloon enteroscopy (DBE) is effective in diagnosing gastrointestinal conditions."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. DBE is particularly effective in managing severe acute obscure gastrointestinal bleeding (OGIB)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. DBE procedures have a low incidence of major complications."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The findings from DBE correlate significantly with the findings from video-capsule endoscopy (VCE)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. DBE frequently employs electrocautery therapy."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "6. Female patients are well represented in the cohort undergoing DBE procedures."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Emergency laparotomy is a type of surgery performed in urgent situations."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "30-day mortality is defined as the rate of death within 30 days of surgery."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1-year mortality is defined as the rate of death within one year of surgery."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Older patients (defined as those over 70 years old) generally have different mortality rates compared to younger patients (defined as those under 70 years old)."
+    },
+    {
+      "validity": 0.0,
+      "importance": 1.0,
+      "statement": "The study indicates that emergency surgery has a higher risk of mortality compared to elective surgery."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Higher mortality rates in older patients suggest a need for improvement in surgical outcomes or care for this demographic."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Significant differences in mortality rates between age groups imply that age is a factor in surgical outcomes."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The findings of the study indicate significant factors related to sleep disorders in adults."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "Reporting heterogeneity can influence the severity of sleep problems."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Adjustment for confounding factors can change the significance of relationships in studies."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The CHOPIT model provides different insights compared to traditional models like the ordered probit model in analyzing sleep-related issues."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Consistent reporting is necessary for accurate assessments in health studies."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Age is a significant factor in determining the severity of sleep problems in adults."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The number of comorbidities is a significant factor in determining the severity of sleep problems."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Regular exercise is a significant factor in determining the severity of sleep problems."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Sex does not significantly contribute to the severity of sleep problems."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Genetic mutations causing low high-density lipoprotein (HDL) cholesterol levels do not increase carotid intima-media thickness (cIMT)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Low HDL cholesterol levels do not correlate with early atherosclerosis."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Carotid intima-media thickness (cIMT) measurements show minimal difference between cases with low HDL levels and controls."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Genetic factors related to low HDL cholesterol do not lead to increased carotid intima-media thickness."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Traditional associations of HDL cholesterol levels and coronary heart disease (CHD) do not apply to genetic HDL deficiencies."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Short stay wards in pediatric hospitals are effective."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Child patients in short stay wards have low rates of unscheduled visits post-discharge."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Parental satisfaction with short stay wards is high."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Short stay wards lead to substantial financial savings for hospitals."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Hospital efficiency increases with the use of short stay wards."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Demographic factors for admissions are similar between the two pediatric hospitals studied."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Chile enacted a traffic law reform during the years 2000-2012."
+    },
+    {
+      "validity": 0.7,
+      "importance": 1.0,
+      "statement": "2. The traffic law reform in Chile is associated with changes in traffic enforcement actions by police."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "3. Increased police enforcement is associated with a decrease in traffic fatalities and severe injuries."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The interaction between traffic tickets issued by police and traffic law reform has a measurable effect on traffic-related outcomes."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Traffic law reforms can influence the behavior and actions of police officers concerning enforcement of traffic regulations."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Traffic fatalities and severe injuries were significant outcomes observed in relation to the traffic law reform and police enforcement in Chile."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. The enforcement actions by police officers are relevant to understanding the effects of traffic law reforms."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "8. A significant association indicates that one factor (traffic law reform) is related to changes in another factor (police enforcement)."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Therapeutic anticoagulation is used to prevent blood clots."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Trauma patients can experience complications from therapeutic anticoagulation."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Certain patient factors, such as chronic obstructive pulmonary disease, are associated with anticoagulation complications in trauma patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The use of unfractionated heparin in trauma patients is associated with significant complications."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. A lower initial platelet count in trauma patients is associated with increased complications from therapeutic anticoagulation."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Patients receiving unfractionated heparin and those receiving fractionated heparin have different characteristics regarding complications."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. The presence of anticoagulation complications contributes to the overall safety assessment of therapeutic anticoagulation in trauma patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "8. The determination of safety in medical treatments often considers the presence of complications."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Nonalcoholic steatohepatitis (NASH) and alcoholic steatohepatitis (ASH) are distinct medical conditions."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. High-grade fibrosis is more common in ASH than in NASH."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. An AST/ALT ratio greater than 1 is more prevalent in ASH compared to NASH."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The mean corpuscular volume (MCV) is elevated in ASH patients but normal in NASH patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. The AST/ALT ratio serves as an independent predictor of high-grade fibrosis."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Age is an independent predictor of high-grade fibrosis."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. Laboratory parameters can aid in differentiating between NASH and ASH."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.0,
+      "statement": "8. Routine laboratory markers can be used to assess liver conditions."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.0,
+      "statement": "9. The significance of laboratory findings is relevant in the context of diagnosing liver diseases."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.0,
+      "statement": "10. Understanding the differences between NASH and ASH is important for diagnosis and treatment."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Automated prompts can influence primary care physicians' (PCPs) responses during patient visits."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. The study shows that PCP responses to family history prompts are significant."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Documenting family history risk status in problem summaries is not significant."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Patient screening interventions for diseases are not significant."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "5. The effectiveness of prompts regarding patient risk from family history is being evaluated."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Emergency ultrasound (EUS) fellowships exist."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "EUS fellowships enhance the number of ultrasound (US) scans performed by emergency medicine (EM) residents."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "EUS fellowships improve bedside US applications for EM residents."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "EUS fellowships influence barriers to US education for EM residents."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Emergency medicine (EM) residents participate in ultrasound education."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The ultrasound education of EM residents is impacted by additional training or fellowships."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The impact of EUS fellowships on EM residents' education is significant."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Emergency ultrasound (EUS) fellowships are related to the education of emergency medicine (EM) residents."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Opioid PCT is used to manage breathlessness in patients with advanced diseases."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Patient-controlled therapy (PCT) allows patients to administer their own medication."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Patients in advanced diseases experience high severity of breathlessness."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "PCT with opioids has been demonstrated to reduce breathlessness severity."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Patients generally accept the use of opioids in PCT for managing breathlessness."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.0,
+      "statement": "Physiological parameters do not significantly worsen during the administration of opioid PCT."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "There is a demand for liver transplants in children."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Living-related liver transplantation is a viable option for children requiring a liver transplant."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "There are cases where children have liver diseases that require transplantation."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Liver transplantation can be performed using a living donor."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Children are eligible candidates for liver transplantation."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "There are limitations and challenges in finding deceased liver donors for children."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "Living-related liver transplantation can provide a better outcome than waiting for a deceased donor."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The need for liver transplantation in children persists despite advancements in medical care."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Living-related liver transplantation can be necessary in urgent medical situations."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The overall success rate of living-related liver transplants is generally high."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Unvaccinated seniors aged over 65 can be categorized into distinct clusters based on their knowledge and attitudes towards influenza vaccination."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. There are at least four distinct clusters of attitudes and knowledge among unvaccinated seniors aged over 65."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The clusters identified include Potentials, Fearful Uninformeds, Misinformeds, and Doubters."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The Potentials cluster has a higher likelihood of receiving the influenza vaccine compared to the Fearful Uninformeds cluster."
+    },
+    {
+      "validity": 0.0,
+      "importance": 1.0,
+      "statement": "5. The Misinformeds cluster has a higher likelihood of receiving the influenza vaccine compared to the Fearful Uninformeds cluster."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. The Potentials cluster has a higher likelihood of receiving the influenza vaccine compared to the Doubters cluster."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. The Misinformeds cluster has a higher likelihood of receiving the influenza vaccine compared to the Doubters cluster."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. A training model for retroperitoneoscopic nephrectomy exists."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. The study involved the use of a porcine model for the training."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Group A and Group B were part of a comparative study on retroperitoneoscopic nephrectomy."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Group A had significantly more peritoneal openings than Group B."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Group B had significantly reduced operative time compared to Group A."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Group B experienced significantly less blood loss than Group A."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. The learning curve for performing retroperitoneoscopic nephrectomy was identified as important after eight cases."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.9,
+      "statement": "8. The training model is effective for teaching and practicing retroperitoneoscopic nephrectomy."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.7,
+      "statement": "9. Surgical techniques can be improved through training models."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.8,
+      "statement": "10. Significant statistical differences were observed in various aspects between Group A and Group B."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Elevated resting heart rate (RHR) is a cardiovascular risk factor."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. The study found a significant association between RHR and age in the population being studied."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The study found a significant association between RHR and waist circumference in the population being studied."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The study found a significant association between RHR and blood pressure in the population being studied."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Individuals with elevated RHR have a higher risk of casual high blood pressure compared to those with normal RHR."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. The population studied consists of rural adults in West Africa."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Large-scale urban attacks can result in multiple casualties arriving at hospitals."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Hospital multiple casualty incidents (HMCIs) require effective hospital readiness."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The management of casualties in HMCIs is influenced by hospital readiness guidelines."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Some casualties in HMCIs do not need immediate medical attention."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Trauma centers must prioritize immediate medical treatment for gravely wounded patients during HMCIs."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. The surge capacity of a hospital refers to its ability to handle an unexpected increase in patient volume."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. Injury severity distribution refers to the classification of casualties based on the seriousness of their injuries."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "8. The ability to predict surge capacity is important for effective hospital response to HMCIs."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "9. The distribution of injury severity affects hospital resource allocation during HMCIs."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "10. Prior triage systems can impact the outcomes for patients in HMCIs."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Acute respiratory distress syndrome (ARDS) can occur in children with hemato-oncology malignancies."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Mechanical ventilation is used for children with ARDS."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "3. Outcome prediction is possible in clinical studies involving ARDS."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Respiratory predictors can indicate outcomes in patients with ARDS."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Significant relationships exist between respiratory data and patient outcomes in ARDS cases."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Certain respiratory parameters, such as peak inspiratory pressure and positive end-expiratory pressure (PEEP), can influence outcomes in children with ARDS."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. The study examines a cohort of children with hemato-oncology malignancies and ARDS requiring mechanical ventilation."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "8. The study findings support the assertion that outcomes can be predicted based on respiratory data."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Secondhand smoke exposure can negatively impact infants' health."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "High-risk infants, such as those discharged from an NICU, are particularly vulnerable to health risks."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Families with lower socioeconomic status are less likely to implement smoking bans."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "African American and Caucasian families are less likely to have smoking bans compared to Hispanic families."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Mothers without smoking bans often experience higher levels of depression."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Health disparities exist among different racial and socioeconomic groups in relation to smoking bans."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Smoking in the household can contribute to health problems in infants."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "There are significant health risks associated with secondhand smoke exposure for infants."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The presence of a smoking ban can mitigate the health risks of secondhand smoke for infants."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Discharging an infant from an NICU does not eliminate risks associated with secondhand smoke exposure."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Nomograms are tools used to predict outcomes in medical contexts, specifically for prostate cancer."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Postoperative nomograms can predict prostate cancer-specific mortality (PCSM)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Postoperative nomograms can predict aggressive biochemical recurrence (BCR)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The effectiveness of a nomogram is measured by its accuracy in predicting clinically relevant outcomes."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Prognostic measures can vary in their predictive accuracy for different outcomes related to prostate cancer."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. A significant improvement in prediction indicates that one measure is more effective than another."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. The nomograms mentioned have been shown to predict aggressive BCR significantly better than standard BCR prediction methods."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "8. The nomograms mentioned have been shown to predict PCSM significantly better than standard BCR prediction methods."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "9. Outcomes like PCSM and aggressive BCR are considered clinically relevant in the context of prostate cancer."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "10. The statement that \"nomograms designed to predict biochemical recurrence (BCR) do a better job of predicting more clinically relevant prostate cancer outcomes than BCR\" implies the nomograms outperform standard BCR measures for those relevant outcomes."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Teeth grinding is a mechanical factor associated with chronic oro-facial pain."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Facial trauma is a mechanical factor associated with chronic oro-facial pain."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Mechanical factors can influence the development of chronic oro-facial pain."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "Chronic oro-facial pain can occur independently of psychological influences."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Somatisation refers to the manifestation of psychological distress as physical symptoms."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Reports of mechanical dysfunction can be classified as physical symptoms."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The study highlights significant associations between mechanical factors and chronic oro-facial pain."
+    },
+    {
+      "validity": 0.0,
+      "importance": 1.0,
+      "statement": "Somatisation is not influenced by mechanical factors like teeth grinding and facial trauma."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Chronic oro-facial pain encompasses various syndromes beyond mechanical dysfunction."
+    },
+    {
+      "validity": 0.2,
+      "importance": 1.0,
+      "statement": "The presence of mechanical dysfunction does not imply a relationship with somatisation."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Amblyopia is a condition that affects vision."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Visual loss can be temporary."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Amblyopia can be treated."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Treatments for amblyopia may restore vision."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Permanent visual loss can occur from various conditions."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Not all visual loss is permanent."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Epidural analgesia can provide pain relief during childbirth."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Patient satisfaction levels with epidural analgesia can vary among women."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "3. The effectiveness of epidural analgesia can differ based on individual patient characteristics."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "4. There are factors that may influence the reachability of effective analgesia in all women."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "5. Studies can evaluate the safety and effectiveness of medical interventions like epidural analgesia."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Not all women may respond to pain relief methods in the same way."
+    },
+    {
+      "validity": 0.8,
+      "importance": 0.5,
+      "statement": "7. The implementation of medical treatments can have varying rates of success across different populations."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "HER2 immunoreactivity is a factor that can influence clinical outcomes in patients with locally advanced urothelial carcinoma."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Adjuvant M-VEC is a type of chemotherapy used for treating locally advanced urothelial carcinoma."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "HER2 immunoreactivity is significantly associated with progression-free survival in patients receiving adjuvant M-VEC."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "HER2 immunoreactivity significantly influences disease-specific overall survival in patients receiving adjuvant M-VEC."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.0,
+      "statement": "Nodal status is a significant prognostic indicator for clinical outcomes in urothelial carcinoma patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.0,
+      "statement": "HER2 immunoreactivity does not provide prognostic information in patients who underwent watchful waiting for locally advanced urothelial carcinoma."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Halofantrine is an antimalarial drug."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Halofantrine therapeutic doses lead to notable inner ear damage."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Halofantrine double therapeutic doses cause severe inner ear damage."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The control group exhibits no ear damage."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Inner ear damage can be classified as ototoxicity."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Ototoxicity refers to damage inflicted on the inner ear by substances."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Halofantrine has been tested in guinea pigs."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The effects of halofantrine on hearing were observed in a study."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The term \"ototoxic\" applies to substances that cause damage to the inner ear."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Visceral adipose tissue (VAT) can be measured at different CT slice locations."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. The VAT area at the L3 location is a valid representation of VAT volume."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The measurement of VAT area is strongly correlated with VAT volume at the L3 location."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. There exists a significant relationship between VAT area at the L3 location and changes in body weight."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Changes in body weight can be reflected by measurements of VAT at the L3 location."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Hyperbaric oxygenation (HBO) is a treatment option for necrotizing fasciitis (NF)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Patients who received hyperbaric oxygenation (HBO) had a higher number of surgical d\u00e9bridements."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The mortality rate for patients receiving hyperbaric oxygenation (HBO) was higher compared to those who did not receive HBO."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The average length of hospitalization for survivors in the HBO group was shorter than in the non-HBO group, but this difference was not significant."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "5. The effectiveness of hyperbaric oxygenation (HBO) for treating necrotizing fasciitis (NF) is questioned due to the findings."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. The outcomes of HBO treatment for necrotizing fasciitis (NF) include a higher mortality rate and a significant number of surgical d\u00e9bridements."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. The treatment of necrotizing fasciitis (NF) can lead to considerations regarding the use of hyperbaric oxygenation (HBO)."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. The presence of the Hawkins sign is associated with a significant occurrence of avascular necrosis in talar neck fractures."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Fracture displacement does not significantly influence the occurrence of avascular necrosis in talar neck fractures."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Soft tissue injury does not significantly influence the occurrence of avascular necrosis in talar neck fractures."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Delay in treatment does not significantly influence the occurrence of avascular necrosis in talar neck fractures."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Avascular necrosis can occur in patients with talar neck fractures."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Students in clerkships without a mandatory general surgery rotation performed equally well on examinations."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The absence of a mandatory general surgery rotation did not lead to concerns among students."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Student satisfaction levels were similar regardless of whether a general surgery rotation was included."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Mandatory general surgery rotation is not essential for achieving similar performance outcomes in examinations among students."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Mandatory general surgery rotation is not necessary to ensure student satisfaction in surgical clerkships."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Acupuncture can be assessed for its effectiveness in treating phonotraumatic vocal pathologies."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. There are varying groups in the study: a genuine acupuncture group, a sham acupuncture group, and a no-treatment group."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The genuine acupuncture group shows significant improvement in vocal function compared to the no-treatment group."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The sham acupuncture group shows significant improvement in vocal function compared to the no-treatment group."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Structural improvement in lesion size occurs significantly only in the genuine acupuncture group."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Both acupuncture groups (genuine and sham) report significant improvements in perceived quality of life compared to the no-treatment group."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "7. Significant improvements in vocal function are indicators of acupuncture's efficacy in treating vocal pathologies."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "8. The study's findings imply that acupuncture has a positive effect on individuals with phonotraumatic vocal pathologies."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Elderly patients (80+) can experience aneurysmal subarachnoid hemorrhage (aSAH)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Surgical treatment can be performed on elderly patients with aSAH."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Clinical outcomes can be assessed after treatment for aSAH."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Surgical treatment leads to better clinical outcomes in elderly aSAH patients compared to conservative treatment."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Conservative treatment exists as a management option for aSAH patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "6. The World Federation of Neurosurgical Societies (WFNS) grading system is used to evaluate the severity of aSAH at admission."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "7. The modified Rankin Scale is used to assess the premorbid functional status of patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "8. The comparison of treatment outcomes is relevant for determining the justification of aneurysm repair."
+    }
+  ],
+  [
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "1. The use of web-based clinical information systems can be influenced by general practice characteristics."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. The number of diabetes-educated staff in a practice is a characteristic that could affect the use of a web-based clinical information system."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The presence of diabetes-educated staff leads to increased use of the web-based clinical information system by nurses."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The presence of diabetes-educated staff leads to increased use of the web-based clinical information system by general practitioners (GPs)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Not all characteristics of general practices have a significant impact on the use of web-based clinical information systems."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Some characteristics, such as total list size, training status, mean age of GPs, numbers of female GPs, and level of deprivation, do not significantly influence the online use of the system."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Well-differentiated hepatocellular carcinoma (w-d HCC) is a type of cancer."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Less differentiated hepatocellular carcinoma (l-d HCC) is also a type of cancer."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Hepatocellular carcinoma (HCC) can be classified as well-differentiated or less differentiated."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Well-differentiated hepatocellular carcinoma (w-d HCC) is associated with lower incidences of fibrous capsule formation compared to less differentiated hepatocellular carcinoma (l-d HCC)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "There are no significant differences in intrahepatic metastasis between well-differentiated and less differentiated hepatocellular carcinoma (HCC)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "There are no significant differences in portal vein invasion between well-differentiated and less differentiated hepatocellular carcinoma (HCC)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "There are no significant differences in disease-free survival between well-differentiated and less differentiated hepatocellular carcinoma (HCC)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Minute cancerous foci are often present at the time of operation in cases of hepatocellular carcinoma (HCC)."
+    },
+    {
+      "validity": 0.7,
+      "importance": 1.0,
+      "statement": "The prognosis of cancer typically influences the classification of the cancer as early or advanced."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "A classification of \"clinically early cancer\" generally implies better prognostic factors or lower severity."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "The response to the question indicates that well-differentiated hepatocellular carcinoma (w-d HCC) does not fit the criteria for being classified as clinically early cancer."
+    }
+  ],
+  [
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "1. Adherence to follow-up recommendations for abnormal Pap smears influences patient adherence."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Women who receive follow-up recommendations have a defined set of options for follow-up care (e.g., colposcopy, repeated Pap smear)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Increased patient reminders positively affect adherence to follow-up recommendations for abnormal Pap smears."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Women without insurance are less likely to adhere to follow-up recommendations for abnormal Pap smears."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Certain clinics may negatively impact adherence to follow-up recommendations for abnormal Pap smears."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Real-time PCR can be used to detect airborne pollen."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The detection of airborne pollen can benefit allergic patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Improving detection accuracy of airborne pollen is significant for effective monitoring."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "A modified DNA extraction protocol can enhance the quality of pollen DNA."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Taxon-specific primers and probes can identify different pollen taxa effectively."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Quantification assays on pollen grains can provide significant results in detecting pollen levels."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Positron emission tomography (PET) is used for diagnosing cervical cancer."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Magnetic resonance imaging (MRI) and computed tomography (CT) are also used for diagnosing cervical cancer."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Patients with diabetes mellitus (DM) can be classified into groups based on their glucose levels: hyperglycaemic DM, euglycaemic DM, and non-DM."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. PET is more effective than MRI and CT at detecting metastatic lesions in patients with diabetes mellitus."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. The effectiveness of PET in detecting metastatic lesions does not depend on the patient's diabetes mellitus status."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. The effectiveness of PET in detecting primary tumours or local recurrence does not depend on the patient's diabetes mellitus status."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "7. The effectiveness of PET does not significantly differ between hyperglycaemic DM, euglycaemic DM, and non-DM groups for either metastatic lesions or primary tumours/local recurrence."
+    },
+    {
+      "validity": 0.4,
+      "importance": 1.0,
+      "statement": "8. The statement \"diabetes mellitus influences the efficacy of FDG-PET in the diagnosis of cervical cancer\" implies that there is a significant difference in PET effectiveness based on DM status."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Advanced Surface Ablation (ASA) and Sub-Bowman's Keratomileusis (SBK) are both types of excimer laser keratorefractive surgeries."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "2. The biomechanical properties of human corneas differ after ASA and SBK procedures."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Wound healing characteristics of human corneas can vary between ASA and SBK procedures."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. There are both benefits and risks associated with all types of excimer laser keratorefractive surgeries."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "5. PRK and ASA are associated with a lower risk of keratectasia compared to LASIK."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "6. Corneal healing speed is influenced by the alignment of collagen fibrils."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "7. Cohesive tensile strength of corneas varies based on different corneal regions."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "8. All keratorefractive surgery techniques face challenges in wound healing."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "9. ASA reduces the risk of corneal haze but can still lead to complications."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "10. SBK, like LASIK, can potentially lead to interface wound complications."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Radiotherapy increases the need for more radical exenterations in patients with primary rectal cancer."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Radiotherapy decreases the rates of clear resection margins in patients with rectal cancer."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Radiotherapy elevates the rates of surgical complications in patients undergoing surgery for rectal cancer."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Radiotherapy lowers disease-free survival rates in patients with rectal cancer."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Patients with clear margins and prior radiotherapy have decreased overall survival rates."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Complete response to chemoradiotherapy is correlated with lower subsequent surgery rates."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "Local recurrence is associated with a complete response among patients who received chemoradiotherapy."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Overall survival in rectal cancer patients is negatively affected by lymph node metastases."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Overall survival in rectal cancer patients is negatively affected by perineural invasion."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Preoperative chemoradiotherapy reduces CRM positivity in rectal cancer patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "CRM positivity increases with affected anterior margins when no chemoradiotherapy is used."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Partial prostatectomy after chemoradiotherapy leads to a free anterior CRM."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Intra-operative urethral damage occurs significantly during partial prostatectomy."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Postoperative urinary fistula rates are significantly related to urethral damage after partial prostatectomy."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Changes in arm circumference correlate positively with lymphedema diagnosis."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. A 10% increase in arm circumference at two sites has a moderate detection rate for lymphedema."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. A 10% increase in arm circumference at any site shows a higher detection rate for lymphedema."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. A 5% increase in arm circumference at any site yields the highest sensitivity for lymphedema detection."
+    },
+    {
+      "validity": 0.7,
+      "importance": 1.0,
+      "statement": "5. A practicing surgeon may not be equipped with the most effective methods for early lymphedema detection."
+    },
+    {
+      "validity": 0.7,
+      "importance": 1.0,
+      "statement": "6. The effectiveness of arm circumference changes is limited compared to limb volume changes for lymphedema detection."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "7. Detecting early lymphedema is important for patient outcomes in breast cancer survivors."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Global management (GM) strategies do not lead to improved overall survival rates in patients with colorectal cancer and synchronous liver metastases compared to separate management (SM) strategies."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Disease-free survival (DFS) for patients managed with separate management (SM) strategies is higher compared to those managed with global management (GM) strategies."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. There is no significant difference in three-month mortality rates between patients treated with global management (GM) and those treated with separate management (SM)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The effectiveness of treatment management strategies in colorectal cancer with synchronous liver metastases can be assessed through measures such as overall survival (OS) and disease-free survival (DFS)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Colorectal cancer patients with synchronous liver metastases can be treated with either global management (GM) or separate management (SM) approaches."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Overall survival rates for colorectal cancer patients with synchronous liver metastases treated with global management (GM) strategies are not significantly better than those treated with separate management (SM) strategies."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Schizophrenia patients exhibit motion perception deficits."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Eye-tracking abilities in schizophrenia patients are not correlated with speed discrimination performance."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Control subjects show a correlation between eye-tracking abilities and speed discrimination performance."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Schizophrenia patients have higher speed discrimination thresholds compared to control subjects."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. The frequency of eye tracking during speed discrimination does not affect overall eye-tracking performance in either group."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The procedure discussed involves per-oral transgastric splenectomy."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The study mentioned was conducted on pigs."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The procedure was performed using a flexible endoscope."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The procedure was deemed successful without significant complications."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The visualization of the spleen during the procedure was very good."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Effective ligation of the splenic vessels was achieved during the procedure."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Mobilization of the spleen was carried out using available devices."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The study suggests that per-oral transgastric splenectomy is feasible."
+    },
+    {
+      "validity": 0.7,
+      "importance": 1.0,
+      "statement": "The successful outcome of the study implies that the procedure could be possible in other contexts."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Fournier's gangrene is a severe soft tissue infection."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Fournier's gangrene can lead to morbidity and mortality."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Higher leukocyte counts are associated with lower mortality in Fournier's gangrene patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Older age is associated with higher mortality in Fournier's gangrene patients."
+    },
+    {
+      "validity": 0.0,
+      "importance": 1.0,
+      "statement": "Longer hospital stays are associated with higher mortality in Fournier's gangrene patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Mortality is a significant outcome when assessing the severity of Fournier's gangrene."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Patients with Fournier's gangrene can be at risk of death."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The presence of severe infections like Fournier's gangrene poses a danger to patients."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Kidneys from elderly donors are often transplanted into elderly recipients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Younger recipients of kidneys from elderly donors have significantly higher creatinine levels than younger recipients of kidneys from younger donors."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. There are no significant differences in patient or graft outcomes when comparing kidneys from elderly donors to kidneys from younger donors."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The survival rates of recipients do not significantly differ between those receiving kidneys from elderly donors and those receiving kidneys from younger donors."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. The graft survival rates do not significantly differ between those receiving kidneys from elderly donors and those receiving kidneys from younger donors."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "6. The decision to implant kidneys from elderly donors into younger recipients may involve considerations of patient outcomes and longevity."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Provider service networks (PSNs) are a type of managed care arrangement in Florida's Medicaid program."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Health maintenance organizations (HMOs) are also a type of managed care arrangement in Florida's Medicaid program."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The comparison between provider service networks (PSNs) and health maintenance organizations (HMOs) is relevant to expenditures in Florida's Medicaid program."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Expenditures can be measured and compared between different types of managed care arrangements in Medicaid."
+    },
+    {
+      "validity": 0.7,
+      "importance": 1.0,
+      "statement": "5. Lower expenditures in Medicaid imply cost-effectiveness in the delivery of health services."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. The Medicaid Demonstration has demonstrated significant differences in expenditures."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. Higher expenditures in HMOs compared to PSNs have been observed in the context of the Medicaid Demonstration."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "8. The term \"expenditures\" refers to the monthly per-member-per-month (PMPM) costs incurred in the Medicaid program."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Extracranial internal carotid artery stenosis can increase the risk of perioperative stroke in patients undergoing coronary artery bypass surgery."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Preoperative carotid screening methods can identify patients with significant carotid artery stenosis."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Patients with significant carotid artery stenosis are at a higher risk for perioperative complications, including stroke."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Not assessing carotid artery stenosis may result in undetected risk factors for stroke in patients undergoing coronary artery bypass surgery."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. There are identifiable risk factors, such as PVD, carotid bruit, and diabetes mellitus, that can indicate significant carotid stenosis."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. The prevalence of carotid stenosis is higher in high-risk groups compared to low-risk groups."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. All patients who experience perioperative strokes are classified in a high-risk group based on their carotid artery condition."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "8. Preoperative identification of significant carotid stenosis can guide clinical decision-making for coronary artery bypass surgery."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Direct mesocolon invasion is a characteristic of some gastric cancers."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. The UICC currently does not recognize mesocolon invasion in the staging of gastric cancer."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The mesocolon invasion group has a worse curability rate compared to the T3 group."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The mesocolon invasion group has a higher incidence of nodal metastasis than the T3 group."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Patients with mesocolon invasion have better survival rates after curative resection compared to those with incurable factors."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Staging of cancer is important for determining treatment strategies and predicting outcomes."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. T4 designation in cancer staging typically includes advanced local invasion."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "8. Including direct mesocolon invasion in T4 staging would reflect its clinical significance in gastric cancer."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Heterotopic ossification (HO) can occur after surgery for acetabular fractures."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "2. Surrogates of injury severity are factors that might influence the occurrence of heterotopic ossification."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Previous studies have shown that age, gender, mechanism of injury, injury severity score, and related patient factors do not significantly correlate with the development of HO after acetabular fractures."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The development of HO is influenced by other factors such as length of stay in ICU and prophylactic treatments."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. The response \"No\" implies that surrogates of injury severity do not have a significant influence on HO occurrence in acetabular fractures."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Statin treatment is associated with both benefits and risks regarding stroke patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Statin treatment reduces the risk of stroke."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Statin treatment is associated with more unfavorable prognostic factors."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Statin treatment is not a statistically significant predictor of early discharge for stroke patients."
+    },
+    {
+      "validity": 0.7,
+      "importance": 1.0,
+      "statement": "5. The overall impact of statin treatment on clinical outcomes in stroke patients can be negative despite some potential benefits."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Statin treatment does not guarantee improved clinical outcomes after a stroke."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Variations in the title and font of participant information sheets can influence perceptions of interventions."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Pregnant women perceive the complexity of participant information sheets differently based on the title and font used."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The Double Awkward condition is perceived as more complex than the Double Fluent condition by pregnant women."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The Double Awkward condition is perceived as more complex than the Awkward Title-Fluent Font condition by pregnant women."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "5. The perception of complexity can affect recruitment and participation in an antenatal intervention."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Processing fluency refers to the ease of information processing which can be influenced by content and presentation."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Sternal fractures in children are uncommon injuries."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Significant accident mechanisms often lead to sternal fractures."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Radiological criteria are used to diagnose sternal fractures."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Sonographical criteria assist in assessing sternal injuries."
+    },
+    {
+      "validity": 0.4,
+      "importance": 0.0,
+      "statement": "5. Associated injuries are often present with sternal fractures in children."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Sexual desire in women can be influenced by androgens."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. The study measured levels of total testosterone (TT), free testosterone (FT), androstenedione, dehydroepiandrosterone sulfate (DHEAS), and androsterone glucuronide (ADT-G) in women."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. In women aged 25-44 without hormonal contraception, there is a significant correlation between sexual desire and total testosterone (TT), free testosterone (FT), androstenedione, and dehydroepiandrosterone sulfate (DHEAS)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. In women aged 45-65, there is a significant correlation between androstenedione and sexual desire."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. There is no significant correlation between androsterone glucuronide (ADT-G) and sexual desire."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Sexual desire correlates with free testosterone (FT) and androstenedione in all women."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Immediate breast reconstruction (IBR) does not delay the initiation of adjuvant chemotherapy."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. There is no significant difference in the median time to chemotherapy between immediate breast reconstruction and mastectomy alone."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Adjuvant chemotherapy can be delivered effectively regardless of whether a patient undergoes immediate breast reconstruction."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Patients who choose immediate breast reconstruction can still start adjuvant chemotherapy at the appropriate time."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "5. Immediate breast reconstruction is a common choice among younger patients and those with lower BMI and better prognoses."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "HPV is found in some cases of pterygium."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Normal conjunctival biopsies do not show HPV presence."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Pterygium cases with HPV type 6 are not DNA ISH positive."
+    },
+    {
+      "validity": 0.9,
+      "importance": 1.0,
+      "statement": "The presence of HPV in pterygium does not imply it is a risk factor for the disease."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Pterygium can occur in the absence of HPV."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "There is no definitive evidence linking HPV directly to the development of pterygium."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The Pediatric Risk of Mortality (PRISM) score is a tool used to assess the risk of mortality in pediatric patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "There is a significant relationship between the PRISM score and length of stay (LOS) in the Pediatric Intensive Care Unit (PICU)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The length of stay (LOS) in the PICU can be influenced by various factors, including the PRISM score."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Artificial Neural Networks (ANNs) can estimate the length of stay (LOS) in the PICU."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The performance of ANNs in predicting the length of stay (LOS) is significant."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The actual length of stay (LOS) in the PICU can be measured and compared to predicted LOS."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "There is a notable correlation between PRISM scores and actual length of stay (LOS) in the PICU."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Using the PRISM score can provide insights into predicting the length of stay (LOS) for pediatric patients in the PICU."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 0.8,
+      "statement": "1. Balloon predilatation is a procedure used in transcatheter aortic valve implantation (TAVI)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.8,
+      "statement": "2. The study evaluates the effect of balloon predilatation on hemodynamic results in TAVI procedures."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.8,
+      "statement": "3. The study evaluates the effect of balloon predilatation on complication rates in TAVI procedures."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "4. No significant effect on early hemodynamic results implies that the outcomes remain acceptable without balloon predilatation."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "5. No significant effect on complication rates implies that the safety of the procedure is maintained without balloon predilatation."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. If a procedure has no significant effect on hemodynamic results or complication rates, it may be deemed unnecessary."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. The conclusion of the study supports the idea that predilatation can be omitted in TAVI procedures."
+    },
+    {
+      "validity": 0.8,
+      "importance": 0.9,
+      "statement": "8. Omitting a procedure that has no significant effect on outcomes can be considered safe."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "9. The response indicates that omitting balloon predilatation is a valid option based on the study findings."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Autoerotic asphyxiation (AEA) can result in fatal outcomes."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Children and adolescents may engage in autoerotic asphyxiation (AEA)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Engaging in AEA poses serious health risks to individuals."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Pediatricians should be knowledgeable about autoerotic asphyxiation (AEA)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Miscalculations during AEA practices can lead to unintended fatalities."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Understanding the psychological aspects of AEA can help in preventing the behavior."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Comorbidity of major depression and alcohol use disorder is associated with poorer outcomes of major depression."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Alcohol use disorder alone is associated with worse major depression outcomes compared to not having any disorder."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Major depression alone is associated with worse outcomes compared to not having any disorder."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Comorbidity of major depression and alcohol use disorder results in worse outcomes than having alcohol use disorder alone."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The difference in major depression outcomes between those with major depression only and those with comorbid major depression and alcohol use disorder is not significant after adjustment."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Concerns about cold preparation use in young children have been raised by the FDA."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The FDA has issued warnings regarding the use of cold preparations in young children."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Cold preparations can potentially pose health risks to young children."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "There is ongoing debate and concern regarding the safety of cold preparations for young children."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Young children are a vulnerable population when it comes to medication safety."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The response indicates that concerns about cold preparation use still exist despite previous warnings."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Researchers and medical professionals continue to study the effects of medication on young children."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. An instructional manual can assist laypersons in using the Laryngeal Mask Supreme\u00ae (LMAS) effectively."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Laypersons are capable of inserting the LMAS in a manikin correctly."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Laypersons can provide adequate tidal volumes when using the LMAS."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The effectiveness of the LMAS usage is not influenced by prior basic life support (BLS) training."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Technical education does not significantly impact the ability to use the LMAS effectively."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Gender does not have a significant effect on performance when using the LMAS."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Slit-lamp biomicroscopy (SLBM) is a method used to measure pupil diameter."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Mesopic pupil size refers to pupil diameter measured in low light conditions."
+    },
+    {
+      "validity": 0.7,
+      "importance": 1.0,
+      "statement": "3. The cobalt blue light used in slit-lamp biomicroscopy is not suitable for measuring mesopic pupil size."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Measurements of pupil diameter can vary depending on the method used."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. The measurement results from slit-lamp biomicroscopy can differ from those obtained from other pupillometry methods, such as Colvard infrared pupillometry (CIP)."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Circumcision can be performed in childhood."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "There are varying opinions on the necessity and benefits of circumcision in childhood."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The decision to circumcise involves weighing potential risks and benefits."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "People have different cultural and personal beliefs regarding circumcision."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Some medical professionals recommend circumcision under certain circumstances."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Parental consent is typically required for circumcision in childhood."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Circumcision can have both medical and non-medical reasons."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Early colonoscopy has no significant effect on patient survival in cases of acute diverticulitis."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. There are significant findings of polyps in patients undergoing colonoscopy after acute diverticulitis."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. There is no significant difference in patient characteristics between those who underwent colonoscopy and those who did not."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The rate of advanced adenomas found during colonoscopy is not significant, leading to no new diagnoses."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "5. The management of acute diverticulitis does not change as a result of findings from a colonoscopy."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Colonoscopy does not lead to significant discoveries that would alter treatment decisions for patients with acute diverticulitis."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Individuals aged 55 and older can experience dementia."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Instrumental activities of daily living (IADLs) are a type of daily activity that can be measured."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Problems in instrumental activities of daily living (IADLs) have a statistical association with dementia."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. IADL disabilities can predict the conversion to dementia within a specific time frame (1 year)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. IADL disabilities can predict the conversion to dementia within a longer time frame (2 years)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. The predictions made about IADL disabilities and dementia are statistically significant in the study."
+    }
+  ],
+  [
+    {
+      "validity": 0.0,
+      "importance": 1.0,
+      "statement": "1. The use of neuroendoscopes is associated with infection rates in ventriculoperitoneal shunt (VPS) procedures."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Infection rates in first-time shunt patients are not significantly affected by the use of endoscopes."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Infection rates in revisited shunt patients are not significantly affected by the use of endoscopes."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The analysis indicates that there is no significant difference in infection rates between patients with and without endoscopes during VPS procedures."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. The response \"No\" implies that neuroendoscope usage does not influence infection rates in VPS procedures."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Parents perceive their children's body size differently than the actual size."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Children perceive their own body size differently than the actual size."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Physicians perceive children's body size differently than the actual size."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Some obese children are not recognized as such by parents."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Some obese children are not recognized as such by physicians."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Average-sized children are perceived as underweight by parents."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. Average-sized children are perceived as underweight by physicians."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Not every preschool child has hearing loss."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. A specialized training of phonological awareness may be beneficial for some children but not for all."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The effectiveness of training programs can vary between children."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "4. The study indicates that children with hearing loss benefit more from a specialized program than those without."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. The impact of training programs on skills can differ based on individual needs."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. The specialized training in phonological awareness is not universally necessary for improving reading and writing skills in all preschool children."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. The study's findings are based on observed differences in specific groups of children."
+    }
+  ],
+  [
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "1. There is a relationship between past streptococcal infections and multiple sclerosis."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Higher levels of ADNase B are observed in MS patients compared to healthy controls."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. ASO levels show no significant difference between MS patients and healthy controls."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "4. A significant relationship exists when one factor has a measurable difference compared to another."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "5. A not significant relationship indicates no measurable difference between two compared groups."
+    },
+    {
+      "validity": 0.7,
+      "importance": 1.0,
+      "statement": "6. Multiple sclerosis can be influenced by infections such as group A streptococcus."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. 2-methoxyestradiol (2ME) enhances the efficacy of some chemotherapeutic agents on human ovary cancer cells."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. 2-methoxyestradiol (2ME) combined with epirubicine produces a significant inhibitory effect on human ovary cancer cells."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. 2-methoxyestradiol (2ME) combined with carboplatin produces a significant inhibitory effect on human ovary cancer cells."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "4. The combination of 2-methoxyestradiol (2ME) with certain chemotherapeutic agents may allow for reduced dosages of those agents while maintaining efficacy."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. 2-methoxyestradiol (2ME) has no significant effect on human ovary cancer cells when combined with other chemotherapeutic agents not specified."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The joint line position in knee revision surgery is significant for clinical outcomes."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The study examines the relationship between joint line reconstruction and clinical outcomes."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "There is a significant relationship between reconstructing the joint line and improving clinical outcomes in knee revision surgery."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The congruity of the contralateral knee is not significantly related to measuring distances from the fibular head to the joint line."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Radiographic measurements are used to evaluate knee anatomy in the context of surgery."
+    },
+    {
+      "validity": 0.0,
+      "importance": 1.0,
+      "statement": "Assessing joint line positions by means of the contralateral knee is being considered as a new approach for planning knee revision surgery."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The response \"No\" indicates a rejection of the proposal to assess joint line positions by means of the contralateral knee for planning knee revision surgery."
+    },
+    {
+      "validity": 0.7,
+      "importance": 1.0,
+      "statement": "The study suggests that the current approach to assessing joint line positions may not be necessary or effective."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The relationship between joint line reconstruction and clinical outcomes is assessed through the context of this study."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The study evaluates knee anatomy relevant to surgical planning."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. The type of tibial component can influence postoperative alignment in unicompartmental knee replacement."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Onlay components provide better postoperative alignment compared to inlay components in unicompartmental knee replacement."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Thicker tibial polyethylene inserts are associated with improved postoperative alignment in unicompartmental knee replacement."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Mechanical alignment is a factor in the outcomes of unicompartmental knee replacement."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Postoperative alignment is an important aspect of recovery after unicompartmental knee replacement."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Vascular Endothelial Growth Factor (VEGF) expression is observed in patients with stage pT3 renal cell carcinoma."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. VEGF expression is significantly related to tumor invasion in pT3 renal cell carcinoma."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. VEGF expression is significantly related to survival in patients with pT3 renal cell carcinoma."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Venous invasion is a characteristic associated with pT3 renal cell carcinoma."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Understanding the relationship between VEGF expression, venous invasion, and survival is important for pT3 renal cell carcinoma prognosis."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Unemployment is related to increased deaths from injury and poisoning among young men aged 15-39 in England and Wales."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Being single is correlated with higher rates of death from injury and poisoning among young men aged 15-39 in England and Wales."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Self-destructive behavior is linked to a majority of deaths from injury and poisoning among young men aged 15-39 in England and Wales."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Certain factors associated with injury and poisoning mortality can be targeted for prevention."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "There exists a demographic of young men aged 15-39 in England and Wales with increased mortality from injury and poisoning."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The deaths analyzed in the context are significant enough to warrant examination of prevention strategies."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Injury and poisoning are identified causes of mortality among young men."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Factors such as unemployment, relationship status, and self-destructive behavior can influence mortality rates."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Antenatal corticosteroids (AC) can affect pregnancy duration."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Women between 24-32 weeks' gestation are at risk for premature delivery."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Administration of AC is associated with earlier delivery (less than 34 weeks) in certain populations."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Women who have received AC may exhibit different delivery outcomes compared to those who have not received AC."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "5. Continuation of pregnancy after timing of AC administration may impact outcomes for women at risk of preterm delivery."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. The likelihood of delivering at less than 34 weeks is statistically significant for women who received AC for premature preterm rupture of membranes."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. The likelihood of delivering at less than 34 weeks is statistically significant for women with twins."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "8. The likelihood of delivering at less than 34 weeks is statistically significant for women who received AC before 28 weeks."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Obstructive sleep apnea (OSA) severity can influence the pressure settings of autoCPAP devices."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Obesity is a factor that can impact the severity of obstructive sleep apnea (OSA)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Higher obesity levels are associated with an increase in obstructive sleep apnea (OSA) severity."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "4. AutoCPAP machines adjust pressure based on the severity of obstructive sleep apnea (OSA)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Patients with greater obstructive sleep apnea (OSA) severity typically require higher continuous positive airway pressure (CPAP)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. There exists a correlation between OSA severity and the pressure settings of autoCPAP devices in very obese individuals."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. The need for high CPAP levels is influenced by both obesity and OSA severity."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "8. Very obese subjects can experience variations in CPAP pressure settings based on OSA severity."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Women who have a history of advanced cervical dilatation have a higher risk of recurrent preterm birth compared to those with preterm premature rupture of membranes."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Women who have a history of advanced cervical dilatation have a higher risk of recurrent preterm birth compared to those with preterm labor."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The mean gestational age at delivery for women with a history of advanced cervical dilatation is lower than for those with preterm premature rupture of membranes."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The mean gestational age at delivery for women with a history of advanced cervical dilatation is lower than for those with preterm labor."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. The lowest mean cervical length before 24 weeks for women with a history of advanced cervical dilatation is shorter than for those with preterm premature rupture of membranes."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. The lowest mean cervical length before 24 weeks for women with a history of advanced cervical dilatation is shorter than for those with preterm labor."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Is the Distance Worth It is a subjective question."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Different individuals can have varying opinions on what constitutes \"worth it.\""
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The perception of value can depend on personal experiences and circumstances."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Factors such as time, cost, and effort can influence the assessment of distance worth."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "\"Maybe\" indicates uncertainty about whether the distance is worth it."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Decision-making often involves weighing pros and cons."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The concept of worth can vary based on individual goals or interests."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Aripiprazole is a type of dopamine agonist."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Dopamine replacement therapy (DRT) is associated with increased risk of pathological gambling."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. The use of aripiprazole is related to the development of pathological gambling."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. A history of addictive disorders increases the likelihood of developing gambling behavior after starting aripiprazole."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Younger males with a history of gambling are at greater risk of pathological gambling when treated with aripiprazole."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "6. Pathological gambling is recognized as a significant behavioral health issue."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "7. The treatment of psychiatric disorders can include the use of dopamine agonists such as aripiprazole."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Chloroquine suppresses T-cell responses to minor histocompatibility antigens (MiHCs)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Lysosomotropic amines and cyclosporine have a synergistic effect on T-cell suppression to MiHC."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Chloroquine decreases MHC class II expression after activation."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Chloroquine inhibits the ability of antigen-presenting cells to stimulate T-cell responses."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Chloroquine induces decreased T-cell viability at high concentrations."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Induction chemotherapy is a treatment method used for nasopharyngeal carcinoma (NPC)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. The study analyzed patient outcomes at The University of Texas M. D. Anderson Cancer Center."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Induction chemotherapy improves overall survival rates in Stage IV nasopharyngeal carcinoma patients compared to those who did not receive it."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Induction chemotherapy results in higher freedom from relapse in Stage IV nasopharyngeal carcinoma patients compared to those who did not receive it."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Induction chemotherapy leads to better local control in Stage IV nasopharyngeal carcinoma patients than in those who did not receive it."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Local failure rates in nasopharyngeal carcinoma patients are higher in T4 staged patients compared to T1-T3 staged patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. The management of nasopharyngeal carcinoma includes treatment options such as chemotherapy and radiotherapy."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Neonatal testicular torsion can compromise blood flow to the affected testis."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "2. Contralateral hydrocele is a relevant condition associated with neonatal testicular torsion."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "3. The treatment of contralateral hydrocele must be effective in managing potential complications."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. There is a safe surgical approach for managing contralateral hydrocele in infants."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. There is no association between the management of contralateral hydrocele and the later development of new hydroceles or hernias."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Scrotal incision is an effective surgical method for managing undescended testis."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. The outcome of scrotal incision procedures is assessed through follow-up examinations."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "8. Few postoperative complications are associated with the scrotal incision technique for undescended testis."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Normally sighted subjects are accurate and reliable in crossing decisions with visual and auditory information."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Visually impaired subjects are accurate and reliable in crossing decisions with visual and auditory information."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Blind subjects are less accurate than normally sighted subjects in crossing decisions with auditory information."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Blind subjects are less accurate than visually impaired subjects in crossing decisions with auditory information."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. All subjects are reliable but inaccurate in crossing decisions with auditory information only."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Reliability in crossing decisions does not equate to accuracy."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Crohn's disease is a type of inflammatory bowel disease (IBD)."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "2. The question is asking whether the condition in question is Crohn's disease."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "3. The response indicates that the condition in question is not Crohn's disease."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "4. There are other medical conditions that can be present which are not Crohn's disease."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "5. The respondent has the information necessary to determine that the condition is not Crohn's disease."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Chaalia/Pan Masala contains ingredients that can be harmful to health."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Consuming Chaalia/Pan Masala can lead to negative health effects."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. There are known health risks associated with the ingredients in Chaalia/Pan Masala."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Health authorities or studies indicate that Chaalia/Pan Masala is not safe to consume."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Long-term use of Chaalia/Pan Masala can result in adverse health outcomes."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Cervicogenic somatic tinnitus (CST) is a type of tinnitus associated with the cervical spine."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Cervical spine treatment can lead to a decrease in tinnitus complaints for some patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Cervical spine treatment can lead to a decrease in neck complaints for some patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Some patients experience substantial improvement in tinnitus after cervical spine treatment."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Some patients maintain improvement in tinnitus symptoms after follow-up treatment."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "Multi-modal cervical physical therapy includes treatment strategies for the cervical spine."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "Improvement in tinnitus after treatment is considered significant in a clinical context."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.5,
+      "statement": "The relationship between cervical spine health and tinnitus has clinical significance."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Increased total non-squamous cell count is found in mixed granulocytic and neutrophilic phenotypes compared to eosinophilic and healthy subjects."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Increased sputum eosinophils are present in all asthma phenotypes compared to healthy subjects."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Eosinophilic asthma shows higher sputum neutrophil and lymphocyte counts than healthy subjects."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "All asthma phenotypes show increased blood leukocyte counts compared to healthy subjects."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Paucigranulocytic asthmatics exhibit increased absolute blood eosinophils compared to healthy subjects."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Neutrophilic asthma has raised CRP and fibrinogen compared to healthy subjects."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Eosinophilic asthma shows elevated fibrinogen compared to healthy subjects."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. The HIV/STD Control Program in Jamaica has been implemented."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. There is a measurable increase in HIV prevalence among high-risk groups in Jamaica."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Condom use among men in Jamaica has remained high."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The proportion of men reporting sex with non-regular partners in Jamaica has decreased."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Syphilis rates in Jamaica have declined over the study period."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. The decline in syphilis rates and increased condom use contribute to overall public health improvements."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. The statistics being analyzed reflect changes over time in Jamaica's HIV epidemic."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Panton-Valentine leucocidin (PVL) is a virulence factor associated with Staphylococcus aureus."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Staphylococcus aureus can cause bacteraemia (the presence of bacteria in the blood)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. PVL-positive Staphylococcus aureus is associated with higher disease severity."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Methicillin-resistant Staphylococcus aureus strains are not PVL-positive."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. PVL-positive isolates are primarily found in methicillin-susceptible Staphylococcus aureus."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.0,
+      "statement": "6. Patients with infections caused by PVL-positive Staphylococcus aureus may have varying sites of infection."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Impaired fasting glucose (IFG) is a condition that can exist prior to coronary artery bypass grafting (CABG)."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. IFG is associated with increased mortality rates after CABG surgery."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Increased mortality rates can occur at both 30 days and 1 year post-CABG surgery due to IFG."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Other conditions related to glucose metabolism, such as suspected diabetes mellitus (SDM) and clinical diabetes mellitus (CDM), are also linked to increased mortality after CABG."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Mortality after CABG surgery can be influenced by preoperative glucose levels."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Positron emission tomography (PET) scanning is used in the management of primary rectal cancer."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Changes in treatment plans can occur as a result of PET scanning findings."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. PET scanning can lead to upstaging of the disease in some patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. PET scanning can lead to downstaging of the disease in some patients."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Some patients may have their surgical management remain unchanged post-PET scanning."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. Follow-up evaluations confirm the appropriateness of management changes made due to PET scanning."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The effectiveness of a manual resuscitator can be evaluated based on the quantity of tidal volume delivered."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Tidal volume is a measurable quantity associated with resuscitation techniques."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Delivery of tidal volume can vary based on the technique applied during resuscitation."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "Two hands can deliver a greater tidal volume than one hand when using a manual resuscitator."
+    },
+    {
+      "validity": 0.3,
+      "importance": 1.0,
+      "statement": "Factors such as hand size, volume, grip power, education, and practice influence tidal volume delivery to varying degrees."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "The correlation between education and practice with tidal volume delivery is weak."
+    },
+    {
+      "validity": 0.7,
+      "importance": 1.0,
+      "statement": "Manual resuscitation techniques can still produce accurate tidal volume under certain conditions."
+    },
+    {
+      "validity": 0.5,
+      "importance": 1.0,
+      "statement": "The effectiveness of a manual resuscitator is assessed in terms of the accuracy of tidal volume delivery."
+    },
+    {
+      "validity": 0.6,
+      "importance": 1.0,
+      "statement": "Significant differences exist between tidal volumes delivered by different methods of resuscitation."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "A manual resuscitator can be used effectively for delivering tidal volume even if some correlations are not significant."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. The Chinese State Tobacco Monopoly Administration (STMA) has control over cigarette pricing in China."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. An increase in government cigarette tax typically leads to increased tax revenue."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. An increase in government cigarette tax typically leads to lower profits for the tobacco industry."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. The government's control prevents retail cigarette prices from increasing, despite changes in tax rates."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. The STMA's actions can override the expected effects of an excise tax on retail prices."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. The presence of vertical lines in esophageal mucosa (VLEM) is observable in children."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Histological esophagitis is a condition diagnosed in children."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Eosinophilic esophagitis is a significant condition associated with VLEM in children."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. VLEM is linked to the severity of eosinophilic esophagitis."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Biopsies from patients with VLEM show significant histological changes compared to those without."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Severe hypoglycaemia is associated with a greater risk for primary cardiovascular outcomes."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Severe hypoglycaemia is associated with increased mortality."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Severe hypoglycaemia is associated with higher cardiovascular death risk."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Severe hypoglycaemia is associated with an elevated risk of arrhythmic death."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. Severe nocturnal hypoglycaemia is associated with increased primary outcomes and mortality."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "6. The hazard of severe hypoglycaemia for all outcomes is higher with standard care than with insulin glargine."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "7. Non-severe hypoglycaemia is not associated with any outcome following adjustment."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "8. Elevated fasting plasma glucose is associated with increased cardiovascular disease risk."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "9. Elevated 2-hour post-glucose tolerance test plasma glucose is associated with increased cardiovascular disease risk."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "10. Higher insulin sensitivity is associated with decreased cardiovascular disease risk."
+    },
+    {
+      "validity": 0.0,
+      "importance": 0.0,
+      "statement": "11. Insulin sensitivity partially explains the association of fasting glucose with cardiovascular disease risk."
+    },
+    {
+      "validity": 0.0,
+      "importance": 0.0,
+      "statement": "12. Insulin sensitivity partially explains the association of 2-hour glucose with cardiovascular disease risk."
+    },
+    {
+      "validity": 1.0,
+      "importance": 0.0,
+      "statement": "13. Body fat percentage is not associated with cardiovascular disease risk when considering insulin sensitivity."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Radiographic transition zones are indicators used in diagnosing Hirschsprung's disease."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Aganglionosis refers to the absence of ganglion cells in the colon, which is a characteristic of Hirschsprung's disease."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. There are different forms of Hirschsprung's disease, including rectal, rectosigmoid, long-segment, and total colonic forms."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "4. The level of aganglionosis in Hirschsprung's disease affects the diagnosis and treatment approach."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "5. The correlation between radiographic transition zones and the level of aganglionosis is evaluated in medical literature."
+    },
+    {
+      "validity": 0.8,
+      "importance": 1.0,
+      "statement": "6. There is an overall agreement between radiological findings and pathological specimens in Hirschsprung's disease."
+    }
+  ],
+  [
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "1. Dexamethasone is a treatment option for pediatric asthma exacerbations."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "2. Prednisone is also a treatment option for pediatric asthma exacerbations."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "3. Dexamethasone is not inferior to prednisone in treating mild to moderate asthma exacerbations."
+    },
+    {
+      "validity": 1.0,
+      "importance": 1.0,
+      "statement": "4. Dexamethasone and prednisone yield similar results in terms of symptomatic return to baseline."
+    },
+    {
+      "validity": 0.5,
+      "importance": 0.5,
+      "statement": "5. Dexamethasone may lead to better patient compliance compared to prednisone."
+    },
+    {
+      "validity": 0.5,
+      "importance": 0.5,
+      "statement": "6. Dexamethasone causes less vomiting than prednisone."
+    }
+  ]
+]

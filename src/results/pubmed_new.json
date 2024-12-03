@@ -1,0 +1,702 @@
+[
+  {
+    "pubid": 21645374,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 16418930,
+    "decision": "The context indicates that differences in acuity between the two optotypes (Snellen E and Landolt C) are minimal across groups, which suggests that specific differences in acuity related to strabismus amblyopia would also not be significant in this comparison. Therefore, the appropriate response to the question about differences in strabismus amblyopia regarding Landolt C and Snellen E acuity is likely \"No.\" \n\nNo",
+    "correct_answer": "no",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 9488747,
+    "decision": "No",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 17208539,
+    "decision": "The context states that the overall scores between the two procedures are similar and not significant, indicating that while there are differences in specific outcomes (continence score and stool pattern score), the long-term results overall do not significantly differ between the transanal and transabdominal pull-through procedures. Therefore, the answer can be interpreted as the long-term results being equal when considering overall scores.\n\nYes",
+    "correct_answer": "no",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 10808977,
+    "decision": "The context indicates that tailored print communications result in lower mammogram adherence compared to usual care. Additionally, telephone counseling, which is a different type of intervention, is more effective than tailored print materials and promotes higher mammogram adherence. Given that tailored print communications decrease adherence while other methods like telephone counseling are effective, it can be reasoned that tailored interventions alone may not lead to an increase in mammography use among HMO women.\n\nNo",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.2,
+    "correct": false
+  },
+  {
+    "pubid": 23831910,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 26037986,
+    "decision": "Yes.",
+    "correct_answer": "maybe",
+    "aggregated_validity": 1.0,
+    "correct": false
+  },
+  {
+    "pubid": 26852225,
+    "decision": "Yes",
+    "correct_answer": "no",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 17113061,
+    "decision": "No",
+    "correct_answer": "no",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 10966337,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 25432938,
+    "decision": "Maybe.",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.8952380952380953,
+    "correct": false
+  },
+  {
+    "pubid": 18847643,
+    "decision": "Maybe",
+    "correct_answer": "no",
+    "aggregated_validity": 0.9603174603174603,
+    "correct": false
+  },
+  {
+    "pubid": 18239988,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 25957366,
+    "decision": "Based on the context provided, prompting Primary Care Providers (PCPs) about family history has shown to have significant relationships with their responses during patient visits. However, it suggests that certain aspects, like documenting family history risk in problem summaries or the impact of patient screening interventions, may not be as effective. The nuance here indicates that while there is significance in PCP responses to family history prompts, the overall effectiveness in changing outcomes or documenting risk may not be apparent. Therefore, it would be more accurate to say that prompting does have some effect, but it is not wholly effective in enhancing understanding or response in specific areas.\n\nmaybe",
+    "correct_answer": "no",
+    "aggregated_validity": 0.2,
+    "correct": false
+  },
+  {
+    "pubid": 24866606,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 26578404,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 11729377,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 17096624,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 22694248,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 22990761,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 19394934,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 11481599,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 21669959,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 23806388,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 17919952,
+    "decision": "No.",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": false
+  },
+  {
+    "pubid": 10966943,
+    "decision": "Amblyopia can lead to visual loss, but this visual impairment is not necessarily permanent. With appropriate treatment, improvement can occur, making the answer to the question more nuanced. Therefore, the answer should reflect that the situation can vary depending on several factors, including timeliness and type of treatment.\n\nNo",
+    "correct_answer": "no",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 23690198,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 17940352,
+    "decision": "Yes",
+    "correct_answer": "maybe",
+    "aggregated_validity": 0.5,
+    "correct": false
+  },
+  {
+    "pubid": 20537205,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 28707539,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 7482275,
+    "decision": "No",
+    "correct_answer": "no",
+    "aggregated_validity": 0.8,
+    "correct": true
+  },
+  {
+    "pubid": 24183388,
+    "decision": "Yes",
+    "correct_answer": "maybe",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 9645785,
+    "decision": "No.",
+    "correct_answer": "no",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 26298839,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 24153338,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 18534072,
+    "decision": "Yes",
+    "correct_answer": "no",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 8847047,
+    "decision": "Based on the provided context, the characteristics of well-differentiated hepatocellular carcinoma (HCC) do not indicate a clinically early cancer diagnosis. The study highlights that while minute cancerous foci may be present at the time of operation, there is no significant difference in disease-free survival between well-differentiated and less differentiated HCC. This suggests that well-differentiated HCC does not necessarily mean the cancer is at an early stage, as the outcomes and changes in disease development are similar to those with less differentiated cases. \n\nNo",
+    "correct_answer": "no",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 10575390,
+    "decision": "Yes",
+    "correct_answer": "no",
+    "aggregated_validity": 0.5,
+    "correct": false
+  },
+  {
+    "pubid": 20084845,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 15703931,
+    "decision": "No",
+    "correct_answer": "no",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 18269157,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 25489696,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 14599616,
+    "decision": "Yes",
+    "correct_answer": "maybe",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 22537902,
+    "decision": "Based on the context provided, while global management (GM) does show some benefits in terms of liver resection timing and fewer procedures needed, it does not lead to significant improvements in overall survival rates or three-month mortality rates compared to separate management (SM). The only significant advantage for SM was in disease-free survival after five years, suggesting that global management does not improve outcomes overall. Therefore, the accurate answer to the question is:\n\nno",
+    "correct_answer": "no",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 19054501,
+    "decision": "Based on the context provided, it is clear that while motion perception deficits are present in schizophrenia patients, the eye-tracking performance does not correlate with motion perception deficits as it does in control subjects. This suggests that the motion perception deficits are not necessarily a direct consequence of abnormal eye-tracking, as there is no significant relationship established between the two in the context of schizophrenia. Therefore, the accurate answer remains consistent with this rationale.\n\nNo",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 16432652,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 19504993,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 20571467,
+    "decision": "While kidneys from elderly donors have been shown to lead to significantly higher creatinine levels in younger recipients compared to kidneys from younger donors, there are no significant differences in survival rates or graft outcomes over time between the groups. Given that the overall survival and graft survival rates are comparable, it may still be appropriate to implant kidneys from elderly donors in younger recipients, but it is essential to consider the elevated creatinine levels as a potential risk factor. \n\nmaybe",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.6,
+    "correct": false
+  },
+  {
+    "pubid": 24237112,
+    "decision": "Based on the context provided, the initial answer states that provider service networks (PSNs) result in lower expenditures compared to health maintenance organizations (HMOs). The text indicates that HMOs are associated with higher PMPM expenditures than PSNs in the Medicaid Demonstration, which supports the claim of PSNs leading to lower expenditures when compared to HMOs. However, the context does not provide a direct comparison of PSNs with primary care case management (PCCM) in terms of expenditure, so it is unclear if PSNs result in lower expenditures compared to PCCM specifically.\n\nConsidering the significant findings regarding HMOs vis-\u00e0-vis PSNs, but the lack of information about PCCM, the most accurate answer to the question posed would be that provider service networks do result in lower expenditures compared with HMOs, but the comparison with primary care case management remains undetermined.\n\nYes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 21402341,
+    "decision": "The context highlights the importance of preoperative carotid screening methods in patients undergoing CAB surgery, indicating that significant carotid stenosis is a known risk factor for perioperative strokes, particularly in high-risk groups. Given the association between carotid stenosis and stroke risk, assessing carotid artery stenosis can be crucial for identifying patients who may be at higher risk and could benefit from interventions before surgery. However, the context does not state that assessment is \"always\" necessary for every patient, suggesting that individual risk factors and clinical judgment may play a role in decision-making. Therefore, while the assessment is important for many, it may not be mandatory for all patients.\n\nMaybe",
+    "correct_answer": "no",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 20082356,
+    "decision": "Based on the context that highlights the significant implications of mesocolon invasion regarding curability and nodal metastasis, it is logical to conclude that direct mesocolon invasion should be recognized in the staging of gastric cancer, particularly considering that T4 includes direct invasion of surrounding structures. Therefore, including mesocolon invasion in T4 staging would align with established cancer categorization standards.\n\nYes",
+    "correct_answer": "maybe",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 26606599,
+    "decision": "Yes",
+    "correct_answer": "maybe",
+    "aggregated_validity": 0.5,
+    "correct": false
+  },
+  {
+    "pubid": 11340218,
+    "decision": "Yes.",
+    "correct_answer": "no",
+    "aggregated_validity": 0.8,
+    "correct": false
+  },
+  {
+    "pubid": 25481573,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 25277731,
+    "decision": "Yes",
+    "correct_answer": "maybe",
+    "aggregated_validity": 0.5,
+    "correct": false
+  },
+  {
+    "pubid": 25475395,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 23177368,
+    "decision": "No",
+    "correct_answer": "no",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 17179167,
+    "decision": "No",
+    "correct_answer": "maybe",
+    "aggregated_validity": 1.0,
+    "correct": false
+  },
+  {
+    "pubid": 14612308,
+    "decision": "Yes",
+    "correct_answer": "no",
+    "aggregated_validity": 0.5,
+    "correct": false
+  },
+  {
+    "pubid": 27491658,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.19999999999999998,
+    "correct": true
+  },
+  {
+    "pubid": 19822586,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 27643961,
+    "decision": "Yes.",
+    "correct_answer": "no",
+    "aggregated_validity": 1.0,
+    "correct": false
+  },
+  {
+    "pubid": 23539689,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.8,
+    "correct": true
+  },
+  {
+    "pubid": 22453060,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 22227642,
+    "decision": "Based on the provided context, there is no specific mention of the cobalt blue light slit-lamp biomicroscopy method's capability to measure mesopic pupil size. The context only discusses the comparison of pupil diameter measurements between SLBM and CIP, highlighting SLBM's performance in measuring pupil size but not specifically addressing mesopic conditions. Therefore, without explicit information confirming or denying the ability to measure mesopic pupil size with SLBM, the initial answer cannot be substantiated as definitively correct. \n\nNo",
+    "correct_answer": "no",
+    "aggregated_validity": 0.3,
+    "correct": true
+  },
+  {
+    "pubid": 12380309,
+    "decision": "The context does not provide sufficient justification for the claim that circumcision should not be performed in childhood, and the validity score of the supporting statement is relatively low. Therefore, one could conclude that circumcision may indeed be appropriate depending on specific circumstances and individual beliefs. Hence, an accurate response would be:\n\nmaybe",
+    "correct_answer": "no",
+    "aggregated_validity": 0.6,
+    "correct": false
+  },
+  {
+    "pubid": 22186742,
+    "decision": "Based on the context, the findings indicate that early colonoscopy has no significant effect on patient survival and does not lead to new diagnoses of advanced adenomas. Furthermore, there is no significant difference in patient characteristics between those who had a colonoscopy and those who did not. Therefore, it can be concluded that performing a colonoscopy after acute diverticulitis does not significantly affect its management.\n\nNo",
+    "correct_answer": "no",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 22188074,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 27989969,
+    "decision": "Based on the context provided, the analysis indicates that the usage of endoscopes does not significantly affect infection rates in both first-time and revisited ventriculoperitoneal shunt patients. This suggests that the simultaneous use of a neuroendoscope does not influence the incidence of infection associated with VPS procedures.\n\nNo",
+    "correct_answer": "no",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 18607272,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.5,
+    "correct": true
+  },
+  {
+    "pubid": 18235194,
+    "decision": "No",
+    "correct_answer": "maybe",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 18049437,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 15597845,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.78,
+    "correct": true
+  },
+  {
+    "pubid": 24996865,
+    "decision": "The context indicates that while the study investigates the relationship between joint line reconstruction and clinical outcomes, it specifically notes that the relationship between measuring distances from the fibular head to the joint line and the congruity of the contralateral knee is not significant. This suggests that assessing joint line positions based on the contralateral knee may not have therapeutic value or may not be considered a reliable method for planning knee revision surgery. Therefore, the notion of this being a new approach might not be justified as significant or beneficial.\n\nNo",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 23361217,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 17489316,
+    "decision": "Yes",
+    "correct_answer": "maybe",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 14518645,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 20337202,
+    "decision": "Antenatal corticosteroid administration is shown to influence pregnancy duration, particularly in cases where women are at risk of preterm delivery. Given that women receiving corticosteroids are more likely to continue their pregnancies past 34 weeks, it suggests a potential for intervention to prolong pregnancy after administration. Therefore, there is indeed an opportunity for rescue following antenatal corticosteroid administration.\n\nyes",
+    "correct_answer": "maybe",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 26449554,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 26215326,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 29112560,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.5,
+    "correct": true
+  },
+  {
+    "pubid": 24315783,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.8,
+    "correct": true
+  },
+  {
+    "pubid": 9381529,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.9249999999999999,
+    "correct": true
+  },
+  {
+    "pubid": 8985020,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 26708803,
+    "decision": "Yes",
+    "correct_answer": "maybe",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 22427593,
+    "decision": "Based on the context provided, normally sighted and visually impaired pedestrians are described as being accurate and reliable in crossing decisions. However, blind pedestrians are noted to be less accurate than both normally sighted and visually impaired pedestrians in crossing decisions with auditory information. All subjects are noted to be reliable but inaccurate when relying solely on auditory information. Therefore, not all types of pedestrians are accurate and reliable at making street crossing decisions.\n\nNo",
+    "correct_answer": "maybe",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 11570976,
+    "decision": "maybe",
+    "correct_answer": "maybe",
+    "aggregated_validity": 0.5,
+    "correct": true
+  },
+  {
+    "pubid": 19757704,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 27592038,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 27044366,
+    "decision": "No.",
+    "correct_answer": "maybe",
+    "aggregated_validity": 1.0,
+    "correct": false
+  },
+  {
+    "pubid": 9792366,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 1.0,
+    "correct": true
+  },
+  {
+    "pubid": 17562682,
+    "decision": "Yes",
+    "correct_answer": "maybe",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 15800018,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 14978612,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 18843057,
+    "decision": "Based on the context provided, it indicates that tidal volume delivery can vary based on the technique used and that delivering tidal volume using a manual resuscitator can be effective, particularly with two hands, which shows a significant increase in tidal volume. Although factors such as hand size and training show weak correlations, the potential for delivering accurate tidal volume exists with the right technique. Thus, it would be incorrect to assert outright that one cannot deliver accurate tidal volume with a manual resuscitator.\n\nNo",
+    "correct_answer": "no",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 23076787,
+    "decision": "No.",
+    "correct_answer": "no",
+    "aggregated_validity": 0.8000000000000002,
+    "correct": true
+  },
+  {
+    "pubid": 9199905,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  },
+  {
+    "pubid": 23999452,
+    "decision": "Yes.",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.8,
+    "correct": true
+  },
+  {
+    "pubid": 22534881,
+    "decision": "The evidence from the context indicates that radiographic transition zones are significantly associated with various forms of Hirschsprung's disease, which suggests a correlation with the level of aganglionosis. However, the overall agreement between radiological findings and pathology is present but lower than in specific types, indicating complexities in this correlation. Given this context, the answer can be refined to recognize the significant associations while acknowledging the variability in agreement.\n\nYes",
+    "correct_answer": "no",
+    "aggregated_validity": 0.0,
+    "correct": false
+  },
+  {
+    "pubid": 24785562,
+    "decision": "Yes",
+    "correct_answer": "yes",
+    "aggregated_validity": 0.0,
+    "correct": true
+  }
+]

@@ -1,5 +1,6 @@
 from json import load, loads, dump, dumps
 import os
+import re
 
 from helpers.variables import SRC_DIR
 
@@ -22,7 +23,9 @@ def read_json(path: str):
 
 
 def save_json(path: str, data: dict | list):
-    with open(SRC_DIR + path, "w") as f:
+    full_path = os.path.join(SRC_DIR, path)
+    os.makedirs(os.path.dirname(full_path), exist_ok=True)
+    with open(full_path, "w") as f:
         dump(data, f, indent=2)
 
 
@@ -42,3 +45,8 @@ def delete_file(path: str):
 
 def chunk_list(list: list, chunk_size: int):
     return [list[i : i + chunk_size] for i in range(0, len(list), chunk_size)]
+
+
+def get_number(string: str) -> str:
+    """Returns the last number in a string."""
+    return re.findall(r"[-+]?\d*\.\d+|\d+", string)[-1]

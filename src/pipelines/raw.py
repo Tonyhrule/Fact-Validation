@@ -2,7 +2,7 @@ from helpers.data import get_number
 from helpers.oai import async_call_gpt, async_gpt_calls
 import asyncio
 
-from helpers.pc import content_from_query_result, multiple_queries, query_index
+from helpers.pc import content_from_query_result, query_index
 from helpers.progress import Progress
 
 NEWLINE = "\n"
@@ -94,17 +94,6 @@ async def run_raw(namespace: str, prompt: str, progress: Progress | None = None)
             )
         )
         result["correction"] = str(correction)
-
-    result["decision"] = str(
-        await async_call_gpt(
-            f"""Please extract a one-word decision from the text that was answering this question (yes, no, maybe).
-Question:
-{prompt}
-
-Answer:
-{result["correction"] if "correction" in result else result["response"]}"""
-        )
-    )
 
     if progress:
         progress.increment()

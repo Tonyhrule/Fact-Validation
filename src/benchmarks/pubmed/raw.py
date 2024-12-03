@@ -1,11 +1,12 @@
 from datasets import load_dataset, Dataset
 from helpers.data import chunk_list, save_json
+from helpers.oai import async_gpt_calls
 from helpers.progress import Progress
 from pipelines.raw import run_raw
 import asyncio
 
 
-async def raw():
+async def pubmed_raw():
     dataset = load_dataset("qiaojin/PubMedQA", name="pqa_labeled", split="train")
 
     data = dataset.select_columns(["question", "final_decision", "pubid"])  # type: ignore
@@ -26,8 +27,20 @@ async def raw():
 
     progress.finish()
 
-    for result, correct in zip(results, data["final_decision"]):
-        result["correct"] = result["decision"].lower()[0] == correct.lower()[0]
+    decisions = await async_gpt_calls(
+        [
+            f"""Please extract a one-word decision from the text that was answering this question (yes, no, maybe).
+Question:
+{prompt}
+
+Answer:
+{result["correction"] if "correction" in result else result["response"]}"""
+            for prompt, result in zip(data["question"], results)
+        ]
+    )
+
+    for result, decision, correct in zip(results, decisions, data["final_decision"]):
+        result["correct"] = str(decision).lower()[0] == correct.lower()[0]
 
     correct = sum(1 for r in results if r["correct"])
 

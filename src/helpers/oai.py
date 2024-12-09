@@ -114,6 +114,11 @@ async def get_embeddings(texts: list[str], model="text-embedding-3-large"):
         ]
     )
 
+    # responses = []
+
+    # for textBatch in chunk_list(texts, 2048):
+    #     responses += await asyncClient.embeddings.create(input=textBatch, model=model)
+
     result: list[EmbeddingResponse] = []
 
     for response in responses:

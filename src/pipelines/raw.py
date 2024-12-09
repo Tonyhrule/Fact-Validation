@@ -64,7 +64,7 @@ Corrected Answer:"""
 
 async def run_raw(namespace: str, prompt: str, progress: Progress | None = None):
     context = query_index(
-        prompt, namespace, min_score=0.55, include_metadata=True  # type: ignore
+        prompt, namespace, min_score=0.4, include_metadata=True  # type: ignore
     )
 
     response = await async_call_gpt(

@@ -1,39 +1,7 @@
 {
   "question": "Do mitochondria play a role in remodelling lace plant leaves during programmed cell death?",
-  "response": "Yes.",
+  "decision": "Yes",
+  "reasoning": "The statements clearly link mitochondrial dynamics to programmed cell death in lace plants, indicating that mitochondria play a role in leaf remodeling during this process.",
   "validity": 1.0,
-  "validity_judgement": "The answer \"Yes\" correctly indicates that mitochondria play a role in the remodelling of lace plant leaves during programmed cell death (PCD), as supported by the context. The text mentions that mitochondrial dynamics are altered during PCD in the cells of the lace plant, which implies an involvement of mitochondria in this process. Furthermore, the effect of CsA treatment on mitochondrial dynamics and perforation numbers in lace plant leaves suggests that mitochondria are indeed key players in the remodelling process associated with PCD.\n\nReasoning: The provided context directly relates to the question, highlighting the significance of mitochondrial dynamics in the PCD process occurring in the lace plant leaves. Thus, the answer aligns with the evidence presented in the context.\n\nValidity Score: 1",
-  "statements": [
-    {
-      "importance": 1.0,
-      "statement": "Mitochondria are involved in programmed cell death (PCD) in cells.",
-      "validity": 1.0,
-      "validity_judgement": "1"
-    },
-    {
-      "importance": 1.0,
-      "statement": "PCD occurs in the cells of the lace plant's areoles.",
-      "validity": 0.0,
-      "validity_judgement": "0"
-    },
-    {
-      "importance": 1.0,
-      "statement": "Mitochondrial dynamics are altered during PCD in the lace plant.",
-      "validity": 1.0,
-      "validity_judgement": "1"
-    },
-    {
-      "importance": 1.0,
-      "statement": "CsA treatment affects mitochondrial dynamics in lace plant leaves.",
-      "validity": 0.8,
-      "validity_judgement": "0.8"
-    },
-    {
-      "importance": 1.0,
-      "statement": "Mitochondrial dynamics play a role in the remodelling of lace plant leaves during PCD.",
-      "validity": 1.0,
-      "validity_judgement": "1"
-    }
-  ],
-  "decision": "Yes."
+  "final_decision": "Yes"
 }

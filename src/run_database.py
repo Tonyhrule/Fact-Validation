@@ -1,3 +1,5 @@
+from database.hotpot.raw import hotpot_raw
+from database.hotpot.summarizer import hotpot_summarize
 from database.pubmed.raw import pubmed_raw
 from database.pubmed.summarizer import pubmed_summarize
 from database.squad.raw import squad_raw
@@ -9,6 +11,8 @@ programs = [
     ("PubMed QA: Summarized", pubmed_summarize),
     ("Sqaud: Raw", squad_raw),
     ("Squad: Summarized", squad_summarize),
+    ("Hotpot: Raw", hotpot_raw),
+    ("Hotpot: Summarized", hotpot_summarize),
 ]
 
 if __name__ == "__main__":

@@ -4,30 +4,32 @@ from helpers.pc import multiple_queries
 import asyncio
 
 
-dataset = load_dataset("qiaojin/PubMedQA", name="pqa_labeled", split="train")
-data = dataset.select_columns(["question", "pubid"])  # type: ignore
+dataset = load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="train")
+data = dataset.select_columns(["question", "id"]).select(range(1500))  # type: ignore
 
 if not isinstance(data, Dataset):
     raise TypeError("Expected a Dataset object")
 
 print("Querying contexts...")
 
-contexts = asyncio.run(multiple_queries(data["question"], "pubmed_raw"))
+contexts = asyncio.run(
+    multiple_queries(data["question"], "hotpot_summarized", include_metadata=True)
+)
 
 print("Mapping contexts...")
 
 results = []
 
-for context, pubid in zip(contexts, data["pubid"]):
-    matches = [x["id"] for x in context.matches]
+for context, id in zip(contexts, data["id"]):
+    matches = [x.metadata["ids"] for x in context.matches]
     index = 9
     for i in range(10):
-        if str(pubid) in matches[i]:
+        if id in matches[i]:
             index = i
             break
     results.append(
         {
-            "pubid": pubid,
+            "pubid": id,
             "missing_matches": index,
             "lowest_k": context.matches[index]["score"],
         }
@@ -49,4 +51,8 @@ print(
     f"Two missing: {two_missing}/{len(results)} = {two_missing / len(results) * 100:.2f}%"
 )
 
-save_json("results/pubmed_raw_rag.json", results)
+above_55 = sum(1 for r in results if r["lowest_k"] >= 0.55)
+
+print(f"Above k=.55: {above_55}/{len(results)} = {above_55 / len(results) * 100:.2f}%")
+
+save_json("results/hotpot_raw_rag.json", results)

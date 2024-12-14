@@ -1,8 +1,9 @@
+import asyncio
 from helpers.pc import query_index
 
 
 namespaces = [
-    "pubmed_raw",
+    "squad_summarized",
 ]
 namespace_str = "\n".join(
     [f"{i + 1}. {namespace}" for i, namespace in enumerate(namespaces)]
@@ -21,4 +22,9 @@ print(f"Using namespace: {namespace}")
 
 query = input("Enter query: ")
 
-print(query_index(query, namespace).matches)
+print(
+    [
+        x.metadata["content"]
+        for x in asyncio.run(query_index(query, namespace, include_metadata=True))
+    ]
+)

@@ -6,7 +6,7 @@ from helpers.pc import upsert_index
 
 
 async def squad_raw():
-    dataset = load_dataset("rajpurkar/squad", split="train")
+    dataset = load_dataset("rajpurkar/squad", split="validation")
 
     data = dataset.select_columns(["id", "context", "question", "answers"])
 
@@ -24,7 +24,7 @@ async def squad_raw():
 
     print("Getting embeddings...")
 
-    embeddings = await get_embeddings(contexts)
+    embeddings = await get_embeddings(contexts, progress_bar=True)
 
     print("Upserting embeddings...")
 

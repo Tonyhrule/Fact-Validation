@@ -1,3 +1,5 @@
+from functools import partial
+from math import ceil
 from openai import AsyncOpenAI, OpenAI
 from openai.types import CompletionUsage
 from openai.types.create_embedding_response import Usage
@@ -6,9 +8,20 @@ from dotenv import load_dotenv
 from uuid import uuid4
 import asyncio
 
-from helpers.data import add_to_file, chunk_list, delete_file, save_file, stringify
+from helpers.data import (
+    add_to_file,
+    chunk_list,
+    delete_file,
+    queue,
+    read_json,
+    save_file,
+    save_json,
+    stringify,
+)
 from helpers.progress import Progress
 from helpers.variables import SRC_DIR
+from helpers.data import queue
+import atexit
 
 load_dotenv()
 client = OpenAI()
@@ -32,8 +45,14 @@ prices = {
 
 DEFAULT_SYSTEM = ""
 
-if not os.path.exists(SRC_DIR + "../running-batches.txt"):
-    save_file(SRC_DIR + "../running-batches.txt", "")
+# if not os.path.exists(SRC_DIR + "../running-batches.txt"):
+#     save_file(SRC_DIR + "../running-batches.txt", "")
+
+if not os.path.exists(SRC_DIR + "temp"):
+    os.makedirs(SRC_DIR + "temp")
+
+if not os.path.exists(SRC_DIR + "temp/gpt-cache.json"):
+    save_json("temp/gpt-cache.json", {})
 
 
 class GPTResponse:
@@ -50,6 +69,30 @@ class GPTResponse:
             self.usage.completion_tokens * prices[self.model]["output"]
             + self.usage.prompt_tokens * prices[self.model]["input"]
         )
+
+
+class GPTCache:
+    def __init__(self):
+        try:
+            self.cache = read_json("temp/gpt-cache.json")
+        except:
+            self.cache = {}
+            self.save()
+
+    def add(self, prompt: str, response: str):
+        self.cache[prompt] = response
+
+    def get(self, prompt: str) -> str | None:
+        return self.cache.get(prompt)
+
+    def save(self):
+        save_json("temp/gpt-cache.json", self.cache)
+
+    def clear(self):
+        self.cache = {}
+
+
+cache = GPTCache()
 
 
 class EmbeddingResponse:
@@ -90,8 +133,8 @@ def call_gpt(
     )
 
 
-def get_embedding(text: str, model="text-embedding-3-large"):
-    result = client.embeddings.create(
+async def get_embedding(text: str, model="text-embedding-3-large"):
+    result = await asyncClient.embeddings.create(
         input=text,
         model=model,
     )
@@ -107,17 +150,13 @@ def get_embedding(text: str, model="text-embedding-3-large"):
 
 
 async def get_embeddings(texts: list[str], model="text-embedding-3-large"):
-    responses = await asyncio.gather(
-        *[
-            asyncClient.embeddings.create(input=textBatch, model=model)
+    responses = await queue(
+        [
+            partial(asyncClient.embeddings.create, input=textBatch, model=model)
             for textBatch in chunk_list(texts, 2048)
-        ]
+        ],
+        10,
     )
-
-    # responses = []
-
-    # for textBatch in chunk_list(texts, 2048):
-    #     responses += await asyncClient.embeddings.create(input=textBatch, model=model)
 
     result: list[EmbeddingResponse] = []
 
@@ -238,11 +277,44 @@ async def async_call_gpt(
 
     messages.append({"role": "user", "content": prompt})
 
-    result = await asyncClient.chat.completions.create(
-        model=model,
-        messages=messages,
-        max_tokens=max_tokens,
-    )
+    if cache.get(prompt):
+        if progress:
+            progress.increment()
+        return cache.get(prompt)
+
+    try:
+        result = await asyncio.wait_for(
+            asyncClient.chat.completions.create(
+                model=model,
+                messages=messages,
+                max_tokens=max_tokens,
+            ),
+            timeout=10,
+        )
+    except asyncio.TimeoutError:
+        try:
+            result = await asyncio.wait_for(
+                asyncClient.chat.completions.create(
+                    model=model,
+                    messages=messages,
+                    max_tokens=max_tokens,
+                ),
+                timeout=20,
+            )
+        except asyncio.TimeoutError:
+            try:
+                result = await asyncio.wait_for(
+                    asyncClient.chat.completions.create(
+                        model=model,
+                        messages=messages,
+                        max_tokens=max_tokens,
+                    ),
+                    timeout=30,
+                )
+            except:
+                if progress:
+                    progress.increment()
+                raise Exception("Error calling GPT")
 
     if not result.choices[0].message.content or not result.usage:
         raise Exception("Error calling GPT")
@@ -250,11 +322,15 @@ async def async_call_gpt(
     if progress:
         progress.increment()
 
-    return GPTResponse(
+    response = GPTResponse(
         result.choices[0].message.content,
         result.model,
         result.usage,
     )
+
+    cache.add(prompt, str(response))
+
+    return response
 
 
 async def async_gpt_calls(
@@ -263,27 +339,27 @@ async def async_gpt_calls(
     system=DEFAULT_SYSTEM,
     max_tokens: int | None = None,
     progress_bar: bool = False,
-):
-    batches = chunk_list(prompts, 100 if model == "gpt-4o-mini" else 20)
-
-    results: list[GPTResponse] = []
-
+) -> list[GPTResponse]:
     p = Progress(len(prompts)) if progress_bar else None
 
-    for batch in batches:
-        results += await asyncio.gather(
-            *[
-                async_call_gpt(
-                    prompt,
-                    model=model,
-                    system=system,
-                    max_tokens=max_tokens,
-                    progress=p,
-                )
-                for prompt in batch
-            ]
-        )
+    results = await queue(
+        [
+            partial(
+                async_call_gpt,
+                prompt,
+                model=model,
+                system=system,
+                max_tokens=max_tokens,
+                progress=p,
+            )
+            for prompt in prompts
+        ],
+        100 if model == "gpt-4o-mini" else 20,
+    )
 
     p.finish() if p else None
 
     return results
+
+
+atexit.register(cache.save)

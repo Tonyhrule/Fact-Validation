@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 21645374,
+    "missing_matches": 0,
+    "lowest_k": 0.715392
+  },
+  {
+    "id": 16418930,
+    "missing_matches": 0,
+    "lowest_k": 0.7204518
+  },
+  {
+    "id": 9488747,
+    "missing_matches": 0,
+    "lowest_k": 0.65085596
+  },
+  {
+    "id": 17208539,
+    "missing_matches": 0,
+    "lowest_k": 0.7103026
+  },
+  {
+    "id": 10808977,
+    "missing_matches": 0,
+    "lowest_k": 0.62993896
+  },
+  {
+    "id": 23831910,
+    "missing_matches": 0,
+    "lowest_k": 0.6753348
+  },
+  {
+    "id": 26037986,
+    "missing_matches": 0,
+    "lowest_k": 0.6830279
+  },
+  {
+    "id": 26852225,
+    "missing_matches": 0,
+    "lowest_k": 0.5672941
+  },
+  {
+    "id": 17113061,
+    "missing_matches": 0,
+    "lowest_k": 0.6721977
+  },
+  {
+    "id": 10966337,
+    "missing_matches": 0,
+    "lowest_k": 0.70359796
+  },
+  {
+    "id": 25432938,
+    "missing_matches": 0,
+    "lowest_k": 0.67322737
+  },
+  {
+    "id": 18847643,
+    "missing_matches": 0,
+    "lowest_k": 0.64463174
+  },
+  {
+    "id": 18239988,
+    "missing_matches": 0,
+    "lowest_k": 0.6612731
+  },
+  {
+    "id": 25957366,
+    "missing_matches": 0,
+    "lowest_k": 0.76022255
+  },
+  {
+    "id": 24866606,
+    "missing_matches": 0,
+    "lowest_k": 0.8027374
+  },
+  {
+    "id": 26578404,
+    "missing_matches": 0,
+    "lowest_k": 0.7537457
+  },
+  {
+    "id": 11729377,
+    "missing_matches": 0,
+    "lowest_k": 0.5721402
+  },
+  {
+    "id": 17096624,
+    "missing_matches": 0,
+    "lowest_k": 0.6630324
+  },
+  {
+    "id": 22694248,
+    "missing_matches": 0,
+    "lowest_k": 0.5949132
+  },
+  {
+    "id": 22990761,
+    "missing_matches": 0,
+    "lowest_k": 0.67951816
+  },
+  {
+    "id": 19394934,
+    "missing_matches": 0,
+    "lowest_k": 0.59552175
+  },
+  {
+    "id": 11481599,
+    "missing_matches": 0,
+    "lowest_k": 0.6749389
+  },
+  {
+    "id": 21669959,
+    "missing_matches": 0,
+    "lowest_k": 0.7571148
+  },
+  {
+    "id": 23806388,
+    "missing_matches": 0,
+    "lowest_k": 0.7552494
+  },
+  {
+    "id": 17919952,
+    "missing_matches": 0,
+    "lowest_k": 0.62310183
+  },
+  {
+    "id": 10966943,
+    "missing_matches": 0,
+    "lowest_k": 0.47000253
+  },
+  {
+    "id": 23690198,
+    "missing_matches": 0,
+    "lowest_k": 0.6504429
+  },
+  {
+    "id": 17940352,
+    "missing_matches": 0,
+    "lowest_k": 0.82103145
+  },
+  {
+    "id": 20537205,
+    "missing_matches": 0,
+    "lowest_k": 0.6383586
+  },
+  {
+    "id": 28707539,
+    "missing_matches": 0,
+    "lowest_k": 0.61326337
+  },
+  {
+    "id": 7482275,
+    "missing_matches": 0,
+    "lowest_k": 0.70145357
+  },
+  {
+    "id": 24183388,
+    "missing_matches": 0,
+    "lowest_k": 0.7814297
+  },
+  {
+    "id": 9645785,
+    "missing_matches": 0,
+    "lowest_k": 0.66368026
+  },
+  {
+    "id": 26298839,
+    "missing_matches": 0,
+    "lowest_k": 0.6912905
+  },
+  {
+    "id": 24153338,
+    "missing_matches": 0,
+    "lowest_k": 0.66978425
+  },
+  {
+    "id": 18534072,
+    "missing_matches": 0,
+    "lowest_k": 0.5707002
+  },
+  {
+    "id": 8847047,
+    "missing_matches": 0,
+    "lowest_k": 0.70104396
+  },
+  {
+    "id": 10575390,
+    "missing_matches": 0,
+    "lowest_k": 0.7199193
+  },
+  {
+    "id": 20084845,
+    "missing_matches": 0,
+    "lowest_k": 0.6402153
+  },
+  {
+    "id": 15703931,
+    "missing_matches": 0,
+    "lowest_k": 0.7041283
+  },
+  {
+    "id": 18269157,
+    "missing_matches": 0,
+    "lowest_k": 0.75197256
+  },
+  {
+    "id": 25489696,
+    "missing_matches": 0,
+    "lowest_k": 0.76747787
+  },
+  {
+    "id": 14599616,
+    "missing_matches": 0,
+    "lowest_k": 0.55705154
+  },
+  {
+    "id": 22537902,
+    "missing_matches": 0,
+    "lowest_k": 0.676475
+  },
+  {
+    "id": 19054501,
+    "missing_matches": 0,
+    "lowest_k": 0.77753204
+  },
+  {
+    "id": 16432652,
+    "missing_matches": 0,
+    "lowest_k": 0.7267164
+  },
+  {
+    "id": 19504993,
+    "missing_matches": 0,
+    "lowest_k": 0.5859924
+  },
+  {
+    "id": 20571467,
+    "missing_matches": 0,
+    "lowest_k": 0.6840453
+  },
+  {
+    "id": 24237112,
+    "missing_matches": 0,
+    "lowest_k": 0.6215455
+  },
+  {
+    "id": 21402341,
+    "missing_matches": 0,
+    "lowest_k": 0.601844
+  },
+  {
+    "id": 20082356,
+    "missing_matches": 0,
+    "lowest_k": 0.64448935
+  },
+  {
+    "id": 26606599,
+    "missing_matches": 0,
+    "lowest_k": 0.6966892
+  },
+  {
+    "id": 11340218,
+    "missing_matches": 0,
+    "lowest_k": 0.6865518
+  },
+  {
+    "id": 25481573,
+    "missing_matches": 0,
+    "lowest_k": 0.6475775
+  },
+  {
+    "id": 25277731,
+    "missing_matches": 0,
+    "lowest_k": 0.73186916
+  },
+  {
+    "id": 25475395,
+    "missing_matches": 0,
+    "lowest_k": 0.7493928
+  },
+  {
+    "id": 23177368,
+    "missing_matches": 0,
+    "lowest_k": 0.6248681
+  },
+  {
+    "id": 17179167,
+    "missing_matches": 0,
+    "lowest_k": 0.7739849
+  },
+  {
+    "id": 14612308,
+    "missing_matches": 0,
+    "lowest_k": 0.7344373
+  },
+  {
+    "id": 27491658,
+    "missing_matches": 0,
+    "lowest_k": 0.70268553
+  },
+  {
+    "id": 19822586,
+    "missing_matches": 0,
+    "lowest_k": 0.6153936
+  },
+  {
+    "id": 27643961,
+    "missing_matches": 0,
+    "lowest_k": 0.7403166
+  },
+  {
+    "id": 23539689,
+    "missing_matches": 0,
+    "lowest_k": 0.4922649
+  },
+  {
+    "id": 22453060,
+    "missing_matches": 0,
+    "lowest_k": 0.645984
+  },
+  {
+    "id": 22227642,
+    "missing_matches": 0,
+    "lowest_k": 0.60629416
+  },
+  {
+    "id": 12380309,
+    "missing_matches": 0,
+    "lowest_k": 0.52619386
+  },
+  {
+    "id": 22186742,
+    "missing_matches": 0,
+    "lowest_k": 0.65985864
+  },
+  {
+    "id": 22188074,
+    "missing_matches": 0,
+    "lowest_k": 0.7956252
+  },
+  {
+    "id": 27989969,
+    "missing_matches": 0,
+    "lowest_k": 0.76210934
+  },
+  {
+    "id": 18607272,
+    "missing_matches": 0,
+    "lowest_k": 0.7370222
+  },
+  {
+    "id": 18235194,
+    "missing_matches": 0,
+    "lowest_k": 0.63202685
+  },
+  {
+    "id": 18049437,
+    "missing_matches": 0,
+    "lowest_k": 0.66873276
+  },
+  {
+    "id": 15597845,
+    "missing_matches": 0,
+    "lowest_k": 0.69040346
+  },
+  {
+    "id": 24996865,
+    "missing_matches": 0,
+    "lowest_k": 0.6678391
+  },
+  {
+    "id": 23361217,
+    "missing_matches": 0,
+    "lowest_k": 0.70703316
+  },
+  {
+    "id": 17489316,
+    "missing_matches": 0,
+    "lowest_k": 0.79368126
+  },
+  {
+    "id": 14518645,
+    "missing_matches": 0,
+    "lowest_k": 0.72320116
+  },
+  {
+    "id": 20337202,
+    "missing_matches": 0,
+    "lowest_k": 0.54819846
+  },
+  {
+    "id": 26449554,
+    "missing_matches": 0,
+    "lowest_k": 0.6548049
+  },
+  {
+    "id": 26215326,
+    "missing_matches": 0,
+    "lowest_k": 0.6126923
+  },
+  {
+    "id": 29112560,
+    "missing_matches": 1,
+    "lowest_k": 0.2793145
+  },
+  {
+    "id": 24315783,
+    "missing_matches": 0,
+    "lowest_k": 0.76271653
+  },
+  {
+    "id": 9381529,
+    "missing_matches": 0,
+    "lowest_k": 0.61640924
+  },
+  {
+    "id": 8985020,
+    "missing_matches": 0,
+    "lowest_k": 0.72172827
+  },
+  {
+    "id": 26708803,
+    "missing_matches": 0,
+    "lowest_k": 0.74830884
+  },
+  {
+    "id": 22427593,
+    "missing_matches": 0,
+    "lowest_k": 0.84418
+  },
+  {
+    "id": 11570976,
+    "missing_matches": 9,
+    "lowest_k": 0.31904185
+  },
+  {
+    "id": 19757704,
+    "missing_matches": 0,
+    "lowest_k": 0.634979
+  },
+  {
+    "id": 27592038,
+    "missing_matches": 0,
+    "lowest_k": 0.7218377
+  },
+  {
+    "id": 27044366,
+    "missing_matches": 0,
+    "lowest_k": 0.73329425
+  },
+  {
+    "id": 9792366,
+    "missing_matches": 0,
+    "lowest_k": 0.7249118
+  },
+  {
+    "id": 17562682,
+    "missing_matches": 0,
+    "lowest_k": 0.73935044
+  },
+  {
+    "id": 15800018,
+    "missing_matches": 0,
+    "lowest_k": 0.80320275
+  },
+  {
+    "id": 14978612,
+    "missing_matches": 0,
+    "lowest_k": 0.7926494
+  },
+  {
+    "id": 18843057,
+    "missing_matches": 0,
+    "lowest_k": 0.5510223
+  },
+  {
+    "id": 23076787,
+    "missing_matches": 0,
+    "lowest_k": 0.62546366
+  },
+  {
+    "id": 9199905,
+    "missing_matches": 0,
+    "lowest_k": 0.7581327
+  },
+  {
+    "id": 23999452,
+    "missing_matches": 0,
+    "lowest_k": 0.731985
+  },
+  {
+    "id": 22534881,
+    "missing_matches": 0,
+    "lowest_k": 0.77186793
+  },
+  {
+    "id": 24785562,
+    "missing_matches": 0,
+    "lowest_k": 0.80274224
+  },
+  {
+    "id": 22564465,
+    "missing_matches": 0,
+    "lowest_k": 0.7016022
+  },
+  {
+    "id": 27456836,
+    "missing_matches": 0,
+    "lowest_k": 0.73976195
+  },
+  {
+    "id": 27287237,
+    "missing_matches": 0,
+    "lowest_k": 0.71694916
+  },
+  {
+    "id": 14697414,
+    "missing_matches": 0,
+    "lowest_k": 0.57653195
+  },
+  {
+    "id": 26686513,
+    "missing_matches": 0,
+    "lowest_k": 0.64621586
+  },
+  {
+    "id": 15530261,
+    "missing_matches": 0,
+    "lowest_k": 0.8046484
+  },
+  {
+    "id": 24160268,
+    "missing_matches": 1,
+    "lowest_k": 0.16710396
+  },
+  {
+    "id": 21823940,
+    "missing_matches": 0,
+    "lowest_k": 0.7120399
+  },
+  {
+    "id": 27217036,
+    "missing_matches": 0,
+    "lowest_k": 0.73900044
+  },
+  {
+    "id": 18565233,
+    "missing_matches": 0,
+    "lowest_k": 0.7690367
+  },
+  {
+    "id": 19694846,
+    "missing_matches": 0,
+    "lowest_k": 0.76526743
+  },
+  {
+    "id": 27184293,
+    "missing_matches": 0,
+    "lowest_k": 0.7648128
+  },
+  {
+    "id": 19459018,
+    "missing_matches": 0,
+    "lowest_k": 0.6604373
+  },
+  {
+    "id": 22042121,
+    "missing_matches": 0,
+    "lowest_k": 0.66049016
+  },
+  {
+    "id": 16100194,
+    "missing_matches": 0,
+    "lowest_k": 0.75546986
+  },
+  {
+    "id": 25480629,
+    "missing_matches": 0,
+    "lowest_k": 0.71472883
+  },
+  {
+    "id": 17453263,
+    "missing_matches": 0,
+    "lowest_k": 0.80309623
+  },
+  {
+    "id": 18322741,
+    "missing_matches": 0,
+    "lowest_k": 0.7647744
+  },
+  {
+    "id": 19106867,
+    "missing_matches": 0,
+    "lowest_k": 0.54287887
+  },
+  {
+    "id": 25691513,
+    "missing_matches": 0,
+    "lowest_k": 0.4758788
+  },
+  {
+    "id": 11035130,
+    "missing_matches": 0,
+    "lowest_k": 0.6735444
+  },
+  {
+    "id": 19409117,
+    "missing_matches": 0,
+    "lowest_k": 0.6922988
+  },
+  {
+    "id": 21900017,
+    "missing_matches": 0,
+    "lowest_k": 0.67046803
+  },
+  {
+    "id": 16968876,
+    "missing_matches": 0,
+    "lowest_k": 0.80124843
+  },
+  {
+    "id": 18540901,
+    "missing_matches": 0,
+    "lowest_k": 0.77333605
+  },
+  {
+    "id": 27448572,
+    "missing_matches": 0,
+    "lowest_k": 0.74646956
+  },
+  {
+    "id": 17621202,
+    "missing_matches": 0,
+    "lowest_k": 0.76704997
+  },
+  {
+    "id": 25987398,
+    "missing_matches": 0,
+    "lowest_k": 0.7731419
+  },
+  {
+    "id": 16816043,
+    "missing_matches": 0,
+    "lowest_k": 0.64662695
+  },
+  {
+    "id": 12920330,
+    "missing_matches": 0,
+    "lowest_k": 0.7205579
+  },
+  {
+    "id": 23497210,
+    "missing_matches": 0,
+    "lowest_k": 0.66150826
+  },
+  {
+    "id": 21952349,
+    "missing_matches": 0,
+    "lowest_k": 0.6744337
+  },
+  {
+    "id": 21712147,
+    "missing_matches": 0,
+    "lowest_k": 0.5007026
+  },
+  {
+    "id": 25311479,
+    "missing_matches": 0,
+    "lowest_k": 0.6982332
+  },
+  {
+    "id": 20602784,
+    "missing_matches": 0,
+    "lowest_k": 0.71811956
+  },
+  {
+    "id": 12836106,
+    "missing_matches": 0,
+    "lowest_k": 0.6548174
+  },
+  {
+    "id": 25588461,
+    "missing_matches": 0,
+    "lowest_k": 0.7398847
+  },
+  {
+    "id": 19299238,
+    "missing_matches": 0,
+    "lowest_k": 0.7244551
+  },
+  {
+    "id": 22706226,
+    "missing_matches": 0,
+    "lowest_k": 0.68723375
+  },
+  {
+    "id": 12913878,
+    "missing_matches": 0,
+    "lowest_k": 0.73940694
+  },
+  {
+    "id": 16769333,
+    "missing_matches": 0,
+    "lowest_k": 0.7649611
+  },
+  {
+    "id": 22497340,
+    "missing_matches": 0,
+    "lowest_k": 0.7072982
+  },
+  {
+    "id": 10223070,
+    "missing_matches": 0,
+    "lowest_k": 0.8222618
+  },
+  {
+    "id": 8566975,
+    "missing_matches": 0,
+    "lowest_k": 0.72099566
+  },
+  {
+    "id": 25186850,
+    "missing_matches": 0,
+    "lowest_k": 0.63558227
+  },
+  {
+    "id": 9427037,
+    "missing_matches": 0,
+    "lowest_k": 0.67946345
+  },
+  {
+    "id": 28359277,
+    "missing_matches": 0,
+    "lowest_k": 0.6017131
+  },
+  {
+    "id": 11411430,
+    "missing_matches": 0,
+    "lowest_k": 0.6900896
+  },
+  {
+    "id": 16956164,
+    "missing_matches": 0,
+    "lowest_k": 0.7715139
+  },
+  {
+    "id": 15687156,
+    "missing_matches": 0,
+    "lowest_k": 0.7184231
+  },
+  {
+    "id": 28127977,
+    "missing_matches": 0,
+    "lowest_k": 0.7285735
+  },
+  {
+    "id": 16809243,
+    "missing_matches": 0,
+    "lowest_k": 0.85625005
+  },
+  {
+    "id": 17276182,
+    "missing_matches": 0,
+    "lowest_k": 0.76342946
+  },
+  {
+    "id": 21123461,
+    "missing_matches": 0,
+    "lowest_k": 0.6587914
+  },
+  {
+    "id": 22428608,
+    "missing_matches": 0,
+    "lowest_k": 0.7931287
+  },
+  {
+    "id": 27858166,
+    "missing_matches": 0,
+    "lowest_k": 0.7727243
+  },
+  {
+    "id": 23791827,
+    "missing_matches": 0,
+    "lowest_k": 0.620405
+  },
+  {
+    "id": 18243752,
+    "missing_matches": 0,
+    "lowest_k": 0.48917282
+  },
+  {
+    "id": 17279467,
+    "missing_matches": 0,
+    "lowest_k": 0.61557657
+  },
+  {
+    "id": 22758782,
+    "missing_matches": 0,
+    "lowest_k": 0.76646084
+  },
+  {
+    "id": 15223725,
+    "missing_matches": 0,
+    "lowest_k": 0.76356286
+  },
+  {
+    "id": 19482903,
+    "missing_matches": 0,
+    "lowest_k": 0.7676268
+  },
+  {
+    "id": 25752912,
+    "missing_matches": 0,
+    "lowest_k": 0.75636226
+  },
+  {
+    "id": 21946341,
+    "missing_matches": 0,
+    "lowest_k": 0.726614
+  },
+  {
+    "id": 16428354,
+    "missing_matches": 0,
+    "lowest_k": 0.76748705
+  },
+  {
+    "id": 19302863,
+    "missing_matches": 0,
+    "lowest_k": 0.6481311
+  },
+  {
+    "id": 24245816,
+    "missing_matches": 0,
+    "lowest_k": 0.7836272
+  },
+  {
+    "id": 24666444,
+    "missing_matches": 0,
+    "lowest_k": 0.75010014
+  },
+  {
+    "id": 19913785,
+    "missing_matches": 0,
+    "lowest_k": 0.7094823
+  },
+  {
+    "id": 1571683,
+    "missing_matches": 0,
+    "lowest_k": 0.657408
+  },
+  {
+    "id": 15631914,
+    "missing_matches": 0,
+    "lowest_k": 0.67592233
+  },
+  {
+    "id": 11970923,
+    "missing_matches": 0,
+    "lowest_k": 0.66519207
+  },
+  {
+    "id": 20121683,
+    "missing_matches": 0,
+    "lowest_k": 0.63529027
+  },
+  {
+    "id": 27281318,
+    "missing_matches": 0,
+    "lowest_k": 0.6614047
+  },
+  {
+    "id": 12846929,
+    "missing_matches": 0,
+    "lowest_k": 0.79163754
+  },
+  {
+    "id": 26505821,
+    "missing_matches": 0,
+    "lowest_k": 0.69745547
+  },
+  {
+    "id": 25156467,
+    "missing_matches": 0,
+    "lowest_k": 0.7326606
+  },
+  {
+    "id": 22023714,
+    "missing_matches": 0,
+    "lowest_k": 0.83536243
+  },
+  {
+    "id": 16046584,
+    "missing_matches": 0,
+    "lowest_k": 0.7873143
+  },
+  {
+    "id": 16155169,
+    "missing_matches": 0,
+    "lowest_k": 0.771565
+  },
+  {
+    "id": 19398929,
+    "missing_matches": 0,
+    "lowest_k": 0.68968844
+  },
+  {
+    "id": 28143468,
+    "missing_matches": 0,
+    "lowest_k": 0.5462174
+  },
+  {
+    "id": 9483814,
+    "missing_matches": 0,
+    "lowest_k": 0.6432861
+  },
+  {
+    "id": 22720085,
+    "missing_matches": 0,
+    "lowest_k": 0.67958623
+  },
+  {
+    "id": 24748473,
+    "missing_matches": 0,
+    "lowest_k": 0.7685715
+  },
+  {
+    "id": 15588538,
+    "missing_matches": 0,
+    "lowest_k": 0.64609146
+  },
+  {
+    "id": 22211919,
+    "missing_matches": 0,
+    "lowest_k": 0.5997215
+  },
+  {
+    "id": 24433626,
+    "missing_matches": 0,
+    "lowest_k": 0.7520568
+  },
+  {
+    "id": 9542484,
+    "missing_matches": 0,
+    "lowest_k": 0.750434
+  },
+  {
+    "id": 17008699,
+    "missing_matches": 1,
+    "lowest_k": 0.58254135
+  },
+  {
+    "id": 23228527,
+    "missing_matches": 0,
+    "lowest_k": 0.73236513
+  },
+  {
+    "id": 15489384,
+    "missing_matches": 0,
+    "lowest_k": 0.62084246
+  },
+  {
+    "id": 17444776,
+    "missing_matches": 0,
+    "lowest_k": 0.6971984
+  },
+  {
+    "id": 8422202,
+    "missing_matches": 0,
+    "lowest_k": 0.7056482
+  },
+  {
+    "id": 23794696,
+    "missing_matches": 0,
+    "lowest_k": 0.7682887
+  },
+  {
+    "id": 20549895,
+    "missing_matches": 0,
+    "lowest_k": 0.6717672
+  },
+  {
+    "id": 18714572,
+    "missing_matches": 0,
+    "lowest_k": 0.55883205
+  },
+  {
+    "id": 2224269,
+    "missing_matches": 0,
+    "lowest_k": 0.6702693
+  },
+  {
+    "id": 8910148,
+    "missing_matches": 0,
+    "lowest_k": 0.6110569
+  },
+  {
+    "id": 23899611,
+    "missing_matches": 0,
+    "lowest_k": 0.7873105
+  },
+  {
+    "id": 10548670,
+    "missing_matches": 0,
+    "lowest_k": 0.71679515
+  },
+  {
+    "id": 26907557,
+    "missing_matches": 0,
+    "lowest_k": 0.7083924
+  },
+  {
+    "id": 20871246,
+    "missing_matches": 0,
+    "lowest_k": 0.8365052
+  },
+  {
+    "id": 22876568,
+    "missing_matches": 0,
+    "lowest_k": 0.72665906
+  },
+  {
+    "id": 15280782,
+    "missing_matches": 0,
+    "lowest_k": 0.65920585
+  },
+  {
+    "id": 17502203,
+    "missing_matches": 0,
+    "lowest_k": 0.6665676
+  },
+  {
+    "id": 26370095,
+    "missing_matches": 0,
+    "lowest_k": 0.8011196
+  },
+  {
+    "id": 10354335,
+    "missing_matches": 0,
+    "lowest_k": 0.7237672
+  },
+  {
+    "id": 26452334,
+    "missing_matches": 0,
+    "lowest_k": 0.7200508
+  },
+  {
+    "id": 15065192,
+    "missing_matches": 0,
+    "lowest_k": 0.7140443
+  },
+  {
+    "id": 25488308,
+    "missing_matches": 0,
+    "lowest_k": 0.688321
+  },
+  {
+    "id": 22449464,
+    "missing_matches": 0,
+    "lowest_k": 0.7420723
+  },
+  {
+    "id": 26222664,
+    "missing_matches": 0,
+    "lowest_k": 0.7331554
+  },
+  {
+    "id": 22617083,
+    "missing_matches": 0,
+    "lowest_k": 0.7764017
+  },
+  {
+    "id": 9767546,
+    "missing_matches": 0,
+    "lowest_k": 0.5378875
+  },
+  {
+    "id": 21214884,
+    "missing_matches": 0,
+    "lowest_k": 0.73070884
+  },
+  {
+    "id": 23321509,
+    "missing_matches": 0,
+    "lowest_k": 0.7120223
+  },
+  {
+    "id": 16827975,
+    "missing_matches": 0,
+    "lowest_k": 0.69603646
+  },
+  {
+    "id": 18179827,
+    "missing_matches": 0,
+    "lowest_k": 0.81970114
+  },
+  {
+    "id": 14872327,
+    "missing_matches": 0,
+    "lowest_k": 0.634921
+  },
+  {
+    "id": 24809662,
+    "missing_matches": 0,
+    "lowest_k": 0.7268563
+  },
+  {
+    "id": 26485091,
+    "missing_matches": 0,
+    "lowest_k": 0.64415395
+  },
+  {
+    "id": 12805495,
+    "missing_matches": 0,
+    "lowest_k": 0.63047767
+  },
+  {
+    "id": 19925761,
+    "missing_matches": 0,
+    "lowest_k": 0.68993425
+  },
+  {
+    "id": 11458136,
+    "missing_matches": 0,
+    "lowest_k": 0.722063
+  },
+  {
+    "id": 20382292,
+    "missing_matches": 0,
+    "lowest_k": 0.7871708
+  },
+  {
+    "id": 22236315,
+    "missing_matches": 0,
+    "lowest_k": 0.6897305
+  },
+  {
+    "id": 17051586,
+    "missing_matches": 0,
+    "lowest_k": 0.76644546
+  },
+  {
+    "id": 25007420,
+    "missing_matches": 0,
+    "lowest_k": 0.8379117
+  },
+  {
+    "id": 26556589,
+    "missing_matches": 0,
+    "lowest_k": 0.71412545
+  },
+  {
+    "id": 12612531,
+    "missing_matches": 0,
+    "lowest_k": 0.66322577
+  },
+  {
+    "id": 26194560,
+    "missing_matches": 0,
+    "lowest_k": 0.69231576
+  },
+  {
+    "id": 11079675,
+    "missing_matches": 0,
+    "lowest_k": 0.52803916
+  },
+  {
+    "id": 21459725,
+    "missing_matches": 0,
+    "lowest_k": 0.5545513
+  },
+  {
+    "id": 21172844,
+    "missing_matches": 0,
+    "lowest_k": 0.7862343
+  },
+  {
+    "id": 24946973,
+    "missing_matches": 0,
+    "lowest_k": 0.62395966
+  },
+  {
+    "id": 17335331,
+    "missing_matches": 0,
+    "lowest_k": 0.63366044
+  },
+  {
+    "id": 27581329,
+    "missing_matches": 0,
+    "lowest_k": 0.74274087
+  },
+  {
+    "id": 11867487,
+    "missing_matches": 0,
+    "lowest_k": 0.6368376
+  },
+  {
+    "id": 12765819,
+    "missing_matches": 0,
+    "lowest_k": 0.6477936
+  },
+  {
+    "id": 24507422,
+    "missing_matches": 0,
+    "lowest_k": 0.6965979
+  },
+  {
+    "id": 9854965,
+    "missing_matches": 0,
+    "lowest_k": 0.64882684
+  },
+  {
+    "id": 21756515,
+    "missing_matches": 0,
+    "lowest_k": 0.7206523
+  },
+  {
+    "id": 19131405,
+    "missing_matches": 0,
+    "lowest_k": 0.7299509
+  },
+  {
+    "id": 18568290,
+    "missing_matches": 0,
+    "lowest_k": 0.7869837
+  },
+  {
+    "id": 18667100,
+    "missing_matches": 0,
+    "lowest_k": 0.74352485
+  },
+  {
+    "id": 9191526,
+    "missing_matches": 0,
+    "lowest_k": 0.65878725
+  },
+  {
+    "id": 10605400,
+    "missing_matches": 0,
+    "lowest_k": 0.5507116
+  },
+  {
+    "id": 17601244,
+    "missing_matches": 0,
+    "lowest_k": 0.7171059
+  },
+  {
+    "id": 20608141,
+    "missing_matches": 0,
+    "lowest_k": 0.56269825
+  },
+  {
+    "id": 25986020,
+    "missing_matches": 0,
+    "lowest_k": 0.57985306
+  },
+  {
+    "id": 15670262,
+    "missing_matches": 0,
+    "lowest_k": 0.756335
+  },
+  {
+    "id": 22900881,
+    "missing_matches": 0,
+    "lowest_k": 0.5758467
+  },
+  {
+    "id": 11413427,
+    "missing_matches": 0,
+    "lowest_k": 0.746304
+  },
+  {
+    "id": 9602458,
+    "missing_matches": 0,
+    "lowest_k": 0.7890829
+  },
+  {
+    "id": 24434052,
+    "missing_matches": 1,
+    "lowest_k": 0.45285276
+  },
+  {
+    "id": 17598882,
+    "missing_matches": 0,
+    "lowest_k": 0.6219176
+  },
+  {
+    "id": 21190419,
+    "missing_matches": 0,
+    "lowest_k": 0.80095494
+  },
+  {
+    "id": 16403186,
+    "missing_matches": 0,
+    "lowest_k": 0.794816
+  },
+  {
+    "id": 11888773,
+    "missing_matches": 0,
+    "lowest_k": 0.59495074
+  },
+  {
+    "id": 25940336,
+    "missing_matches": 0,
+    "lowest_k": 0.6786428
+  },
+  {
+    "id": 24014276,
+    "missing_matches": 0,
+    "lowest_k": 0.68872887
+  },
+  {
+    "id": 18359123,
+    "missing_matches": 9,
+    "lowest_k": 0.2502871
+  },
+  {
+    "id": 26113007,
+    "missing_matches": 0,
+    "lowest_k": 0.6981599
+  },
+  {
+    "id": 11838307,
+    "missing_matches": 0,
+    "lowest_k": 0.69297504
+  },
+  {
+    "id": 18222909,
+    "missing_matches": 0,
+    "lowest_k": 0.79909563
+  },
+  {
+    "id": 24747511,
+    "missing_matches": 0,
+    "lowest_k": 0.56229955
+  },
+  {
+    "id": 12407608,
+    "missing_matches": 0,
+    "lowest_k": 0.7282937
+  },
+  {
+    "id": 19836806,
+    "missing_matches": 0,
+    "lowest_k": 0.6980636
+  },
+  {
+    "id": 17076091,
+    "missing_matches": 0,
+    "lowest_k": 0.6818883
+  },
+  {
+    "id": 21801416,
+    "missing_matches": 0,
+    "lowest_k": 0.74906915
+  },
+  {
+    "id": 25819796,
+    "missing_matches": 0,
+    "lowest_k": 0.62387824
+  },
+  {
+    "id": 18496363,
+    "missing_matches": 0,
+    "lowest_k": 0.6013167
+  },
+  {
+    "id": 14551704,
+    "missing_matches": 0,
+    "lowest_k": 0.6111259
+  },
+  {
+    "id": 23234860,
+    "missing_matches": 0,
+    "lowest_k": 0.70328593
+  },
+  {
+    "id": 22532370,
+    "missing_matches": 0,
+    "lowest_k": 0.72432977
+  },
+  {
+    "id": 22656647,
+    "missing_matches": 0,
+    "lowest_k": 0.7019347
+  },
+  {
+    "id": 22683044,
+    "missing_matches": 0,
+    "lowest_k": 0.6483132
+  },
+  {
+    "id": 11566686,
+    "missing_matches": 0,
+    "lowest_k": 0.6574776
+  },
+  {
+    "id": 15502995,
+    "missing_matches": 0,
+    "lowest_k": 0.5719942
+  },
+  {
+    "id": 24019262,
+    "missing_matches": 0,
+    "lowest_k": 0.7000676
+  },
+  {
+    "id": 22867778,
+    "missing_matches": 0,
+    "lowest_k": 0.6165279
+  },
+  {
+    "id": 23348330,
+    "missing_matches": 0,
+    "lowest_k": 0.7728213
+  },
+  {
+    "id": 21658267,
+    "missing_matches": 0,
+    "lowest_k": 0.6286354
+  },
+  {
+    "id": 28177278,
+    "missing_matches": 0,
+    "lowest_k": 0.6895016
+  },
+  {
+    "id": 18403944,
+    "missing_matches": 0,
+    "lowest_k": 0.6095334
+  },
+  {
+    "id": 20363841,
+    "missing_matches": 0,
+    "lowest_k": 0.70044553
+  },
+  {
+    "id": 19664156,
+    "missing_matches": 0,
+    "lowest_k": 0.70219535
+  },
+  {
+    "id": 23356465,
+    "missing_matches": 1,
+    "lowest_k": 0.43945587
+  },
+  {
+    "id": 22972546,
+    "missing_matches": 0,
+    "lowest_k": 0.73978674
+  },
+  {
+    "id": 21850494,
+    "missing_matches": 0,
+    "lowest_k": 0.6647009
+  },
+  {
+    "id": 26778755,
+    "missing_matches": 0,
+    "lowest_k": 0.70544565
+  },
+  {
+    "id": 20187289,
+    "missing_matches": 0,
+    "lowest_k": 0.59751725
+  },
+  {
+    "id": 27615402,
+    "missing_matches": 0,
+    "lowest_k": 0.6465704
+  },
+  {
+    "id": 20297950,
+    "missing_matches": 0,
+    "lowest_k": 0.74998105
+  },
+  {
+    "id": 23735520,
+    "missing_matches": 0,
+    "lowest_k": 0.70640135
+  },
+  {
+    "id": 10759659,
+    "missing_matches": 0,
+    "lowest_k": 0.5786536
+  },
+  {
+    "id": 25592625,
+    "missing_matches": 0,
+    "lowest_k": 0.6929279
+  },
+  {
+    "id": 12595848,
+    "missing_matches": 0,
+    "lowest_k": 0.636878
+  },
+  {
+    "id": 20064872,
+    "missing_matches": 0,
+    "lowest_k": 0.58960885
+  },
+  {
+    "id": 23588461,
+    "missing_matches": 0,
+    "lowest_k": 0.64806426
+  },
+  {
+    "id": 18019905,
+    "missing_matches": 0,
+    "lowest_k": 0.6922655
+  },
+  {
+    "id": 25859857,
+    "missing_matches": 0,
+    "lowest_k": 0.68124104
+  },
+  {
+    "id": 26418796,
+    "missing_matches": 0,
+    "lowest_k": 0.6150714
+  },
+  {
+    "id": 22825590,
+    "missing_matches": 0,
+    "lowest_k": 0.5903931
+  },
+  {
+    "id": 18832500,
+    "missing_matches": 0,
+    "lowest_k": 0.5966086
+  },
+  {
+    "id": 18955431,
+    "missing_matches": 0,
+    "lowest_k": 0.7448351
+  },
+  {
+    "id": 9550200,
+    "missing_matches": 0,
+    "lowest_k": 0.67513734
+  },
+  {
+    "id": 10135926,
+    "missing_matches": 0,
+    "lowest_k": 0.7008216
+  },
+  {
+    "id": 11296674,
+    "missing_matches": 0,
+    "lowest_k": 0.43270427
+  },
+  {
+    "id": 24139705,
+    "missing_matches": 0,
+    "lowest_k": 0.61129063
+  },
+  {
+    "id": 16253970,
+    "missing_matches": 0,
+    "lowest_k": 0.7181568
+  },
+  {
+    "id": 14745753,
+    "missing_matches": 0,
+    "lowest_k": 0.70422775
+  },
+  {
+    "id": 27078715,
+    "missing_matches": 0,
+    "lowest_k": 0.7446089
+  },
+  {
+    "id": 15939071,
+    "missing_matches": 0,
+    "lowest_k": 0.7423913
+  },
+  {
+    "id": 11926574,
+    "missing_matches": 0,
+    "lowest_k": 0.7966141
+  },
+  {
+    "id": 18594195,
+    "missing_matches": 0,
+    "lowest_k": 0.7444751
+  },
+  {
+    "id": 25614468,
+    "missing_matches": 0,
+    "lowest_k": 0.6186878
+  },
+  {
+    "id": 19653482,
+    "missing_matches": 0,
+    "lowest_k": 0.6187367
+  },
+  {
+    "id": 11380492,
+    "missing_matches": 0,
+    "lowest_k": 0.7916112
+  },
+  {
+    "id": 16296668,
+    "missing_matches": 0,
+    "lowest_k": 0.749443
+  },
+  {
+    "id": 19520213,
+    "missing_matches": 0,
+    "lowest_k": 0.68448126
+  },
+  {
+    "id": 14992556,
+    "missing_matches": 0,
+    "lowest_k": 0.66129977
+  },
+  {
+    "id": 19931500,
+    "missing_matches": 0,
+    "lowest_k": 0.6753909
+  },
+  {
+    "id": 18378554,
+    "missing_matches": 0,
+    "lowest_k": 0.6704927
+  },
+  {
+    "id": 17306983,
+    "missing_matches": 0,
+    "lowest_k": 0.67109364
+  },
+  {
+    "id": 26879871,
+    "missing_matches": 0,
+    "lowest_k": 0.53249454
+  },
+  {
+    "id": 24336869,
+    "missing_matches": 0,
+    "lowest_k": 0.6355743
+  },
+  {
+    "id": 16962519,
+    "missing_matches": 0,
+    "lowest_k": 0.75389504
+  },
+  {
+    "id": 17704864,
+    "missing_matches": 0,
+    "lowest_k": 0.7264746
+  },
+  {
+    "id": 18307476,
+    "missing_matches": 0,
+    "lowest_k": 0.71381825
+  },
+  {
+    "id": 15151701,
+    "missing_matches": 0,
+    "lowest_k": 0.47016177
+  },
+  {
+    "id": 26399179,
+    "missing_matches": 0,
+    "lowest_k": 0.64882445
+  },
+  {
+    "id": 21889895,
+    "missing_matches": 0,
+    "lowest_k": 0.7845002
+  },
+  {
+    "id": 21569408,
+    "missing_matches": 0,
+    "lowest_k": 0.68450695
+  },
+  {
+    "id": 23025584,
+    "missing_matches": 0,
+    "lowest_k": 0.61162627
+  },
+  {
+    "id": 23587089,
+    "missing_matches": 0,
+    "lowest_k": 0.64973515
+  },
+  {
+    "id": 15539888,
+    "missing_matches": 0,
+    "lowest_k": 0.67672193
+  },
+  {
+    "id": 23096188,
+    "missing_matches": 0,
+    "lowest_k": 0.63909507
+  },
+  {
+    "id": 21881325,
+    "missing_matches": 0,
+    "lowest_k": 0.78554195
+  },
+  {
+    "id": 19542542,
+    "missing_matches": 0,
+    "lowest_k": 0.69977045
+  },
+  {
+    "id": 16872243,
+    "missing_matches": 0,
+    "lowest_k": 0.57277393
+  },
+  {
+    "id": 15141797,
+    "missing_matches": 0,
+    "lowest_k": 0.6314003
+  },
+  {
+    "id": 25394614,
+    "missing_matches": 0,
+    "lowest_k": 0.7168928
+  },
+  {
+    "id": 10381996,
+    "missing_matches": 0,
+    "lowest_k": 0.68094766
+  },
+  {
+    "id": 26134053,
+    "missing_matches": 0,
+    "lowest_k": 0.6262663
+  },
+  {
+    "id": 25274085,
+    "missing_matches": 0,
+    "lowest_k": 0.7025857
+  },
+  {
+    "id": 12098035,
+    "missing_matches": 0,
+    "lowest_k": 0.67245686
+  },
+  {
+    "id": 12963175,
+    "missing_matches": 0,
+    "lowest_k": 0.6976865
+  },
+  {
+    "id": 21865668,
+    "missing_matches": 0,
+    "lowest_k": 0.79483056
+  },
+  {
+    "id": 16510651,
+    "missing_matches": 0,
+    "lowest_k": 0.6217918
+  },
+  {
+    "id": 24901580,
+    "missing_matches": 0,
+    "lowest_k": 0.6687543
+  },
+  {
+    "id": 19468282,
+    "missing_matches": 0,
+    "lowest_k": 0.519584
+  },
+  {
+    "id": 21481154,
+    "missing_matches": 0,
+    "lowest_k": 0.6651263
+  },
+  {
+    "id": 21398266,
+    "missing_matches": 0,
+    "lowest_k": 0.5090592
+  },
+  {
+    "id": 25371231,
+    "missing_matches": 0,
+    "lowest_k": 0.7551684
+  },
+  {
+    "id": 23252468,
+    "missing_matches": 0,
+    "lowest_k": 0.6966116
+  },
+  {
+    "id": 22440363,
+    "missing_matches": 0,
+    "lowest_k": 0.7749989
+  },
+  {
+    "id": 12068831,
+    "missing_matches": 0,
+    "lowest_k": 0.72982705
+  },
+  {
+    "id": 20530150,
+    "missing_matches": 0,
+    "lowest_k": 0.5934194
+  },
+  {
+    "id": 21618245,
+    "missing_matches": 0,
+    "lowest_k": 0.76963454
+  },
+  {
+    "id": 26085176,
+    "missing_matches": 0,
+    "lowest_k": 0.7246945
+  },
+  {
+    "id": 18158048,
+    "missing_matches": 0,
+    "lowest_k": 0.7618583
+  },
+  {
+    "id": 21256734,
+    "missing_matches": 0,
+    "lowest_k": 0.67954326
+  },
+  {
+    "id": 28027677,
+    "missing_matches": 0,
+    "lowest_k": 0.80798405
+  },
+  {
+    "id": 17595200,
+    "missing_matches": 0,
+    "lowest_k": 0.5120327
+  },
+  {
+    "id": 26548832,
+    "missing_matches": 0,
+    "lowest_k": 0.53943205
+  },
+  {
+    "id": 15879722,
+    "missing_matches": 0,
+    "lowest_k": 0.70284534
+  },
+  {
+    "id": 27554179,
+    "missing_matches": 0,
+    "lowest_k": 0.6893793
+  },
+  {
+    "id": 15381614,
+    "missing_matches": 0,
+    "lowest_k": 0.6186897
+  },
+  {
+    "id": 22012962,
+    "missing_matches": 0,
+    "lowest_k": 0.7566388
+  },
+  {
+    "id": 18948835,
+    "missing_matches": 0,
+    "lowest_k": 0.7563325
+  },
+  {
+    "id": 18435678,
+    "missing_matches": 0,
+    "lowest_k": 0.68208617
+  },
+  {
+    "id": 19268855,
+    "missing_matches": 0,
+    "lowest_k": 0.7088949
+  },
+  {
+    "id": 12238307,
+    "missing_matches": 0,
+    "lowest_k": 0.69970775
+  },
+  {
+    "id": 20684175,
+    "missing_matches": 0,
+    "lowest_k": 0.7300095
+  },
+  {
+    "id": 27216167,
+    "missing_matches": 0,
+    "lowest_k": 0.8293688
+  },
+  {
+    "id": 19852337,
+    "missing_matches": 0,
+    "lowest_k": 0.7940845
+  },
+  {
+    "id": 22680064,
+    "missing_matches": 0,
+    "lowest_k": 0.71549314
+  },
+  {
+    "id": 25417760,
+    "missing_matches": 0,
+    "lowest_k": 0.71956927
+  },
+  {
+    "id": 22365295,
+    "missing_matches": 0,
+    "lowest_k": 0.66125673
+  },
+  {
+    "id": 15125825,
+    "missing_matches": 0,
+    "lowest_k": 0.5565242
+  },
+  {
+    "id": 24652474,
+    "missing_matches": 0,
+    "lowest_k": 0.61002874
+  },
+  {
+    "id": 24947183,
+    "missing_matches": 0,
+    "lowest_k": 0.7272116
+  },
+  {
+    "id": 25779009,
+    "missing_matches": 0,
+    "lowest_k": 0.6352612
+  },
+  {
+    "id": 17105833,
+    "missing_matches": 0,
+    "lowest_k": 0.67117316
+  },
+  {
+    "id": 27338535,
+    "missing_matches": 0,
+    "lowest_k": 0.5981812
+  },
+  {
+    "id": 27690714,
+    "missing_matches": 0,
+    "lowest_k": 0.7668931
+  },
+  {
+    "id": 21346501,
+    "missing_matches": 0,
+    "lowest_k": 0.7600377
+  },
+  {
+    "id": 24964725,
+    "missing_matches": 0,
+    "lowest_k": 0.6599516
+  },
+  {
+    "id": 18708308,
+    "missing_matches": 0,
+    "lowest_k": 0.5420162
+  },
+  {
+    "id": 11759976,
+    "missing_matches": 0,
+    "lowest_k": 0.5694499
+  },
+  {
+    "id": 16319544,
+    "missing_matches": 0,
+    "lowest_k": 0.7201046
+  },
+  {
+    "id": 20674150,
+    "missing_matches": 0,
+    "lowest_k": 0.6418308
+  },
+  {
+    "id": 25336163,
+    "missing_matches": 0,
+    "lowest_k": 0.719785
+  },
+  {
+    "id": 25887165,
+    "missing_matches": 0,
+    "lowest_k": 0.66136223
+  },
+  {
+    "id": 12947068,
+    "missing_matches": 0,
+    "lowest_k": 0.7244942
+  },
+  {
+    "id": 16776337,
+    "missing_matches": 0,
+    "lowest_k": 0.75546306
+  },
+  {
+    "id": 22668852,
+    "missing_matches": 0,
+    "lowest_k": 0.614445
+  },
+  {
+    "id": 25251991,
+    "missing_matches": 0,
+    "lowest_k": 0.7192085
+  },
+  {
+    "id": 7497757,
+    "missing_matches": 0,
+    "lowest_k": 0.7056176
+  },
+  {
+    "id": 8262881,
+    "missing_matches": 0,
+    "lowest_k": 0.6797451
+  },
+  {
+    "id": 11943048,
+    "missing_matches": 0,
+    "lowest_k": 0.7008857
+  },
+  {
+    "id": 20306735,
+    "missing_matches": 0,
+    "lowest_k": 0.63206726
+  },
+  {
+    "id": 23414523,
+    "missing_matches": 0,
+    "lowest_k": 0.63356173
+  },
+  {
+    "id": 11882828,
+    "missing_matches": 0,
+    "lowest_k": 0.69465697
+  },
+  {
+    "id": 24939676,
+    "missing_matches": 0,
+    "lowest_k": 0.746643
+  },
+  {
+    "id": 17076590,
+    "missing_matches": 0,
+    "lowest_k": 0.71301365
+  },
+  {
+    "id": 21745056,
+    "missing_matches": 0,
+    "lowest_k": 0.623247
+  },
+  {
+    "id": 22979954,
+    "missing_matches": 0,
+    "lowest_k": 0.646961
+  },
+  {
+    "id": 22955530,
+    "missing_matches": 0,
+    "lowest_k": 0.75526303
+  },
+  {
+    "id": 18507507,
+    "missing_matches": 0,
+    "lowest_k": 0.6664904
+  },
+  {
+    "id": 17323047,
+    "missing_matches": 0,
+    "lowest_k": 0.69117665
+  },
+  {
+    "id": 24851767,
+    "missing_matches": 0,
+    "lowest_k": 0.7364701
+  },
+  {
+    "id": 12006913,
+    "missing_matches": 0,
+    "lowest_k": 0.6554087
+  },
+  {
+    "id": 8245806,
+    "missing_matches": 0,
+    "lowest_k": 0.64278
+  },
+  {
+    "id": 17691856,
+    "missing_matches": 0,
+    "lowest_k": 0.7582422
+  },
+  {
+    "id": 15222284,
+    "missing_matches": 0,
+    "lowest_k": 0.6471582
+  },
+  {
+    "id": 25501465,
+    "missing_matches": 0,
+    "lowest_k": 0.76963353
+  },
+  {
+    "id": 16414216,
+    "missing_matches": 0,
+    "lowest_k": 0.67781943
+  },
+  {
+    "id": 19155657,
+    "missing_matches": 0,
+    "lowest_k": 0.737695
+  },
+  {
+    "id": 27050489,
+    "missing_matches": 0,
+    "lowest_k": 0.7331076
+  },
+  {
+    "id": 24977765,
+    "missing_matches": 0,
+    "lowest_k": 0.75937647
+  },
+  {
+    "id": 19130332,
+    "missing_matches": 0,
+    "lowest_k": 0.61926436
+  },
+  {
+    "id": 23949294,
+    "missing_matches": 0,
+    "lowest_k": 0.7178827
+  },
+  {
+    "id": 18926458,
+    "missing_matches": 0,
+    "lowest_k": 0.7436623
+  },
+  {
+    "id": 10749257,
+    "missing_matches": 0,
+    "lowest_k": 0.78403705
+  },
+  {
+    "id": 17610439,
+    "missing_matches": 0,
+    "lowest_k": 0.6195835
+  },
+  {
+    "id": 26859535,
+    "missing_matches": 0,
+    "lowest_k": 0.62733936
+  },
+  {
+    "id": 25446909,
+    "missing_matches": 0,
+    "lowest_k": 0.7462937
+  },
+  {
+    "id": 17220021,
+    "missing_matches": 0,
+    "lowest_k": 0.7473694
+  },
+  {
+    "id": 10158597,
+    "missing_matches": 0,
+    "lowest_k": 0.77967995
+  },
+  {
+    "id": 21198823,
+    "missing_matches": 0,
+    "lowest_k": 0.68902373
+  },
+  {
+    "id": 17259061,
+    "missing_matches": 0,
+    "lowest_k": 0.80761343
+  },
+  {
+    "id": 18375490,
+    "missing_matches": 0,
+    "lowest_k": 0.6589266
+  },
+  {
+    "id": 24142776,
+    "missing_matches": 0,
+    "lowest_k": 0.5597813
+  },
+  {
+    "id": 18388848,
+    "missing_matches": 0,
+    "lowest_k": 0.7969581
+  },
+  {
+    "id": 22251324,
+    "missing_matches": 0,
+    "lowest_k": 0.7844925
+  },
+  {
+    "id": 27896825,
+    "missing_matches": 0,
+    "lowest_k": 0.71416026
+  },
+  {
+    "id": 22117569,
+    "missing_matches": 0,
+    "lowest_k": 0.7127866
+  },
+  {
+    "id": 25787073,
+    "missing_matches": 0,
+    "lowest_k": 0.7633843
+  },
+  {
+    "id": 14631523,
+    "missing_matches": 0,
+    "lowest_k": 0.6331538
+  },
+  {
+    "id": 26717802,
+    "missing_matches": 0,
+    "lowest_k": 0.58104914
+  },
+  {
+    "id": 23810330,
+    "missing_matches": 0,
+    "lowest_k": 0.74800396
+  },
+  {
+    "id": 19027440,
+    "missing_matches": 0,
+    "lowest_k": 0.7645795
+  },
+  {
+    "id": 24446763,
+    "missing_matches": 0,
+    "lowest_k": 0.5685976
+  },
+  {
+    "id": 9444542,
+    "missing_matches": 0,
+    "lowest_k": 0.6645255
+  },
+  {
+    "id": 23389866,
+    "missing_matches": 0,
+    "lowest_k": 0.7230917
+  },
+  {
+    "id": 19142546,
+    "missing_matches": 0,
+    "lowest_k": 0.68217725
+  },
+  {
+    "id": 9107172,
+    "missing_matches": 0,
+    "lowest_k": 0.66650504
+  },
+  {
+    "id": 9363244,
+    "missing_matches": 0,
+    "lowest_k": 0.6542101
+  },
+  {
+    "id": 10411439,
+    "missing_matches": 1,
+    "lowest_k": 0.45546824
+  },
+  {
+    "id": 21166749,
+    "missing_matches": 0,
+    "lowest_k": 0.7024016
+  },
+  {
+    "id": 27818079,
+    "missing_matches": 0,
+    "lowest_k": 0.80167925
+  },
+  {
+    "id": 25982163,
+    "missing_matches": 0,
+    "lowest_k": 0.5914663
+  },
+  {
+    "id": 20353735,
+    "missing_matches": 0,
+    "lowest_k": 0.7098245
+  },
+  {
+    "id": 24630333,
+    "missing_matches": 0,
+    "lowest_k": 0.72689867
+  },
+  {
+    "id": 27096199,
+    "missing_matches": 0,
+    "lowest_k": 0.7183001
+  },
+  {
+    "id": 22519710,
+    "missing_matches": 0,
+    "lowest_k": 0.71649325
+  },
+  {
+    "id": 12040336,
+    "missing_matches": 1,
+    "lowest_k": 0.587327
+  },
+  {
+    "id": 15918864,
+    "missing_matches": 0,
+    "lowest_k": 0.76412565
+  },
+  {
+    "id": 23601294,
+    "missing_matches": 0,
+    "lowest_k": 0.7577639
+  },
+  {
+    "id": 21361755,
+    "missing_matches": 0,
+    "lowest_k": 0.76579654
+  },
+  {
+    "id": 9003088,
+    "missing_matches": 0,
+    "lowest_k": 0.6823348
+  },
+  {
+    "id": 23337545,
+    "missing_matches": 0,
+    "lowest_k": 0.5785333
+  },
+  {
+    "id": 10490564,
+    "missing_matches": 0,
+    "lowest_k": 0.654856
+  },
+  {
+    "id": 23375036,
+    "missing_matches": 0,
+    "lowest_k": 0.61756545
+  },
+  {
+    "id": 11555508,
+    "missing_matches": 0,
+    "lowest_k": 0.67443794
+  },
+  {
+    "id": 16778275,
+    "missing_matches": 0,
+    "lowest_k": 0.6640293
+  },
+  {
+    "id": 27136599,
+    "missing_matches": 0,
+    "lowest_k": 0.63005215
+  },
+  {
+    "id": 27050505,
+    "missing_matches": 0,
+    "lowest_k": 0.7562047
+  },
+  {
+    "id": 18403945,
+    "missing_matches": 0,
+    "lowest_k": 0.83902824
+  },
+  {
+    "id": 11149643,
+    "missing_matches": 0,
+    "lowest_k": 0.60309863
+  },
+  {
+    "id": 26200172,
+    "missing_matches": 0,
+    "lowest_k": 0.74631363
+  },
+  {
+    "id": 18783922,
+    "missing_matches": 0,
+    "lowest_k": 0.6646575
+  },
+  {
+    "id": 12684740,
+    "missing_matches": 0,
+    "lowest_k": 0.62319803
+  },
+  {
+    "id": 25155638,
+    "missing_matches": 0,
+    "lowest_k": 0.6211424
+  },
+  {
+    "id": 26820719,
+    "missing_matches": 0,
+    "lowest_k": 0.6609706
+  },
+  {
+    "id": 21080127,
+    "missing_matches": 0,
+    "lowest_k": 0.68707246
+  },
+  {
+    "id": 18086459,
+    "missing_matches": 0,
+    "lowest_k": 0.66556394
+  },
+  {
+    "id": 11978239,
+    "missing_matches": 0,
+    "lowest_k": 0.6382076
+  },
+  {
+    "id": 10798511,
+    "missing_matches": 0,
+    "lowest_k": 0.6805872
+  },
+  {
+    "id": 15477551,
+    "missing_matches": 0,
+    "lowest_k": 0.6231934
+  },
+  {
+    "id": 19327500,
+    "missing_matches": 0,
+    "lowest_k": 0.7601646
+  },
+  {
+    "id": 24614789,
+    "missing_matches": 0,
+    "lowest_k": 0.73489654
+  },
+  {
+    "id": 23283159,
+    "missing_matches": 0,
+    "lowest_k": 0.7753978
+  },
+  {
+    "id": 16465002,
+    "missing_matches": 0,
+    "lowest_k": 0.7575221
+  },
+  {
+    "id": 24191126,
+    "missing_matches": 0,
+    "lowest_k": 0.751801
+  },
+  {
+    "id": 25218577,
+    "missing_matches": 0,
+    "lowest_k": 0.79063845
+  },
+  {
+    "id": 20488985,
+    "missing_matches": 0,
+    "lowest_k": 0.75421745
+  },
+  {
+    "id": 11567820,
+    "missing_matches": 0,
+    "lowest_k": 0.7581453
+  },
+  {
+    "id": 19100463,
+    "missing_matches": 0,
+    "lowest_k": 0.67867917
+  },
+  {
+    "id": 12769830,
+    "missing_matches": 0,
+    "lowest_k": 0.7292181
+  },
+  {
+    "id": 10331115,
+    "missing_matches": 0,
+    "lowest_k": 0.5949955
+  },
+  {
+    "id": 17483607,
+    "missing_matches": 0,
+    "lowest_k": 0.6371625
+  },
+  {
+    "id": 28056802,
+    "missing_matches": 0,
+    "lowest_k": 0.70711905
+  },
+  {
+    "id": 11776681,
+    "missing_matches": 0,
+    "lowest_k": 0.73460364
+  },
+  {
+    "id": 24922528,
+    "missing_matches": 0,
+    "lowest_k": 0.7288602
+  },
+  {
+    "id": 8200238,
+    "missing_matches": 0,
+    "lowest_k": 0.5524698
+  },
+  {
+    "id": 10593212,
+    "missing_matches": 0,
+    "lowest_k": 0.7048696
+  },
+  {
+    "id": 12630042,
+    "missing_matches": 0,
+    "lowest_k": 0.8425887
+  },
+  {
+    "id": 24519615,
+    "missing_matches": 0,
+    "lowest_k": 0.61515456
+  },
+  {
+    "id": 24267613,
+    "missing_matches": 0,
+    "lowest_k": 0.6702622
+  },
+  {
+    "id": 21074975,
+    "missing_matches": 0,
+    "lowest_k": 0.7287597
+  },
+  {
+    "id": 19712912,
+    "missing_matches": 0,
+    "lowest_k": 0.7725615
+  },
+  {
+    "id": 12690589,
+    "missing_matches": 0,
+    "lowest_k": 0.62663156
+  },
+  {
+    "id": 10757151,
+    "missing_matches": 0,
+    "lowest_k": 0.5488247
+  },
+  {
+    "id": 15388567,
+    "missing_matches": 0,
+    "lowest_k": 0.61984885
+  },
+  {
+    "id": 10877371,
+    "missing_matches": 0,
+    "lowest_k": 0.7938235
+  },
+  {
+    "id": 22324545,
+    "missing_matches": 0,
+    "lowest_k": 0.6986865
+  },
+  {
+    "id": 19419587,
+    "missing_matches": 0,
+    "lowest_k": 0.78945124
+  },
+  {
+    "id": 16909975,
+    "missing_matches": 0,
+    "lowest_k": 0.59644616
+  },
+  {
+    "id": 18799291,
+    "missing_matches": 0,
+    "lowest_k": 0.7384363
+  },
+  {
+    "id": 12163782,
+    "missing_matches": 0,
+    "lowest_k": 0.7250361
+  },
+  {
+    "id": 16392897,
+    "missing_matches": 0,
+    "lowest_k": 0.74058044
+  },
+  {
+    "id": 19615731,
+    "missing_matches": 0,
+    "lowest_k": 0.676433
+  },
+  {
+    "id": 18537964,
+    "missing_matches": 0,
+    "lowest_k": 0.74827474
+  },
+  {
+    "id": 25747932,
+    "missing_matches": 0,
+    "lowest_k": 0.76364833
+  },
+  {
+    "id": 17445978,
+    "missing_matches": 0,
+    "lowest_k": 0.56914425
+  },
+  {
+    "id": 19309468,
+    "missing_matches": 0,
+    "lowest_k": 0.68004334
+  },
+  {
+    "id": 25885219,
+    "missing_matches": 0,
+    "lowest_k": 0.7800448
+  },
+  {
+    "id": 26348845,
+    "missing_matches": 0,
+    "lowest_k": 0.67106384
+  },
+  {
+    "id": 12221908,
+    "missing_matches": 0,
+    "lowest_k": 0.5811765
+  },
+  {
+    "id": 21904069,
+    "missing_matches": 0,
+    "lowest_k": 0.71572703
+  },
+  {
+    "id": 14976655,
+    "missing_matches": 0,
+    "lowest_k": 0.7131368
+  },
+  {
+    "id": 22644412,
+    "missing_matches": 0,
+    "lowest_k": 0.68359554
+  },
+  {
+    "id": 26419377,
+    "missing_matches": 0,
+    "lowest_k": 0.6352649
+  },
+  {
+    "id": 23052500,
+    "missing_matches": 0,
+    "lowest_k": 0.7673724
+  },
+  {
+    "id": 26104852,
+    "missing_matches": 0,
+    "lowest_k": 0.7460118
+  },
+  {
+    "id": 9142039,
+    "missing_matches": 0,
+    "lowest_k": 0.74959975
+  },
+  {
+    "id": 18399830,
+    "missing_matches": 0,
+    "lowest_k": 0.6685959
+  },
+  {
+    "id": 18575014,
+    "missing_matches": 0,
+    "lowest_k": 0.70520526
+  },
+  {
+    "id": 15223779,
+    "missing_matches": 0,
+    "lowest_k": 0.7543977
+  },
+  {
+    "id": 24487044,
+    "missing_matches": 0,
+    "lowest_k": 0.8173853
+  },
+  {
+    "id": 12377809,
+    "missing_matches": 0,
+    "lowest_k": 0.5514247
+  },
+  {
+    "id": 16195477,
+    "missing_matches": 0,
+    "lowest_k": 0.66338325
+  },
+  {
+    "id": 16678696,
+    "missing_matches": 0,
+    "lowest_k": 0.6257971
+  },
+  {
+    "id": 18801797,
+    "missing_matches": 0,
+    "lowest_k": 0.73601216
+  },
+  {
+    "id": 12153648,
+    "missing_matches": 0,
+    "lowest_k": 0.6496272
+  },
+  {
+    "id": 12632437,
+    "missing_matches": 0,
+    "lowest_k": 0.70209724
+  },
+  {
+    "id": 10201555,
+    "missing_matches": 0,
+    "lowest_k": 0.79663044
+  },
+  {
+    "id": 21342862,
+    "missing_matches": 0,
+    "lowest_k": 0.74095476
+  },
+  {
+    "id": 26818046,
+    "missing_matches": 0,
+    "lowest_k": 0.7093116
+  },
+  {
+    "id": 18005142,
+    "missing_matches": 0,
+    "lowest_k": 0.8005314
+  },
+  {
+    "id": 11481172,
+    "missing_matches": 0,
+    "lowest_k": 0.71009916
+  },
+  {
+    "id": 19230985,
+    "missing_matches": 0,
+    "lowest_k": 0.7616644
+  },
+  {
+    "id": 17295865,
+    "missing_matches": 0,
+    "lowest_k": 0.77237266
+  },
+  {
+    "id": 17565137,
+    "missing_matches": 0,
+    "lowest_k": 0.75513977
+  },
+  {
+    "id": 18041059,
+    "missing_matches": 0,
+    "lowest_k": 0.68400455
+  },
+  {
+    "id": 17274051,
+    "missing_matches": 0,
+    "lowest_k": 0.6842819
+  },
+  {
+    "id": 26460153,
+    "missing_matches": 0,
+    "lowest_k": 0.70203406
+  },
+  {
+    "id": 24061619,
+    "missing_matches": 0,
+    "lowest_k": 0.74346167
+  },
+  {
+    "id": 26867834,
+    "missing_matches": 0,
+    "lowest_k": 0.76504153
+  },
+  {
+    "id": 22349635,
+    "missing_matches": 0,
+    "lowest_k": 0.7138021
+  },
+  {
+    "id": 15112004,
+    "missing_matches": 0,
+    "lowest_k": 0.75182366
+  },
+  {
+    "id": 15954832,
+    "missing_matches": 0,
+    "lowest_k": 0.6724488
+  },
+  {
+    "id": 19640728,
+    "missing_matches": 0,
+    "lowest_k": 0.5890513
+  },
+  {
+    "id": 22154448,
+    "missing_matches": 0,
+    "lowest_k": 0.6779463
+  },
+  {
+    "id": 11146778,
+    "missing_matches": 0,
+    "lowest_k": 0.71269506
+  },
+  {
+    "id": 8199520,
+    "missing_matches": 0,
+    "lowest_k": 0.6377453
+  },
+  {
+    "id": 9100537,
+    "missing_matches": 0,
+    "lowest_k": 0.7273735
+  },
+  {
+    "id": 26518378,
+    "missing_matches": 0,
+    "lowest_k": 0.6749997
+  },
+  {
+    "id": 23774337,
+    "missing_matches": 0,
+    "lowest_k": 0.73305804
+  },
+  {
+    "id": 16151770,
+    "missing_matches": 0,
+    "lowest_k": 0.7130421
+  },
+  {
+    "id": 26418441,
+    "missing_matches": 0,
+    "lowest_k": 0.44020662
+  },
+  {
+    "id": 20130378,
+    "missing_matches": 0,
+    "lowest_k": 0.7958088
+  },
+  {
+    "id": 11799314,
+    "missing_matches": 0,
+    "lowest_k": 0.7878851
+  },
+  {
+    "id": 20828836,
+    "missing_matches": 0,
+    "lowest_k": 0.6241761
+  },
+  {
+    "id": 19608436,
+    "missing_matches": 0,
+    "lowest_k": 0.7399206
+  },
+  {
+    "id": 15995461,
+    "missing_matches": 0,
+    "lowest_k": 0.6379054
+  },
+  {
+    "id": 23224030,
+    "missing_matches": 0,
+    "lowest_k": 0.66020393
+  },
+  {
+    "id": 17910536,
+    "missing_matches": 0,
+    "lowest_k": 0.67035335
+  },
+  {
+    "id": 12070552,
+    "missing_matches": 0,
+    "lowest_k": 0.64255744
+  },
+  {
+    "id": 18182265,
+    "missing_matches": 0,
+    "lowest_k": 0.8129679
+  },
+  {
+    "id": 15841770,
+    "missing_matches": 1,
+    "lowest_k": 0.53607917
+  },
+  {
+    "id": 8017535,
+    "missing_matches": 0,
+    "lowest_k": 0.6915547
+  },
+  {
+    "id": 24172579,
+    "missing_matches": 0,
+    "lowest_k": 0.5899005
+  },
+  {
+    "id": 10781708,
+    "missing_matches": 0,
+    "lowest_k": 0.54529846
+  },
+  {
+    "id": 26561905,
+    "missing_matches": 1,
+    "lowest_k": 0.50271326
+  },
+  {
+    "id": 17089900,
+    "missing_matches": 0,
+    "lowest_k": 0.6612821
+  },
+  {
+    "id": 26536001,
+    "missing_matches": 0,
+    "lowest_k": 0.72515273
+  },
+  {
+    "id": 19643525,
+    "missing_matches": 0,
+    "lowest_k": 0.64622355
+  },
+  {
+    "id": 26285789,
+    "missing_matches": 0,
+    "lowest_k": 0.6586901
+  },
+  {
+    "id": 22266735,
+    "missing_matches": 0,
+    "lowest_k": 0.8207473
+  },
+  {
+    "id": 15052394,
+    "missing_matches": 0,
+    "lowest_k": 0.6414476
+  },
+  {
+    "id": 23264436,
+    "missing_matches": 0,
+    "lowest_k": 0.6347216
+  },
+  {
+    "id": 22302658,
+    "missing_matches": 0,
+    "lowest_k": 0.7821136
+  },
+  {
+    "id": 17894828,
+    "missing_matches": 0,
+    "lowest_k": 0.8051656
+  },
+  {
+    "id": 18096128,
+    "missing_matches": 0,
+    "lowest_k": 0.7211381
+  },
+  {
+    "id": 12913347,
+    "missing_matches": 0,
+    "lowest_k": 0.6497086
+  },
+  {
+    "id": 24684514,
+    "missing_matches": 0,
+    "lowest_k": 0.70402724
+  },
+  {
+    "id": 24793469,
+    "missing_matches": 0,
+    "lowest_k": 0.8540128
+  },
+  {
+    "id": 23360491,
+    "missing_matches": 0,
+    "lowest_k": 0.7979047
+  },
+  {
+    "id": 10340286,
+    "missing_matches": 0,
+    "lowest_k": 0.79793954
+  },
+  {
+    "id": 22954812,
+    "missing_matches": 0,
+    "lowest_k": 0.557636
+  },
+  {
+    "id": 18274917,
+    "missing_matches": 0,
+    "lowest_k": 0.6497332
+  },
+  {
+    "id": 22350859,
+    "missing_matches": 0,
+    "lowest_k": 0.61702764
+  },
+  {
+    "id": 26237424,
+    "missing_matches": 0,
+    "lowest_k": 0.7936053
+  },
+  {
+    "id": 15041506,
+    "missing_matches": 0,
+    "lowest_k": 0.76351327
+  },
+  {
+    "id": 25280365,
+    "missing_matches": 0,
+    "lowest_k": 0.7721327
+  },
+  {
+    "id": 20813740,
+    "missing_matches": 0,
+    "lowest_k": 0.75092864
+  },
+  {
+    "id": 20401819,
+    "missing_matches": 0,
+    "lowest_k": 0.79996955
+  },
+  {
+    "id": 7860319,
+    "missing_matches": 0,
+    "lowest_k": 0.66753286
+  },
+  {
+    "id": 25255719,
+    "missing_matches": 0,
+    "lowest_k": 0.6861698
+  },
+  {
+    "id": 24352924,
+    "missing_matches": 0,
+    "lowest_k": 0.7112185
+  },
+  {
+    "id": 24973051,
+    "missing_matches": 0,
+    "lowest_k": 0.76009536
+  },
+  {
+    "id": 20497146,
+    "missing_matches": 0,
+    "lowest_k": 0.7548428
+  },
+  {
+    "id": 19401574,
+    "missing_matches": 0,
+    "lowest_k": 0.75389874
+  },
+  {
+    "id": 23571528,
+    "missing_matches": 0,
+    "lowest_k": 0.6245871
+  },
+  {
+    "id": 25228241,
+    "missing_matches": 0,
+    "lowest_k": 0.7249048
+  },
+  {
+    "id": 22348433,
+    "missing_matches": 0,
+    "lowest_k": 0.6293783
+  },
+  {
+    "id": 20538207,
+    "missing_matches": 0,
+    "lowest_k": 0.6521398
+  },
+  {
+    "id": 10927144,
+    "missing_matches": 0,
+    "lowest_k": 0.7981806
+  },
+  {
+    "id": 20197761,
+    "missing_matches": 0,
+    "lowest_k": 0.6432753
+  },
+  {
+    "id": 21394762,
+    "missing_matches": 0,
+    "lowest_k": 0.7839769
+  },
+  {
+    "id": 12442934,
+    "missing_matches": 0,
+    "lowest_k": 0.74257976
+  },
+  {
+    "id": 9347843,
+    "missing_matches": 0,
+    "lowest_k": 0.7755149
+  },
+  {
+    "id": 23072266,
+    "missing_matches": 0,
+    "lowest_k": 0.7983416
+  },
+  {
+    "id": 12607666,
+    "missing_matches": 0,
+    "lowest_k": 0.6547989
+  },
+  {
+    "id": 24074624,
+    "missing_matches": 0,
+    "lowest_k": 0.72359025
+  },
+  {
+    "id": 17224424,
+    "missing_matches": 0,
+    "lowest_k": 0.8128292
+  },
+  {
+    "id": 16097998,
+    "missing_matches": 0,
+    "lowest_k": 0.6280519
+  },
+  {
+    "id": 25487603,
+    "missing_matches": 0,
+    "lowest_k": 0.7835631
+  },
+  {
+    "id": 20594006,
+    "missing_matches": 0,
+    "lowest_k": 0.7342912
+  },
+  {
+    "id": 26363639,
+    "missing_matches": 0,
+    "lowest_k": 0.69672555
+  },
+  {
+    "id": 27405146,
+    "missing_matches": 0,
+    "lowest_k": 0.68625176
+  },
+  {
+    "id": 17192736,
+    "missing_matches": 0,
+    "lowest_k": 0.72043836
+  },
+  {
+    "id": 14652839,
+    "missing_matches": 0,
+    "lowest_k": 0.7190826
+  },
+  {
+    "id": 12145243,
+    "missing_matches": 0,
+    "lowest_k": 0.6721173
+  },
+  {
+    "id": 25571931,
+    "missing_matches": 0,
+    "lowest_k": 0.65963095
+  },
+  {
+    "id": 19108857,
+    "missing_matches": 0,
+    "lowest_k": 0.82897353
+  },
+  {
+    "id": 25443385,
+    "missing_matches": 0,
+    "lowest_k": 0.70677686
+  },
+  {
+    "id": 18719011,
+    "missing_matches": 5,
+    "lowest_k": 0.34271422
+  },
+  {
+    "id": 9044116,
+    "missing_matches": 0,
+    "lowest_k": 0.6188612
+  },
+  {
+    "id": 23621776,
+    "missing_matches": 0,
+    "lowest_k": 0.71929586
+  },
+  {
+    "id": 12970636,
+    "missing_matches": 0,
+    "lowest_k": 0.7567642
+  },
+  {
+    "id": 21084567,
+    "missing_matches": 0,
+    "lowest_k": 0.7581431
+  },
+  {
+    "id": 19546588,
+    "missing_matches": 0,
+    "lowest_k": 0.6795576
+  },
+  {
+    "id": 19923859,
+    "missing_matches": 0,
+    "lowest_k": 0.6963096
+  },
+  {
+    "id": 18616781,
+    "missing_matches": 0,
+    "lowest_k": 0.7524078
+  },
+  {
+    "id": 27991408,
+    "missing_matches": 0,
+    "lowest_k": 0.5995104
+  },
+  {
+    "id": 14655021,
+    "missing_matches": 0,
+    "lowest_k": 0.6708796
+  },
+  {
+    "id": 26175531,
+    "missing_matches": 0,
+    "lowest_k": 0.77926576
+  },
+  {
+    "id": 25168472,
+    "missing_matches": 0,
+    "lowest_k": 0.770043
+  },
+  {
+    "id": 9446993,
+    "missing_matches": 0,
+    "lowest_k": 0.7130757
+  },
+  {
+    "id": 10473855,
+    "missing_matches": 0,
+    "lowest_k": 0.72178036
+  },
+  {
+    "id": 28006766,
+    "missing_matches": 0,
+    "lowest_k": 0.782148
+  },
+  {
+    "id": 11833948,
+    "missing_matches": 0,
+    "lowest_k": 0.8177573
+  },
+  {
+    "id": 27757987,
+    "missing_matches": 0,
+    "lowest_k": 0.7944699
+  },
+  {
+    "id": 16772913,
+    "missing_matches": 0,
+    "lowest_k": 0.67060584
+  },
+  {
+    "id": 19575104,
+    "missing_matches": 0,
+    "lowest_k": 0.6721576
+  },
+  {
+    "id": 24449622,
+    "missing_matches": 0,
+    "lowest_k": 0.85265344
+  },
+  {
+    "id": 12095973,
+    "missing_matches": 0,
+    "lowest_k": 0.66180634
+  },
+  {
+    "id": 23761381,
+    "missing_matches": 0,
+    "lowest_k": 0.7861472
+  },
+  {
+    "id": 16971978,
+    "missing_matches": 0,
+    "lowest_k": 0.72724605
+  },
+  {
+    "id": 10375486,
+    "missing_matches": 0,
+    "lowest_k": 0.73332137
+  },
+  {
+    "id": 21558951,
+    "missing_matches": 0,
+    "lowest_k": 0.7184143
+  },
+  {
+    "id": 15528969,
+    "missing_matches": 0,
+    "lowest_k": 0.72741437
+  },
+  {
+    "id": 17062225,
+    "missing_matches": 0,
+    "lowest_k": 0.5904474
+  },
+  {
+    "id": 14713788,
+    "missing_matches": 0,
+    "lowest_k": 0.7408787
+  },
+  {
+    "id": 24374414,
+    "missing_matches": 0,
+    "lowest_k": 0.72226626
+  },
+  {
+    "id": 20736887,
+    "missing_matches": 0,
+    "lowest_k": 0.7258495
+  },
+  {
+    "id": 22504515,
+    "missing_matches": 0,
+    "lowest_k": 0.702392
+  },
+  {
+    "id": 10577397,
+    "missing_matches": 0,
+    "lowest_k": 0.5290376
+  },
+  {
+    "id": 15369037,
+    "missing_matches": 0,
+    "lowest_k": 0.61423594
+  },
+  {
+    "id": 24073931,
+    "missing_matches": 0,
+    "lowest_k": 0.6376399
+  },
+  {
+    "id": 18472368,
+    "missing_matches": 0,
+    "lowest_k": 0.741029
+  },
+  {
+    "id": 23992109,
+    "missing_matches": 0,
+    "lowest_k": 0.7085183
+  },
+  {
+    "id": 21164063,
+    "missing_matches": 0,
+    "lowest_k": 0.7285899
+  },
+  {
+    "id": 21951591,
+    "missing_matches": 0,
+    "lowest_k": 0.7735438
+  },
+  {
+    "id": 18619710,
+    "missing_matches": 0,
+    "lowest_k": 0.7672415
+  },
+  {
+    "id": 18784527,
+    "missing_matches": 0,
+    "lowest_k": 0.6676227
+  },
+  {
+    "id": 15919266,
+    "missing_matches": 0,
+    "lowest_k": 0.7826479
+  },
+  {
+    "id": 2503176,
+    "missing_matches": 0,
+    "lowest_k": 0.7572611
+  },
+  {
+    "id": 22108230,
+    "missing_matches": 0,
+    "lowest_k": 0.63437974
+  },
+  {
+    "id": 20338971,
+    "missing_matches": 0,
+    "lowest_k": 0.8063328
+  },
+  {
+    "id": 17276801,
+    "missing_matches": 0,
+    "lowest_k": 0.7931926
+  },
+  {
+    "id": 20497880,
+    "missing_matches": 0,
+    "lowest_k": 0.53063756
+  },
+  {
+    "id": 23495128,
+    "missing_matches": 0,
+    "lowest_k": 0.82972205
+  },
+  {
+    "id": 26701174,
+    "missing_matches": 0,
+    "lowest_k": 0.6953913
+  },
+  {
+    "id": 24695920,
+    "missing_matches": 0,
+    "lowest_k": 0.8372049
+  },
+  {
+    "id": 15488260,
+    "missing_matches": 0,
+    "lowest_k": 0.7347183
+  },
+  {
+    "id": 15466981,
+    "missing_matches": 0,
+    "lowest_k": 0.71578807
+  },
+  {
+    "id": 18603989,
+    "missing_matches": 0,
+    "lowest_k": 0.6671892
+  },
+  {
+    "id": 21789019,
+    "missing_matches": 0,
+    "lowest_k": 0.72969514
+  },
+  {
+    "id": 14692023,
+    "missing_matches": 0,
+    "lowest_k": 0.58804476
+  },
+  {
+    "id": 25150098,
+    "missing_matches": 0,
+    "lowest_k": 0.782289
+  },
+  {
+    "id": 20337874,
+    "missing_matches": 0,
+    "lowest_k": 0.6411398
+  },
+  {
+    "id": 19198736,
+    "missing_matches": 0,
+    "lowest_k": 0.7639864
+  },
+  {
+    "id": 22411435,
+    "missing_matches": 0,
+    "lowest_k": 0.79046226
+  },
+  {
+    "id": 16266387,
+    "missing_matches": 0,
+    "lowest_k": 0.7042187
+  },
+  {
+    "id": 23792130,
+    "missing_matches": 0,
+    "lowest_k": 0.76212853
+  },
+  {
+    "id": 17462393,
+    "missing_matches": 0,
+    "lowest_k": 0.66946423
+  },
+  {
+    "id": 21457946,
+    "missing_matches": 0,
+    "lowest_k": 0.6510715
+  },
+  {
+    "id": 26383908,
+    "missing_matches": 0,
+    "lowest_k": 0.7368674
+  },
+  {
+    "id": 19481382,
+    "missing_matches": 0,
+    "lowest_k": 0.6994624
+  },
+  {
+    "id": 25699562,
+    "missing_matches": 0,
+    "lowest_k": 0.73488206
+  },
+  {
+    "id": 17682349,
+    "missing_matches": 0,
+    "lowest_k": 0.82008886
+  },
+  {
+    "id": 18251357,
+    "missing_matches": 0,
+    "lowest_k": 0.6662713
+  },
+  {
+    "id": 20971618,
+    "missing_matches": 0,
+    "lowest_k": 0.70573586
+  },
+  {
+    "id": 19648304,
+    "missing_matches": 0,
+    "lowest_k": 0.7808651
+  },
+  {
+    "id": 23222920,
+    "missing_matches": 0,
+    "lowest_k": 0.7066463
+  },
+  {
+    "id": 21864397,
+    "missing_matches": 0,
+    "lowest_k": 0.77454567
+  },
+  {
+    "id": 26601554,
+    "missing_matches": 0,
+    "lowest_k": 0.8339727
+  },
+  {
+    "id": 19322056,
+    "missing_matches": 0,
+    "lowest_k": 0.6651724
+  },
+  {
+    "id": 22522271,
+    "missing_matches": 0,
+    "lowest_k": 0.7348914
+  },
+  {
+    "id": 9363529,
+    "missing_matches": 0,
+    "lowest_k": 0.72338486
+  },
+  {
+    "id": 15962678,
+    "missing_matches": 0,
+    "lowest_k": 0.6657754
+  },
+  {
+    "id": 7547656,
+    "missing_matches": 0,
+    "lowest_k": 0.7757412
+  },
+  {
+    "id": 24235894,
+    "missing_matches": 0,
+    "lowest_k": 0.69068944
+  },
+  {
+    "id": 17429333,
+    "missing_matches": 0,
+    "lowest_k": 0.7810274
+  },
+  {
+    "id": 19156007,
+    "missing_matches": 0,
+    "lowest_k": 0.74569213
+  },
+  {
+    "id": 9603166,
+    "missing_matches": 0,
+    "lowest_k": 0.6685529
+  },
+  {
+    "id": 24298614,
+    "missing_matches": 0,
+    "lowest_k": 0.6001131
+  },
+  {
+    "id": 21849531,
+    "missing_matches": 0,
+    "lowest_k": 0.75187963
+  },
+  {
+    "id": 19854401,
+    "missing_matches": 0,
+    "lowest_k": 0.7398995
+  },
+  {
+    "id": 22237146,
+    "missing_matches": 0,
+    "lowest_k": 0.6988768
+  },
+  {
+    "id": 25793749,
+    "missing_matches": 0,
+    "lowest_k": 0.80469024
+  },
+  {
+    "id": 15095519,
+    "missing_matches": 0,
+    "lowest_k": 0.6313228
+  },
+  {
+    "id": 25981682,
+    "missing_matches": 0,
+    "lowest_k": 0.7017893
+  },
+  {
+    "id": 18284441,
+    "missing_matches": 0,
+    "lowest_k": 0.7728539
+  },
+  {
+    "id": 10173769,
+    "missing_matches": 0,
+    "lowest_k": 0.6734312
+  },
+  {
+    "id": 20354380,
+    "missing_matches": 0,
+    "lowest_k": 0.6752103
+  },
+  {
+    "id": 9616411,
+    "missing_matches": 0,
+    "lowest_k": 0.748612
+  },
+  {
+    "id": 22205377,
+    "missing_matches": 0,
+    "lowest_k": 0.67324436
+  },
+  {
+    "id": 16241924,
+    "missing_matches": 0,
+    "lowest_k": 0.7132178
+  },
+  {
+    "id": 12484580,
+    "missing_matches": 0,
+    "lowest_k": 0.68452704
+  },
+  {
+    "id": 24599411,
+    "missing_matches": 0,
+    "lowest_k": 0.7149923
+  },
+  {
+    "id": 23860049,
+    "missing_matches": 0,
+    "lowest_k": 0.6743074
+  },
+  {
+    "id": 7664228,
+    "missing_matches": 0,
+    "lowest_k": 0.550773
+  },
+  {
+    "id": 22233470,
+    "missing_matches": 0,
+    "lowest_k": 0.7478635
+  },
+  {
+    "id": 17971187,
+    "missing_matches": 0,
+    "lowest_k": 0.5428011
+  },
+  {
+    "id": 27394685,
+    "missing_matches": 0,
+    "lowest_k": 0.69336385
+  },
+  {
+    "id": 25079920,
+    "missing_matches": 0,
+    "lowest_k": 0.7008492
+  },
+  {
+    "id": 17355582,
+    "missing_matches": 0,
+    "lowest_k": 0.6830941
+  },
+  {
+    "id": 20736672,
+    "missing_matches": 0,
+    "lowest_k": 0.7816281
+  },
+  {
+    "id": 12419743,
+    "missing_matches": 0,
+    "lowest_k": 0.72888815
+  },
+  {
+    "id": 10973547,
+    "missing_matches": 0,
+    "lowest_k": 0.77812207
+  },
+  {
+    "id": 25499207,
+    "missing_matches": 0,
+    "lowest_k": 0.7674
+  },
+  {
+    "id": 26133538,
+    "missing_matches": 0,
+    "lowest_k": 0.72060704
+  },
+  {
+    "id": 26163474,
+    "missing_matches": 0,
+    "lowest_k": 0.8017152
+  },
+  {
+    "id": 14968373,
+    "missing_matches": 0,
+    "lowest_k": 0.602743
+  },
+  {
+    "id": 24698298,
+    "missing_matches": 0,
+    "lowest_k": 0.5669733
+  },
+  {
+    "id": 23088164,
+    "missing_matches": 0,
+    "lowest_k": 0.72070104
+  },
+  {
+    "id": 24481006,
+    "missing_matches": 0,
+    "lowest_k": 0.48288727
+  },
+  {
+    "id": 17032327,
+    "missing_matches": 0,
+    "lowest_k": 0.751205
+  },
+  {
+    "id": 22658587,
+    "missing_matches": 0,
+    "lowest_k": 0.65465367
+  },
+  {
+    "id": 8916748,
+    "missing_matches": 0,
+    "lowest_k": 0.6317277
+  },
+  {
+    "id": 16361634,
+    "missing_matches": 0,
+    "lowest_k": 0.6350228
+  },
+  {
+    "id": 25756710,
+    "missing_matches": 0,
+    "lowest_k": 0.6334951
+  },
+  {
+    "id": 23916653,
+    "missing_matches": 0,
+    "lowest_k": 0.68904436
+  },
+  {
+    "id": 12790890,
+    "missing_matches": 0,
+    "lowest_k": 0.7410848
+  },
+  {
+    "id": 23449952,
+    "missing_matches": 0,
+    "lowest_k": 0.7366141
+  },
+  {
+    "id": 10430303,
+    "missing_matches": 0,
+    "lowest_k": 0.63924444
+  },
+  {
+    "id": 20605051,
+    "missing_matches": 0,
+    "lowest_k": 0.7663806
+  },
+  {
+    "id": 23048048,
+    "missing_matches": 0,
+    "lowest_k": 0.8069195
+  },
+  {
+    "id": 16991071,
+    "missing_matches": 0,
+    "lowest_k": 0.68262714
+  },
+  {
+    "id": 12090319,
+    "missing_matches": 0,
+    "lowest_k": 0.76104546
+  },
+  {
+    "id": 24614851,
+    "missing_matches": 0,
+    "lowest_k": 0.74076873
+  },
+  {
+    "id": 17578985,
+    "missing_matches": 0,
+    "lowest_k": 0.7238861
+  },
+  {
+    "id": 26965932,
+    "missing_matches": 0,
+    "lowest_k": 0.6207344
+  },
+  {
+    "id": 15137012,
+    "missing_matches": 0,
+    "lowest_k": 0.76380676
+  },
+  {
+    "id": 21194998,
+    "missing_matches": 0,
+    "lowest_k": 0.5767853
+  },
+  {
+    "id": 15787677,
+    "missing_matches": 0,
+    "lowest_k": 0.6207336
+  },
+  {
+    "id": 24625433,
+    "missing_matches": 0,
+    "lowest_k": 0.8123485
+  },
+  {
+    "id": 25304452,
+    "missing_matches": 0,
+    "lowest_k": 0.64096767
+  },
+  {
+    "id": 19711462,
+    "missing_matches": 0,
+    "lowest_k": 0.6174978
+  },
+  {
+    "id": 28196511,
+    "missing_matches": 0,
+    "lowest_k": 0.7058462
+  },
+  {
+    "id": 24591144,
+    "missing_matches": 0,
+    "lowest_k": 0.68569386
+  },
+  {
+    "id": 21431987,
+    "missing_matches": 0,
+    "lowest_k": 0.7386752
+  },
+  {
+    "id": 18928979,
+    "missing_matches": 0,
+    "lowest_k": 0.74147946
+  },
+  {
+    "id": 25752725,
+    "missing_matches": 0,
+    "lowest_k": 0.6718898
+  },
+  {
+    "id": 12855939,
+    "missing_matches": 0,
+    "lowest_k": 0.61680925
+  },
+  {
+    "id": 24476003,
+    "missing_matches": 0,
+    "lowest_k": 0.6536837
+  },
+  {
+    "id": 24606627,
+    "missing_matches": 0,
+    "lowest_k": 0.6606843
+  },
+  {
+    "id": 23386371,
+    "missing_matches": 0,
+    "lowest_k": 0.78354824
+  },
+  {
+    "id": 10922093,
+    "missing_matches": 0,
+    "lowest_k": 0.5885939
+  },
+  {
+    "id": 20602101,
+    "missing_matches": 0,
+    "lowest_k": 0.7852612
+  },
+  {
+    "id": 18065862,
+    "missing_matches": 0,
+    "lowest_k": 0.7169846
+  },
+  {
+    "id": 9569972,
+    "missing_matches": 0,
+    "lowest_k": 0.6338371
+  },
+  {
+    "id": 25406780,
+    "missing_matches": 0,
+    "lowest_k": 0.6871356
+  },
+  {
+    "id": 20629769,
+    "missing_matches": 1,
+    "lowest_k": 0.5261372
+  },
+  {
+    "id": 23149821,
+    "missing_matches": 0,
+    "lowest_k": 0.6234371
+  },
+  {
+    "id": 11483547,
+    "missing_matches": 0,
+    "lowest_k": 0.72089565
+  },
+  {
+    "id": 27884344,
+    "missing_matches": 1,
+    "lowest_k": 0.46078533
+  },
+  {
+    "id": 18800356,
+    "missing_matches": 0,
+    "lowest_k": 0.68284696
+  },
+  {
+    "id": 22301406,
+    "missing_matches": 0,
+    "lowest_k": 0.7779757
+  },
+  {
+    "id": 26079501,
+    "missing_matches": 0,
+    "lowest_k": 0.77253145
+  },
+  {
+    "id": 15774570,
+    "missing_matches": 0,
+    "lowest_k": 0.49650908
+  },
+  {
+    "id": 18319270,
+    "missing_matches": 0,
+    "lowest_k": 0.67574805
+  },
+  {
+    "id": 26209118,
+    "missing_matches": 0,
+    "lowest_k": 0.81845427
+  },
+  {
+    "id": 11713724,
+    "missing_matches": 0,
+    "lowest_k": 0.71790385
+  },
+  {
+    "id": 25070942,
+    "missing_matches": 0,
+    "lowest_k": 0.49632135
+  },
+  {
+    "id": 19683101,
+    "missing_matches": 0,
+    "lowest_k": 0.73503727
+  },
+  {
+    "id": 10783841,
+    "missing_matches": 0,
+    "lowest_k": 0.67980963
+  },
+  {
+    "id": 11862129,
+    "missing_matches": 0,
+    "lowest_k": 0.6881522
+  },
+  {
+    "id": 23455575,
+    "missing_matches": 0,
+    "lowest_k": 0.63559264
+  },
+  {
+    "id": 21848798,
+    "missing_matches": 0,
+    "lowest_k": 0.7979476
+  },
+  {
+    "id": 25103647,
+    "missing_matches": 0,
+    "lowest_k": 0.7556608
+  },
+  {
+    "id": 19406119,
+    "missing_matches": 0,
+    "lowest_k": 0.72816646
+  },
+  {
+    "id": 24359102,
+    "missing_matches": 0,
+    "lowest_k": 0.72577906
+  },
+  {
+    "id": 18802997,
+    "missing_matches": 0,
+    "lowest_k": 0.77640694
+  },
+  {
+    "id": 26304701,
+    "missing_matches": 0,
+    "lowest_k": 0.76755375
+  },
+  {
+    "id": 19058191,
+    "missing_matches": 0,
+    "lowest_k": 0.6513189
+  },
+  {
+    "id": 27549226,
+    "missing_matches": 0,
+    "lowest_k": 0.77406394
+  },
+  {
+    "id": 24799031,
+    "missing_matches": 0,
+    "lowest_k": 0.8305715
+  },
+  {
+    "id": 25043083,
+    "missing_matches": 0,
+    "lowest_k": 0.7265154
+  },
+  {
+    "id": 26516021,
+    "missing_matches": 0,
+    "lowest_k": 0.6341292
+  },
+  {
+    "id": 23736032,
+    "missing_matches": 0,
+    "lowest_k": 0.7034798
+  },
+  {
+    "id": 17312514,
+    "missing_matches": 0,
+    "lowest_k": 0.74389756
+  },
+  {
+    "id": 23002947,
+    "missing_matches": 0,
+    "lowest_k": 0.67643553
+  },
+  {
+    "id": 23453079,
+    "missing_matches": 0,
+    "lowest_k": 0.74850535
+  },
+  {
+    "id": 15053041,
+    "missing_matches": 0,
+    "lowest_k": 0.7978963
+  },
+  {
+    "id": 9465206,
+    "missing_matches": 0,
+    "lowest_k": 0.6485149
+  },
+  {
+    "id": 19593710,
+    "missing_matches": 0,
+    "lowest_k": 0.68447
+  },
+  {
+    "id": 8521557,
+    "missing_matches": 0,
+    "lowest_k": 0.7489967
+  },
+  {
+    "id": 24340838,
+    "missing_matches": 0,
+    "lowest_k": 0.7438227
+  },
+  {
+    "id": 24751724,
+    "missing_matches": 0,
+    "lowest_k": 0.655581
+  },
+  {
+    "id": 21368683,
+    "missing_matches": 0,
+    "lowest_k": 0.76430607
+  },
+  {
+    "id": 27832831,
+    "missing_matches": 0,
+    "lowest_k": 0.77271235
+  },
+  {
+    "id": 15208005,
+    "missing_matches": 0,
+    "lowest_k": 0.74985945
+  },
+  {
+    "id": 24958650,
+    "missing_matches": 0,
+    "lowest_k": 0.7770242
+  },
+  {
+    "id": 16713745,
+    "missing_matches": 0,
+    "lowest_k": 0.7367588
+  },
+  {
+    "id": 24669960,
+    "missing_matches": 0,
+    "lowest_k": 0.6843371
+  },
+  {
+    "id": 9278754,
+    "missing_matches": 0,
+    "lowest_k": 0.70843047
+  },
+  {
+    "id": 8738894,
+    "missing_matches": 0,
+    "lowest_k": 0.78892285
+  },
+  {
+    "id": 24671913,
+    "missing_matches": 0,
+    "lowest_k": 0.7782803
+  },
+  {
+    "id": 22540518,
+    "missing_matches": 0,
+    "lowest_k": 0.60536486
+  },
+  {
+    "id": 16538201,
+    "missing_matches": 0,
+    "lowest_k": 0.82221794
+  },
+  {
+    "id": 17054994,
+    "missing_matches": 0,
+    "lowest_k": 0.70725554
+  },
+  {
+    "id": 26999038,
+    "missing_matches": 0,
+    "lowest_k": 0.64606315
+  },
+  {
+    "id": 23598835,
+    "missing_matches": 0,
+    "lowest_k": 0.6884575
+  },
+  {
+    "id": 17890090,
+    "missing_matches": 0,
+    "lowest_k": 0.7342094
+  },
+  {
+    "id": 22813804,
+    "missing_matches": 0,
+    "lowest_k": 0.78178835
+  },
+  {
+    "id": 26923375,
+    "missing_matches": 0,
+    "lowest_k": 0.6047119
+  },
+  {
+    "id": 20304513,
+    "missing_matches": 0,
+    "lowest_k": 0.7190256
+  },
+  {
+    "id": 21689015,
+    "missing_matches": 0,
+    "lowest_k": 0.6485028
+  },
+  {
+    "id": 10811329,
+    "missing_matches": 0,
+    "lowest_k": 0.7801452
+  },
+  {
+    "id": 10834864,
+    "missing_matches": 0,
+    "lowest_k": 0.74287015
+  },
+  {
+    "id": 27909738,
+    "missing_matches": 0,
+    "lowest_k": 0.7639872
+  },
+  {
+    "id": 26063028,
+    "missing_matches": 0,
+    "lowest_k": 0.7316142
+  },
+  {
+    "id": 25034219,
+    "missing_matches": 0,
+    "lowest_k": 0.6769859
+  },
+  {
+    "id": 25521278,
+    "missing_matches": 0,
+    "lowest_k": 0.7693191
+  },
+  {
+    "id": 27908583,
+    "missing_matches": 0,
+    "lowest_k": 0.77340657
+  },
+  {
+    "id": 23422012,
+    "missing_matches": 0,
+    "lowest_k": 0.6429072
+  },
+  {
+    "id": 11500608,
+    "missing_matches": 0,
+    "lowest_k": 0.70279557
+  },
+  {
+    "id": 8111516,
+    "missing_matches": 0,
+    "lowest_k": 0.6160918
+  },
+  {
+    "id": 25604390,
+    "missing_matches": 0,
+    "lowest_k": 0.76929754
+  },
+  {
+    "id": 25985014,
+    "missing_matches": 0,
+    "lowest_k": 0.65270996
+  },
+  {
+    "id": 14627582,
+    "missing_matches": 0,
+    "lowest_k": 0.6364441
+  },
+  {
+    "id": 18570208,
+    "missing_matches": 0,
+    "lowest_k": 0.6075981
+  },
+  {
+    "id": 23448747,
+    "missing_matches": 0,
+    "lowest_k": 0.6939571
+  },
+  {
+    "id": 20156655,
+    "missing_matches": 0,
+    "lowest_k": 0.6936866
+  },
+  {
+    "id": 16147837,
+    "missing_matches": 0,
+    "lowest_k": 0.74443704
+  },
+  {
+    "id": 16249670,
+    "missing_matches": 0,
+    "lowest_k": 0.5672617
+  },
+  {
+    "id": 24495711,
+    "missing_matches": 0,
+    "lowest_k": 0.76814026
+  },
+  {
+    "id": 20101129,
+    "missing_matches": 0,
+    "lowest_k": 0.8144405
+  },
+  {
+    "id": 17593459,
+    "missing_matches": 0,
+    "lowest_k": 0.730023
+  },
+  {
+    "id": 24577079,
+    "missing_matches": 0,
+    "lowest_k": 0.69413733
+  },
+  {
+    "id": 9582182,
+    "missing_matches": 0,
+    "lowest_k": 0.6833881
+  },
+  {
+    "id": 17715311,
+    "missing_matches": 0,
+    "lowest_k": 0.7472457
+  },
+  {
+    "id": 12094116,
+    "missing_matches": 0,
+    "lowest_k": 0.68069273
+  },
+  {
+    "id": 19430778,
+    "missing_matches": 0,
+    "lowest_k": 0.6687406
+  },
+  {
+    "id": 12848629,
+    "missing_matches": 0,
+    "lowest_k": 0.7397883
+  },
+  {
+    "id": 10732884,
+    "missing_matches": 0,
+    "lowest_k": 0.7750485
+  },
+  {
+    "id": 23568387,
+    "missing_matches": 0,
+    "lowest_k": 0.82042783
+  },
+  {
+    "id": 25675614,
+    "missing_matches": 0,
+    "lowest_k": 0.70814794
+  },
+  {
+    "id": 26864326,
+    "missing_matches": 0,
+    "lowest_k": 0.604745
+  },
+  {
+    "id": 26784147,
+    "missing_matches": 0,
+    "lowest_k": 0.7063367
+  },
+  {
+    "id": 20850631,
+    "missing_matches": 0,
+    "lowest_k": 0.654602
+  },
+  {
+    "id": 22849512,
+    "missing_matches": 0,
+    "lowest_k": 0.79777664
+  },
+  {
+    "id": 27642458,
+    "missing_matches": 0,
+    "lowest_k": 0.64248496
+  },
+  {
+    "id": 17403428,
+    "missing_matches": 0,
+    "lowest_k": 0.79280794
+  },
+  {
+    "id": 21252642,
+    "missing_matches": 0,
+    "lowest_k": 0.59664655
+  },
+  {
+    "id": 25503376,
+    "missing_matches": 0,
+    "lowest_k": 0.8129529
+  },
+  {
+    "id": 12172698,
+    "missing_matches": 0,
+    "lowest_k": 0.73090583
+  },
+  {
+    "id": 19351635,
+    "missing_matches": 0,
+    "lowest_k": 0.6676715
+  },
+  {
+    "id": 17551944,
+    "missing_matches": 0,
+    "lowest_k": 0.65232295
+  },
+  {
+    "id": 17606778,
+    "missing_matches": 0,
+    "lowest_k": 0.84744376
+  },
+  {
+    "id": 24318956,
+    "missing_matches": 0,
+    "lowest_k": 0.8082523
+  },
+  {
+    "id": 26044262,
+    "missing_matches": 0,
+    "lowest_k": 0.80851024
+  },
+  {
+    "id": 20011163,
+    "missing_matches": 0,
+    "lowest_k": 0.6185448
+  },
+  {
+    "id": 16735905,
+    "missing_matches": 0,
+    "lowest_k": 0.759167
+  },
+  {
+    "id": 18670651,
+    "missing_matches": 0,
+    "lowest_k": 0.75810224
+  },
+  {
+    "id": 11034241,
+    "missing_matches": 0,
+    "lowest_k": 0.7208671
+  },
+  {
+    "id": 24013712,
+    "missing_matches": 0,
+    "lowest_k": 0.8492202
+  },
+  {
+    "id": 23240452,
+    "missing_matches": 0,
+    "lowest_k": 0.7147104
+  },
+  {
+    "id": 21420186,
+    "missing_matches": 0,
+    "lowest_k": 0.7331349
+  },
+  {
+    "id": 22302761,
+    "missing_matches": 0,
+    "lowest_k": 0.7834703
+  },
+  {
+    "id": 21979183,
+    "missing_matches": 0,
+    "lowest_k": 0.7061297
+  },
+  {
+    "id": 12607120,
+    "missing_matches": 0,
+    "lowest_k": 0.76647145
+  },
+  {
+    "id": 21914194,
+    "missing_matches": 0,
+    "lowest_k": 0.7371981
+  },
+  {
+    "id": 25725704,
+    "missing_matches": 0,
+    "lowest_k": 0.5067522
+  },
+  {
+    "id": 24516646,
+    "missing_matches": 0,
+    "lowest_k": 0.737594
+  },
+  {
+    "id": 28247485,
+    "missing_matches": 0,
+    "lowest_k": 0.8116799
+  },
+  {
+    "id": 11334578,
+    "missing_matches": 0,
+    "lowest_k": 0.5942911
+  },
+  {
+    "id": 21593045,
+    "missing_matches": 0,
+    "lowest_k": 0.7797109
+  },
+  {
+    "id": 22902073,
+    "missing_matches": 0,
+    "lowest_k": 0.7289078
+  },
+  {
+    "id": 26471488,
+    "missing_matches": 0,
+    "lowest_k": 0.8210849
+  },
+  {
+    "id": 16647887,
+    "missing_matches": 0,
+    "lowest_k": 0.7232982
+  },
+  {
+    "id": 22668712,
+    "missing_matches": 0,
+    "lowest_k": 0.6888925
+  },
+  {
+    "id": 18439500,
+    "missing_matches": 0,
+    "lowest_k": 0.68241686
+  },
+  {
+    "id": 23347337,
+    "missing_matches": 0,
+    "lowest_k": 0.68189365
+  },
+  {
+    "id": 22970993,
+    "missing_matches": 0,
+    "lowest_k": 0.7420518
+  },
+  {
+    "id": 16498158,
+    "missing_matches": 0,
+    "lowest_k": 0.6586738
+  },
+  {
+    "id": 24622801,
+    "missing_matches": 0,
+    "lowest_k": 0.78440136
+  },
+  {
+    "id": 15000338,
+    "missing_matches": 0,
+    "lowest_k": 0.5515549
+  },
+  {
+    "id": 22491528,
+    "missing_matches": 0,
+    "lowest_k": 0.74508095
+  },
+  {
+    "id": 11247896,
+    "missing_matches": 0,
+    "lowest_k": 0.6470736
+  },
+  {
+    "id": 19145527,
+    "missing_matches": 0,
+    "lowest_k": 0.73518395
+  },
+  {
+    "id": 18568239,
+    "missing_matches": 0,
+    "lowest_k": 0.7396798
+  },
+  {
+    "id": 22075911,
+    "missing_matches": 0,
+    "lowest_k": 0.8023202
+  },
+  {
+    "id": 10401824,
+    "missing_matches": 0,
+    "lowest_k": 0.6933083
+  },
+  {
+    "id": 21880023,
+    "missing_matches": 0,
+    "lowest_k": 0.7700213
+  },
+  {
+    "id": 21726930,
+    "missing_matches": 0,
+    "lowest_k": 0.8343871
+  },
+  {
+    "id": 22768311,
+    "missing_matches": 0,
+    "lowest_k": 0.82589275
+  },
+  {
+    "id": 25636371,
+    "missing_matches": 0,
+    "lowest_k": 0.6787262
+  },
+  {
+    "id": 15050326,
+    "missing_matches": 0,
+    "lowest_k": 0.73071736
+  },
+  {
+    "id": 23412195,
+    "missing_matches": 0,
+    "lowest_k": 0.7280236
+  },
+  {
+    "id": 16968183,
+    "missing_matches": 0,
+    "lowest_k": 0.76098293
+  },
+  {
+    "id": 23359100,
+    "missing_matches": 0,
+    "lowest_k": 0.84843934
+  },
+  {
+    "id": 15943725,
+    "missing_matches": 0,
+    "lowest_k": 0.74006027
+  },
+  {
+    "id": 25735444,
+    "missing_matches": 0,
+    "lowest_k": 0.5859559
+  },
+  {
+    "id": 9722752,
+    "missing_matches": 0,
+    "lowest_k": 0.7280631
+  },
+  {
+    "id": 23870157,
+    "missing_matches": 0,
+    "lowest_k": 0.6852997
+  },
+  {
+    "id": 22303473,
+    "missing_matches": 0,
+    "lowest_k": 0.8479604
+  },
+  {
+    "id": 24995509,
+    "missing_matches": 0,
+    "lowest_k": 0.62301326
+  },
+  {
+    "id": 24270957,
+    "missing_matches": 0,
+    "lowest_k": 0.7771447
+  },
+  {
+    "id": 23848044,
+    "missing_matches": 0,
+    "lowest_k": 0.6547162
+  },
+  {
+    "id": 9920954,
+    "missing_matches": 0,
+    "lowest_k": 0.6787869
+  },
+  {
+    "id": 21276532,
+    "missing_matches": 0,
+    "lowest_k": 0.7611008
+  },
+  {
+    "id": 23379759,
+    "missing_matches": 0,
+    "lowest_k": 0.67072546
+  },
+  {
+    "id": 25891436,
+    "missing_matches": 0,
+    "lowest_k": 0.6106896
+  },
+  {
+    "id": 24450673,
+    "missing_matches": 0,
+    "lowest_k": 0.68494236
+  },
+  {
+    "id": 17914515,
+    "missing_matches": 0,
+    "lowest_k": 0.78549105
+  },
+  {
+    "id": 24739448,
+    "missing_matches": 0,
+    "lowest_k": 0.7241063
+  },
+  {
+    "id": 19444061,
+    "missing_matches": 0,
+    "lowest_k": 0.75562483
+  },
+  {
+    "id": 25669733,
+    "missing_matches": 0,
+    "lowest_k": 0.7370927
+  },
+  {
+    "id": 20577124,
+    "missing_matches": 0,
+    "lowest_k": 0.7057757
+  },
+  {
+    "id": 21592383,
+    "missing_matches": 0,
+    "lowest_k": 0.70150816
+  },
+  {
+    "id": 11053064,
+    "missing_matches": 0,
+    "lowest_k": 0.7351042
+  },
+  {
+    "id": 9745063,
+    "missing_matches": 0,
+    "lowest_k": 0.7495943
+  },
+  {
+    "id": 11138995,
+    "missing_matches": 0,
+    "lowest_k": 0.73347104
+  },
+  {
+    "id": 15475728,
+    "missing_matches": 0,
+    "lowest_k": 0.7779508
+  },
+  {
+    "id": 12121321,
+    "missing_matches": 0,
+    "lowest_k": 0.7516712
+  },
+  {
+    "id": 17342562,
+    "missing_matches": 0,
+    "lowest_k": 0.616158
+  },
+  {
+    "id": 28011794,
+    "missing_matches": 0,
+    "lowest_k": 0.7807456
+  },
+  {
+    "id": 24098953,
+    "missing_matches": 0,
+    "lowest_k": 0.60174394
+  },
+  {
+    "id": 24827404,
+    "missing_matches": 0,
+    "lowest_k": 0.77823645
+  },
+  {
+    "id": 28407529,
+    "missing_matches": 0,
+    "lowest_k": 0.69023377
+  },
+  {
+    "id": 27928673,
+    "missing_matches": 0,
+    "lowest_k": 0.6406926
+  },
+  {
+    "id": 22011946,
+    "missing_matches": 0,
+    "lowest_k": 0.66519064
+  },
+  {
+    "id": 23517744,
+    "missing_matches": 0,
+    "lowest_k": 0.60070735
+  },
+  {
+    "id": 20842006,
+    "missing_matches": 0,
+    "lowest_k": 0.6977953
+  },
+  {
+    "id": 9140335,
+    "missing_matches": 0,
+    "lowest_k": 0.7400902
+  },
+  {
+    "id": 12142826,
+    "missing_matches": 0,
+    "lowest_k": 0.669605
+  },
+  {
+    "id": 22382608,
+    "missing_matches": 0,
+    "lowest_k": 0.7641626
+  },
+  {
+    "id": 17329379,
+    "missing_matches": 0,
+    "lowest_k": 0.62004596
+  },
+  {
+    "id": 27288618,
+    "missing_matches": 0,
+    "lowest_k": 0.72434247
+  },
+  {
+    "id": 21873082,
+    "missing_matches": 0,
+    "lowest_k": 0.81392014
+  },
+  {
+    "id": 25810292,
+    "missing_matches": 0,
+    "lowest_k": 0.7175903
+  },
+  {
+    "id": 21739621,
+    "missing_matches": 0,
+    "lowest_k": 0.6890212
+  },
+  {
+    "id": 20073599,
+    "missing_matches": 0,
+    "lowest_k": 0.77944773
+  },
+  {
+    "id": 21845457,
+    "missing_matches": 0,
+    "lowest_k": 0.78944737
+  },
+  {
+    "id": 16216859,
+    "missing_matches": 0,
+    "lowest_k": 0.7513489
+  },
+  {
+    "id": 19103915,
+    "missing_matches": 0,
+    "lowest_k": 0.78051305
+  },
+  {
+    "id": 22521460,
+    "missing_matches": 0,
+    "lowest_k": 0.6784147
+  },
+  {
+    "id": 17062234,
+    "missing_matches": 0,
+    "lowest_k": 0.69482946
+  },
+  {
+    "id": 26126304,
+    "missing_matches": 0,
+    "lowest_k": 0.6336417
+  },
+  {
+    "id": 19578820,
+    "missing_matches": 0,
+    "lowest_k": 0.7344526
+  },
+  {
+    "id": 21228436,
+    "missing_matches": 0,
+    "lowest_k": 0.74354416
+  },
+  {
+    "id": 23972333,
+    "missing_matches": 0,
+    "lowest_k": 0.64178133
+  },
+  {
+    "id": 23719685,
+    "missing_matches": 0,
+    "lowest_k": 0.6607075
+  },
+  {
+    "id": 11601252,
+    "missing_matches": 1,
+    "lowest_k": 0.54714197
+  },
+  {
+    "id": 23506394,
+    "missing_matches": 0,
+    "lowest_k": 0.70743036
+  },
+  {
+    "id": 19575307,
+    "missing_matches": 0,
+    "lowest_k": 0.73478025
+  },
+  {
+    "id": 11977907,
+    "missing_matches": 0,
+    "lowest_k": 0.70860356
+  },
+  {
+    "id": 12626177,
+    "missing_matches": 0,
+    "lowest_k": 0.66528374
+  },
+  {
+    "id": 15483019,
+    "missing_matches": 0,
+    "lowest_k": 0.6885539
+  },
+  {
+    "id": 18693227,
+    "missing_matches": 0,
+    "lowest_k": 0.6747531
+  },
+  {
+    "id": 27131771,
+    "missing_matches": 0,
+    "lowest_k": 0.8468487
+  },
+  {
+    "id": 24783217,
+    "missing_matches": 0,
+    "lowest_k": 0.79355437
+  },
+  {
+    "id": 17916877,
+    "missing_matches": 0,
+    "lowest_k": 0.69448614
+  },
+  {
+    "id": 8375607,
+    "missing_matches": 0,
+    "lowest_k": 0.61022353
+  },
+  {
+    "id": 11955750,
+    "missing_matches": 0,
+    "lowest_k": 0.73681986
+  },
+  {
+    "id": 27040842,
+    "missing_matches": 0,
+    "lowest_k": 0.75237
+  },
+  {
+    "id": 17244100,
+    "missing_matches": 0,
+    "lowest_k": 0.754973
+  },
+  {
+    "id": 15708048,
+    "missing_matches": 0,
+    "lowest_k": 0.7817834
+  },
+  {
+    "id": 11438275,
+    "missing_matches": 0,
+    "lowest_k": 0.7659885
+  },
+  {
+    "id": 22513023,
+    "missing_matches": 0,
+    "lowest_k": 0.6630344
+  },
+  {
+    "id": 27146470,
+    "missing_matches": 0,
+    "lowest_k": 0.6614195
+  },
+  {
+    "id": 8165771,
+    "missing_matches": 0,
+    "lowest_k": 0.7757844
+  },
+  {
+    "id": 23677366,
+    "missing_matches": 0,
+    "lowest_k": 0.66208655
+  },
+  {
+    "id": 19237087,
+    "missing_matches": 0,
+    "lowest_k": 0.68267006
+  },
+  {
+    "id": 10456814,
+    "missing_matches": 0,
+    "lowest_k": 0.79291856
+  },
+  {
+    "id": 8921484,
+    "missing_matches": 0,
+    "lowest_k": 0.82204056
+  },
+  {
+    "id": 16564683,
+    "missing_matches": 0,
+    "lowest_k": 0.69093037
+  },
+  {
+    "id": 23147106,
+    "missing_matches": 0,
+    "lowest_k": 0.6041363
+  },
+  {
+    "id": 21550158,
+    "missing_matches": 0,
+    "lowest_k": 0.7563443
+  },
+  {
+    "id": 17559449,
+    "missing_matches": 0,
+    "lowest_k": 0.6672988
+  }
+]

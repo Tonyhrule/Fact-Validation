@@ -1,58 +1,110 @@
 from datasets import load_dataset, Dataset
 from helpers.data import save_json
-from helpers.pc import multiple_queries
+from helpers.input import function_from_list
+from helpers.oai import async_gpt_calls
+from helpers.pc import multiple_queries, query_batches
 import asyncio
+from typing import TypedDict
 
 
-dataset = load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="train")
-data = dataset.select_columns(["question", "id"]).select(range(1500))  # type: ignore
+class Data(TypedDict):
+    ids: list[str]
+    questions: list[str]
 
-if not isinstance(data, Dataset):
-    raise TypeError("Expected a Dataset object")
 
-print("Querying contexts...")
+def get_dataset(dataset: Dataset, id_key="id", question_key="question"):
+    return {"ids": dataset[id_key], "questions": dataset[question_key]}
 
-contexts = asyncio.run(
-    multiple_queries(data["question"], "hotpot_summarized", include_metadata=True)
-)
 
-print("Mapping contexts...")
+namespaces = {
+    "pubmed_raw": lambda: get_dataset(
+        load_dataset("qiaojin/PubMedQA", name="pqa_labeled", split="train")
+        .select_columns(["pubid", "question"])
+        .select(range(100)),  # type: ignore
+        "pubid",
+    ),
+    "pubmed_summarized": lambda: get_dataset(
+        load_dataset(
+            "qiaojin/PubMedQA", name="pqa_labeled", split="train"
+        ).select_columns(
+            ["pubid", "question"]
+        ),  # type: ignore
+        "pubid",
+    ),
+    "squad_raw": lambda: get_dataset(
+        load_dataset("rajpurkar/squad", split="validation").select(range(1500)),  # type: ignore
+    ),
+    "squad_summarized": lambda: get_dataset(
+        load_dataset("rajpurkar/squad", split="validation").select(range(1500)),  # type: ignore
+    ),
+    "hotpot_raw": lambda: get_dataset(
+        load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="train").select(range(1500)),  # type: ignore
+    ),
+    "hotpot_summarized": lambda: get_dataset(
+        load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="train").select(range(1500)),  # type: ignore
+    ),
+}
 
-results = []
 
-for context, id in zip(contexts, data["id"]):
-    matches = [x.metadata["ids"] for x in context.matches]
-    index = 9
-    for i in range(10):
-        if id in matches[i]:
-            index = i
-            break
-    results.append(
-        {
-            "pubid": id,
-            "missing_matches": index,
-            "lowest_k": context.matches[index]["score"],
-        }
+async def main():
+    data: Data
+    data, namespace = function_from_list("Please select a dataset:", namespaces)
+
+    print("Querying contexts...")
+
+    contexts = await multiple_queries(
+        data["questions"], namespace, include_metadata=True, progress=True
     )
 
-correct = sum(1 for r in results if r["missing_matches"] == 0)
+    print("Mapping contexts...")
 
-print(f"Correct: {correct}/{len(results)} = {correct / len(results) * 100:.2f}%")
+    results = []
 
-one_missing = sum(1 for r in results if r["missing_matches"] <= 1)
+    for context, id, question, query in zip(
+        contexts, data["ids"], data["questions"], data["questions"]
+    ):
+        matches = [x.metadata["ids"] for x in context]
+        index = 9
+        for i in range(10):
+            if str(id) in matches[i]:
+                index = i
+                break
+        results.append(
+            {
+                "id": id,
+                "question": question,
+                "query": query,
+                "extra_matches": index,
+                "result_k": context[index].score,
+                "lowest_score": context[-1].score,
+            }
+        )
 
-print(
-    f"One missing: {one_missing}/{len(results)} = {one_missing / len(results) * 100:.2f}%"
-)
+    correct = sum(1 for r in results if r["extra_matches"] == 0)
 
-two_missing = sum(1 for r in results if r["missing_matches"] <= 2)
+    print(f"Correct: {correct}/{len(results)} = {correct / len(results) * 100:.2f}%")
 
-print(
-    f"Two missing: {two_missing}/{len(results)} = {two_missing / len(results) * 100:.2f}%"
-)
+    one_extra = sum(1 for r in results if r["extra_matches"] == 1)
 
-above_55 = sum(1 for r in results if r["lowest_k"] >= 0.55)
+    print(
+        f"One extra: {one_extra}/{len(results)} = {(one_extra) / (len(results)) * 100:.2f}%"
+    )
 
-print(f"Above k=.55: {above_55}/{len(results)} = {above_55 / len(results) * 100:.2f}%")
+    two_extra = sum(1 for r in results if r["extra_matches"] == 2)
 
-save_json("results/hotpot_raw_rag.json", results)
+    print(
+        f"Two extra: {two_extra}/{len(results)} = {(two_extra) / (len(results)) * 100:.2f}%"
+    )
+
+    k_limit = 0.4
+
+    above_k = sum(1 for r in results if r["result_k"] >= k_limit)
+
+    print(
+        f"Above k={k_limit}: {above_k}/{len(results)} = {above_k / len(results) * 100:.2f}%"
+    )
+
+    save_json(f"results/rag/{namespace}.json", results)
+
+
+asyncio.run(main())

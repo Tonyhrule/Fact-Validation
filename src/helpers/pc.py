@@ -80,46 +80,52 @@ async def embed(
     return result
 
 
-def query_index(
+async def query_index(
     query: str,
     namespace: str,
     top_k=5,
     include_metadata=False,
     include_vector=False,
     min_score=0.0,
+    filter={},
 ):
-    embedding = get_embedding(query)
-    response = index.query(
+    embedding = await get_embedding(query)
+    response: QueryResponse = index.query(
         namespace=namespace,
         vector=embedding.vector,
         top_k=top_k,
         include_metadata=include_metadata,
         include_values=include_vector,
-    )
-    response.matches = [match for match in response.matches if match.score >= min_score]
-    return response
+        filter=filter,
+    )  # type: ignore
+    return [match for match in response.matches if match.score >= min_score]
 
 
 async def async_query_index(
-    query: list[float],
+    query: list[float] | str,
     namespace: str,
     top_k=5,
     include_metadata=False,
     include_vector=False,
     min_score=0.0,
     progress: Progress | None = None,
+    filter={},
 ):
+    if isinstance(query, str):
+        query = (await get_embedding(query)).vector
     response = index.query(
         namespace=namespace,
         vector=query,
         top_k=top_k,
         include_metadata=include_metadata,
         include_vector=include_vector,
-    )
-    response.matches = [match for match in response.matches if match.score >= min_score]
+        filter=filter,
+        async_req=True,
+    )  # type: ignore
+    result = response.result()
     if progress:
         progress.increment()
-    return response
+    return [match for match in result.matches if match.score >= min_score]
 
 
 async def multiple_queries(
@@ -148,15 +154,55 @@ async def multiple_queries(
             for embedding in embeddings
         ]
     )
-    for response in responses:
-        response.matches = [
-            match for match in response.matches if match.score >= min_score
-        ]
 
     p.finish() if p else None
 
-    return responses
+    return [
+        [match for match in response if match.score >= min_score]
+        for response in responses
+    ]
 
 
-def content_from_query_result(result: QueryResponse) -> list[str]:
-    return [match.metadata["content"] for match in result.matches]
+async def query_batches(
+    queries: list[list[str]],
+    namespace: str,
+    top_k=10,
+    include_metadata=False,
+    include_vector=False,
+    min_score=0.0,
+    progress: bool = False,
+):
+    flattened_results = await multiple_queries(
+        [query for batch in queries for query in batch],
+        namespace,
+        top_k,
+        include_metadata,
+        include_vector,
+        min_score,
+        progress,
+    )
+
+    unflattened_results = []
+    i = 0
+
+    for batch in queries:
+        to_add = []
+        for _ in batch:
+            to_add += flattened_results[i]
+            i += 1
+        to_add.sort(key=lambda x: x.score, reverse=True)
+        duplicates_removed = []
+        for match in to_add:
+            if match.id not in [m.id for m in duplicates_removed]:
+                duplicates_removed.append(match)
+
+        unflattened_results.append(duplicates_removed)
+
+    return unflattened_results
+
+
+def content_from_query_result(result: QueryResponse | list) -> list[str]:
+    return [
+        match.metadata["content"]
+        for match in (result if isinstance(result, QueryResponse) else result)
+    ]

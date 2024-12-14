@@ -1,13 +1,12 @@
-from functools import partial
 from datasets import load_dataset, Dataset
-from helpers.data import chunk_list, queue, save_json
+from helpers.data import chunk_list, save_json
 from helpers.oai import async_gpt_calls
 from helpers.progress import Progress
-from pipelines.raw import run_raw
+from pipelines.validity import run_validity
 import asyncio
 
 
-async def pubmed_summarized():
+async def pubmed_validity():
     dataset = load_dataset("qiaojin/PubMedQA", name="pqa_labeled", split="train")
 
     data = dataset.select_columns(["question", "final_decision", "pubid"])
@@ -15,14 +14,16 @@ async def pubmed_summarized():
     if not isinstance(data, Dataset):
         raise TypeError("Expected a Dataset object")
 
-    progress = Progress(len(data), "Benchmarking PubMed summarizer")
+    progress = Progress(len(data), "Benchmarking PubMed Validity")
 
-    results = await queue(
-        [
-            partial(run_raw, "pubmed_summarized", prompt, progress)
-            for prompt in data["question"]
-        ],
-    )
+    batches = chunk_list(data["question"], 50)
+
+    results = []
+
+    for batch in batches:
+        results += await asyncio.gather(
+            *[run_validity("pubmed_raw", prompt, progress) for prompt in batch]
+        )
 
     progress.finish()
 
@@ -46,12 +47,12 @@ Answer:
     print(f"Correct: {correct}/{len(results)} = {correct / len(results) * 100:.2f}%")
 
     save_json(
-        "results/pubmed_summarized.json",
+        "results/pubmed_validity.json",
         [
             {
                 "pubid": pubid,
                 "is_correct": result["correct"],
-                "decision": str(decision),
+                "decision": decision,
                 "correct_answer": correct_answer,
             }
             for result, correct_answer, pubid, decision in zip(

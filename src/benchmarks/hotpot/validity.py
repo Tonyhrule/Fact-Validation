@@ -1,43 +1,45 @@
-from functools import partial
 from datasets import load_dataset, Dataset
-from helpers.data import chunk_list, queue, save_json
+from helpers.data import chunk_list, save_json
 from helpers.oai import async_gpt_calls
 from helpers.progress import Progress
 from pipelines.raw import run_raw
 import asyncio
 
 
-async def hotpot_raw():
+async def hotpot_validity():
     dataset = load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="test")
 
-    data = dataset.select_columns(["id", "question", "answer"]).select(range(1500))  # type: ignore
+    data = dataset.select_columns(["id", "question", "answer"])
 
     if not isinstance(data, Dataset):
         raise TypeError("Expected a Dataset object")
 
-    progress = Progress(len(data), "Benchmarking Hotpot Raw")
+    progress = Progress(len(data), "Benchmarking Hotpot Validity")
 
-    results = await queue(
-        [
-            partial(run_raw, "hotpot_raw", prompt, progress)
-            for prompt in data["question"]
-        ],
-    )
+    batches = chunk_list(data["question"], 50)
+
+    results = []
+
+    for batch in batches:
+        results += await asyncio.gather(
+            *[run_raw("hotpot_raw", prompt, progress) for prompt in batch]
+        )
+
     progress.finish()
+
+    print("Evaluating results...")
 
     decisions = await async_gpt_calls(
         [
-            f"""Please determine if the answer is correct (respond with yes or no).
-Accept partial/similar answers (eg. markedly improved = significantly improved)
-If the answer is correct in any part of its explanation, it is correct.
+            f"""Please determine if these two answers to this question match (respond with yes or no):
 Question:
 {prompt}
 
-Correct Answer:
-{answer}
+Answer 1:
+{result["correction"] if "correction" in result else result["response"]}
 
-Provided Answer:
-{result["correction"] if "correction" in result else result["response"]}"""
+Answer 2:
+{answer}"""
             for prompt, result, answer in zip(data["question"], results, data["answer"])
         ],
         max_tokens=10,
@@ -53,7 +55,7 @@ Provided Answer:
     print(f"Correct: {correct}/{len(results)} = {correct / len(results) * 100:.2f}%")
 
     save_json(
-        "results/hotpot_raw.json",
+        "results/hotpot_validity.json",
         [
             {
                 "id": id,
@@ -65,6 +67,6 @@ Provided Answer:
                 ),
                 "correct_answer": correct_answer,
             }
-            for result, correct_answer, id in zip(results, data["answer"], data["id"])
+            for result, correct_answer, id in zip(results, data, data["id"])
         ],
     )

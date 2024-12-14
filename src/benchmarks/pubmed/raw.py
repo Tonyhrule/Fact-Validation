@@ -1,5 +1,6 @@
+from functools import partial
 from datasets import load_dataset, Dataset
-from helpers.data import chunk_list, save_json
+from helpers.data import chunk_list, queue, save_json
 from helpers.oai import async_gpt_calls
 from helpers.progress import Progress
 from pipelines.raw import run_raw
@@ -9,21 +10,19 @@ import asyncio
 async def pubmed_raw():
     dataset = load_dataset("qiaojin/PubMedQA", name="pqa_labeled", split="train")
 
-    data = dataset.select_columns(["question", "final_decision", "pubid"])  # type: ignore
+    data = dataset.select_columns(["question", "final_decision", "pubid"])
 
     if not isinstance(data, Dataset):
         raise TypeError("Expected a Dataset object")
 
     progress = Progress(len(data), "Benchmarking PubMed raw")
 
-    batches = chunk_list(data["question"], 50)
-
-    results = []
-
-    for batch in batches:
-        results += await asyncio.gather(
-            *[run_raw("pubmed_raw", prompt, progress) for prompt in batch]
-        )
+    results = await queue(
+        [
+            partial(run_raw, "pubmed_raw", prompt, progress)
+            for prompt in data["question"]
+        ],
+    )
 
     progress.finish()
 
@@ -52,11 +51,11 @@ Answer:
             {
                 "pubid": pubid,
                 "is_correct": result["correct"],
-                "decision": result["decision"],
+                "decision": str(decision),
                 "correct_answer": correct_answer,
             }
-            for result, correct_answer, pubid in zip(
-                results, data["final_decision"], data["pubid"]
+            for result, correct_answer, pubid, decision in zip(
+                results, data["final_decision"], data["pubid"], decisions
             )
         ],
     )

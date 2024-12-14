@@ -1,10 +1,11 @@
 from helpers.data import save_json
-from pipelines.summarizer import summarize
+from pipelines.raw import run_raw
+from pipelines.validity import run_validity
 import asyncio
 
 
 result = asyncio.run(
-    summarize(
+    run_raw(
         "pubmed_summarized",
         "Do mitochondria play a role in remodelling lace plant leaves during programmed cell death?",
     )

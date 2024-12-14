@@ -1,13 +1,12 @@
 import asyncio
 from datasets import load_dataset, Dataset
-
 from helpers.data import save_json
 from helpers.oai import get_embeddings
 from helpers.pc import upsert_index
 
 
 async def hotpot_raw():
-    dataset = load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="train")
+    dataset = load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="test")
 
     data = dataset.select_columns(["id", "context", "question", "supporting_facts"]).select(range(1500))  # type: ignore
 
@@ -24,18 +23,20 @@ async def hotpot_raw():
             if context_id not in contexts:
                 contexts[context_id] = "".join(context)
                 context_to_ids[context_id] = []
+
+    for id, used_contexts, context in zip(
+        data["id"], data["supporting_facts"], data["context"]
+    ):
         for context_id in used_contexts["title"]:
             context_to_ids[context_id].append(id)
 
-    embeddings = await get_embeddings(list(contexts.values()))
-
-    print("Upserting embeddings...")
+    embeddings = await get_embeddings(list(contexts.values()), progress_bar=True)
 
     upsert_index(
         "hotpot_raw",
         [
             {
-                "id": id.encode("ascii", "ignore"),
+                "id": id.encode("ascii", "ignore").decode("ascii"),
                 "values": embedding.vector,
                 "metadata": {
                     "content": context,
@@ -43,6 +44,7 @@ async def hotpot_raw():
                 },
             }
             for embedding, (id, context) in zip(embeddings, contexts.items())
+            if id.encode("ascii", "ignore").decode("ascii") != ""
         ],
     )
 

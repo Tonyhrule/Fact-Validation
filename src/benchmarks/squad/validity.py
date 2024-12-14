@@ -1,51 +1,49 @@
-from functools import partial
 from datasets import load_dataset, Dataset
-from helpers.data import queue, save_json
+from helpers.data import chunk_list, save_json
 from helpers.oai import async_gpt_calls
 from helpers.progress import Progress
-from pipelines.raw import run_raw
+from pipelines.validity import run_validity
 import asyncio
 
 
-async def squad_raw():
-    dataset = load_dataset("rajpurkar/squad", split="validation")
+async def squad_validity():
+    dataset = load_dataset("rajpurkar/squad", split="train")
 
-    data = dataset.select_columns(["id", "context", "question", "answers", "title"]).filter(lambda x: x["title"] != "Super_Bowl_50").select(range(1500))  # type: ignore
+    data = dataset.select_columns(["id", "context", "question", "answers"]).select(range(1500))  # type: ignore
 
     if not isinstance(data, Dataset):
         raise TypeError("Expected a Dataset object")
 
-    progress = Progress(len(data), "Benchmarking Squad Raw")
+    progress = Progress(len(data), "Benchmarking Squad Validity")
 
-    results = await queue(
-        [
-            partial(run_raw, "squad_raw", prompt, progress)
-            for prompt in data["question"]
-        ],
-    )
+    batches = chunk_list(data["question"], 50)
+
+    results = []
+
+    for batch in batches:
+        results += await asyncio.gather(
+            *[run_validity("squad_raw", prompt, progress) for prompt in batch]
+        )
 
     progress.finish()
 
     decisions = await async_gpt_calls(
         [
-            f"""Please determine if the answer is correct (respond with yes or no).
-Accept partial/similar answers (eg. markedly improved = significantly improved)
-If the answer is correct in any part of its explanation, it is correct.
+            f"""Please determine if these two answers to this question match (respond with yes or no):
 Question:
 {prompt}
 
-Correct Answer:
-{answer["text"][0]}
+Answer 1:
+{result["correction"] if "correction" in result else result["response"]}
 
-Provided Answer:
-{result["correction"] if "correction" in result else result["response"]}"""
+Answer 2:
+{answer["text"][0]}"""
             for prompt, result, answer in zip(
                 data["question"], results, data["answers"]
             )
         ],
         max_tokens=10,
         system="Your answer must be a single word long, either yes or no.",
-        progress_bar=True,
     )
 
     for result, decision in zip(results, decisions):
@@ -56,11 +54,10 @@ Provided Answer:
     print(f"Correct: {correct}/{len(results)} = {correct / len(results) * 100:.2f}%")
 
     save_json(
-        "results/squad_raw.json",
+        "results/squad_validity.json",
         [
             {
                 "id": id,
-                "question": question,
                 "is_correct": result["correct"],
                 "answer": (
                     result["correction"]
@@ -69,8 +66,6 @@ Provided Answer:
                 ),
                 "correct_answer": correct_answer["text"][0],
             }
-            for result, correct_answer, id, question in zip(
-                results, data["answers"], data["id"], data["question"]
-            )
+            for result, correct_answer, id in zip(results, data["answers"], data["id"])
         ],
     )

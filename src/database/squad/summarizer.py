@@ -1,32 +1,39 @@
 import asyncio
+from uuid import uuid4
 from datasets import load_dataset, Dataset
 
-from helpers import progress
 from helpers.dbscan import cluster
 from helpers.oai import async_gpt_calls, get_embeddings
 from helpers.pc import upsert_index
 
-NEWLINES = "\n\n"
+NEWLINE = "\n"
 
 
-def get_summarize_prompt(context: str):
-    return f"""Give an EXTREMELY short summary of the text. Each sentence should have purpose. Make sure you're shortening the text instead of making it longer.
+def get_statement_prompt(context: str):
+    return f"""Convert the following text into a series of concise, standalone statements.
+This should be in bullet-points (- ).
+Each statement should be a complete thought and should NOT reference any other bullet points or wider context.
+This means that each statement should be able to stand alone and make sense.
+For a statement to stand alone, it should contain all the context it needs to be understood.
+Each statement MUST include its FULL setting (eg. In xyz, abc happened), and this setting must be specific (eg. Superbowl 50 instead of Superbowl).
+ALWAYS use proper nouns if possible. (eg. "Superbowl 50" instead of "the game")
 
 Text:
 {context}"""
 
 
 def get_compress_prompt(cluster: list[str]):
-    return f"""Combine the following summaries into an EXTREMELY short summary. Each sentence should have purpose. Make sure you're shortening the text instead of making it longer.
+    statements = "\n".join(cluster)
+    return f"""Combine the following statements into ONE statement.
 
-Paragraphs:
-{NEWLINES.join(cluster)}"""
+Statements:
+{statements}"""
 
 
 async def squad_summarize():
-    dataset = load_dataset("rajpurkar/squad", split="train")
+    dataset = load_dataset("rajpurkar/squad", split="validation")
 
-    data = dataset.select_columns(["id", "context", "question", "answers"])
+    data = dataset.select_columns(["id", "title", "context", "question", "answers"])
 
     if not isinstance(data, Dataset):
         raise TypeError("Expected a Dataset object")
@@ -34,42 +41,52 @@ async def squad_summarize():
     context_to_ids: dict[str, list[str]] = {}
     raw_contexts: list[str] = []
 
-    for id, context in zip(data["id"], data["context"]):
-        if context not in context_to_ids:
-            context_to_ids[context] = []
-            raw_contexts.append(context)
-        context_to_ids[context].append(id)
+    for id, context, title in zip(data["id"], data["context"], data["title"]):
+        text = f"{title}: {context}"
+        if (text) not in context_to_ids:
+            context_to_ids[text] = []
+            raw_contexts.append(text)
+        context_to_ids[text].append(id)
 
-    print("Getting summaries...")
+    print("Getting statements...")
 
     new_contexts = [
-        str(x)
+        str(x).replace("\n- ", "\n").strip().removeprefix("- ")
         for x in await async_gpt_calls(
-            [get_summarize_prompt(context) for context in raw_contexts],
+            [get_statement_prompt(context) for context in raw_contexts],
             progress_bar=True,
         )
     ]
 
-    new_context_to_ids = {
-        new_context: context_to_ids[raw_context]
-        for new_context, raw_context in zip(new_contexts, raw_contexts)
-    }
+    statements = [
+        {
+            "statement": statement.strip(),
+            "id": str(uuid4()),
+            "questions": context_to_ids[context],
+        }
+        for statement_list, context in zip(new_contexts, raw_contexts)
+        for statement in statement_list.split("\n")
+        if statement.strip() != ""
+    ]
+
+    statement_id_to_statement = {statement["id"]: statement for statement in statements}
 
     print("Getting embeddings...")
 
-    embeddings = await get_embeddings(new_contexts)
+    embeddings = await get_embeddings(
+        [statement["statement"] for statement in statements]
+    )
 
-    context_to_embedding = {
-        context: embedding for context, embedding in zip(new_contexts, embeddings)
-    }
+    for statement, embedding in zip(statements, embeddings):
+        statement["vector"] = embedding.vector
 
     print("Clustering embeddings...")
 
     clusters = cluster(
         [
-            {"vector": embedding.vector, "id": context}
-            for embedding, context in zip(embeddings, new_contexts)
-        ]
+            {"vector": embedding.vector, "id": statement["id"]}
+            for embedding, statement in zip(embeddings, statements)
+        ],
     )
 
     print("Compressing clusters...")
@@ -80,7 +97,16 @@ async def squad_summarize():
     compressions = [
         str(x)
         for x in await async_gpt_calls(
-            [get_compress_prompt(cluster) for cluster in to_compress], progress_bar=True
+            [
+                get_compress_prompt(
+                    [
+                        statement_id_to_statement[statement_id]["statement"]
+                        for statement_id in cluster
+                    ]
+                )
+                for cluster in to_compress
+            ],
+            progress_bar=True,
         )
     ]
 
@@ -92,29 +118,37 @@ async def squad_summarize():
 
     final_contexts = [
         {
-            "id": str(i),
-            "values": context_to_embedding[context].vector,
+            "id": statement_id_to_statement[statement_id]["id"],
+            "values": statement_id_to_statement[statement_id]["vector"],
             "metadata": {
-                "content": context,
-                "ids": new_context_to_ids[context],
+                "content": statement_id_to_statement[statement_id]["statement"],
+                "ids": statement_id_to_statement[statement_id]["questions"],
             },
         }
-        for i, context in enumerate(no_compress)
+        for statement_id in no_compress
     ]
 
     final_contexts += [
         {
-            "id": str(len(no_compress) + i),
+            "id": str(uuid4()),
             "values": embedding.vector,
             "metadata": {
                 "content": content,
-                "ids": [
-                    id for context in contexts for id in new_context_to_ids[context]
-                ],
+                "ids": list(
+                    set(
+                        [
+                            question
+                            for statement_id in statement_ids
+                            for question in statement_id_to_statement[statement_id][
+                                "questions"
+                            ]
+                        ]
+                    )
+                ),
             },
         }
-        for i, embedding, contexts, content in zip(
-            range(len(to_compress)), compression_embeddings, to_compress, compressions
+        for embedding, statement_ids, content in zip(
+            compression_embeddings, to_compress, compressions
         )
     ]
 

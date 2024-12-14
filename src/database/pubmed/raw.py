@@ -20,7 +20,7 @@ async def pubmed_raw():
 
     print("Getting embeddings...")
 
-    embeddings = await get_embeddings(contexts)
+    embeddings = await get_embeddings(contexts, progress_bar=True)
 
     print("Upserting embeddings...")
 
@@ -28,10 +28,11 @@ async def pubmed_raw():
         "pubmed_raw",
         [
             {
-                "id": str(data["pubid"][i]),
+                "id": str(i),
                 "values": embedding.vector,
                 "metadata": {
                     "content": context,
+                    "ids": [str(data["pubid"][i])],
                 },
             }
             for i, (embedding, context) in enumerate(zip(embeddings, contexts))

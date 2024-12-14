@@ -17,10 +17,8 @@ def get_prompt(question: str, contexts: list[str]):
 Answer the following question:
 {question}
 
-If a correlation is insignificant, then there is no relationship.
-Generally avoid maybe unless it is almost significant.
-Be careful to answer the question asked.
-Respond with only a yes, no, or maybe decision."""
+Do a bit of reasoning with the context and question to determine the answer.
+Be careful to answer the question asked."""
 
 
 def get_validity_prompt(question: str, contexts: list[str], response: str):
@@ -109,7 +107,7 @@ Your last line should be the answer and nothing else, no periods, no text (yes, 
 Your new answer can be the same as the initial answer or different."""
 
 
-async def summarize(namespace: str, prompt: str, progress: Progress | None = None):
+async def run_validity(namespace: str, prompt: str, progress: Progress | None = None):
     context = query_index(
         prompt, namespace, min_score=0.4, include_metadata=True  # type: ignore
     )

@@ -1,29 +1,28 @@
+from functools import partial
 from datasets import load_dataset, Dataset
-from helpers.data import chunk_list, save_json
+from helpers.data import chunk_list, queue, save_json
 from helpers.oai import async_gpt_calls
 from helpers.progress import Progress
-from pipelines.summarizer import summarize
+from pipelines.raw import run_raw
 import asyncio
 
 
 async def hotpot_summarized():
-    dataset = load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="train")
+    dataset = load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="test")
 
-    data = dataset.select_columns(["id", "question", "answer"]).select(range(1500))  # type: ignore
+    data = dataset.select_columns(["id", "question", "answer"])
 
     if not isinstance(data, Dataset):
         raise TypeError("Expected a Dataset object")
 
     progress = Progress(len(data), "Benchmarking Hotpot summarized")
 
-    batches = chunk_list(data["question"], 50)
-
-    results = []
-
-    for batch in batches:
-        results += await asyncio.gather(
-            *[summarize("hotpot_summarized", prompt, progress) for prompt in batch]
-        )
+    results = await queue(
+        [
+            partial(run_raw, "hotpot_summarized", prompt, progress)
+            for prompt in data["question"]
+        ],
+    )
 
     progress.finish()
 
@@ -31,15 +30,17 @@ async def hotpot_summarized():
 
     decisions = await async_gpt_calls(
         [
-            f"""Please determine if these two answers to this question match (respond with yes or no):
+            f"""Please determine if the answer is correct (respond with yes or no).
+Accept partial/similar answers (eg. markedly improved = significantly improved)
+If the answer is correct in any part of its explanation, it is correct.
 Question:
 {prompt}
 
-Answer 1:
-{result["correction"] if "correction" in result else result["response"]}
+Correct Answer:
+{answer}
 
-Answer 2:
-{answer}"""
+Provided Answer:
+{result["correction"] if "correction" in result else result["response"]}"""
             for prompt, result, answer in zip(data["question"], results, data["answer"])
         ],
         max_tokens=10,

@@ -1,6 +1,9 @@
+import asyncio
+from collections.abc import Callable, Coroutine
 from json import load, loads, dump, dumps
 import os
 import re
+from typing import Any
 
 from helpers.variables import SRC_DIR
 
@@ -50,3 +53,31 @@ def chunk_list(list: list, chunk_size: int):
 def get_number(string: str) -> str:
     """Returns the last number in a string."""
     return re.findall(r"[-+]?\d*\.\d+|\d+", string)[-1]
+
+
+async def queue(data: list[Callable[[], Coroutine[Any, Any, Any]]], max_concurrent=80):
+    async def worker(queue, results):
+        while True:
+            index, func = await queue.get()
+            try:
+                results[index] = await func()
+            finally:
+                queue.task_done()
+
+    queue = asyncio.Queue()
+    results: list = [None] * len(data)
+
+    for index, func in enumerate(data):
+        await queue.put((index, func))
+
+    workers = [
+        asyncio.create_task(worker(queue, results)) for _ in range(max_concurrent)
+    ]
+
+    await queue.join()
+
+    for w in workers:
+        w.cancel()
+    await asyncio.gather(*workers, return_exceptions=True)
+
+    return results

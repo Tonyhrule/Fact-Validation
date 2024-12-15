@@ -6,9 +6,9 @@ from helpers.pc import upsert_index
 
 
 async def hotpot_raw():
-    dataset = load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="test")
+    dataset = load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="train")
 
-    data = dataset.select_columns(["id", "context", "question", "supporting_facts"]).select(range(1500))  # type: ignore
+    data = dataset.select_columns(["id", "context", "question", "supporting_facts"]).select(range(150))  # type: ignore
 
     if not isinstance(data, Dataset):
         raise TypeError("Expected a Dataset object")

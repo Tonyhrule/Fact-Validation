@@ -33,7 +33,7 @@ Statements:
 async def squad_summarize():
     dataset = load_dataset("rajpurkar/squad", split="validation")
 
-    data = dataset.select_columns(["id", "title", "context", "question", "answers"])
+    data = dataset.select_columns(["id", "title", "context", "question"])
 
     if not isinstance(data, Dataset):
         raise TypeError("Expected a Dataset object")
@@ -74,7 +74,7 @@ async def squad_summarize():
     print("Getting embeddings...")
 
     embeddings = await get_embeddings(
-        [statement["statement"] for statement in statements]
+        [statement["statement"] for statement in statements], progress_bar=True
     )
 
     for statement, embedding in zip(statements, embeddings):
@@ -112,7 +112,7 @@ async def squad_summarize():
 
     print("Updating embeddings...")
 
-    compression_embeddings = await get_embeddings(compressions)
+    compression_embeddings = await get_embeddings(compressions, progress_bar=True)
 
     print("Upserting embeddings...")
 

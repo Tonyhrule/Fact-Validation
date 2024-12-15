@@ -149,10 +149,20 @@ async def get_embedding(text: str, model="text-embedding-3-large"):
     )
 
 
-async def get_embeddings(texts: list[str], model="text-embedding-3-large"):
+async def get_embeddings(
+    texts: list[str], model="text-embedding-3-large", progress_bar=False
+):
+    p = Progress(ceil(len(texts) / 2048)) if progress_bar else None
+
+    async def embed(input: list[str], model: str, progress: Progress | None = None):
+        result = await asyncClient.embeddings.create(input=input, model=model)
+        if progress:
+            progress.increment()
+        return result
+
     responses = await queue(
         [
-            partial(asyncClient.embeddings.create, input=textBatch, model=model)
+            partial(embed, input=textBatch, model=model, progress=p)
             for textBatch in chunk_list(texts, 2048)
         ],
         10,
@@ -161,12 +171,14 @@ async def get_embeddings(texts: list[str], model="text-embedding-3-large"):
     result: list[EmbeddingResponse] = []
 
     for response in responses:
-        if not response.usage:
+        if not response or not response.usage:
             raise Exception("Error getting embeddings")
         result += [
             EmbeddingResponse(embedding.embedding, model, response.usage)
             for embedding in response.data
         ]
+
+    p.finish() if p else None
 
     return result
 
@@ -270,7 +282,7 @@ async def async_call_gpt(
     system=DEFAULT_SYSTEM,
     max_tokens: int | None = None,
     progress: Progress | None = None,
-):
+) -> GPTResponse:
     messages = []
     if system:
         messages.append({"role": "system", "content": system})
@@ -280,7 +292,11 @@ async def async_call_gpt(
     if cache.get(prompt):
         if progress:
             progress.increment()
-        return cache.get(prompt)
+        return GPTResponse(
+            cache.get(prompt) or "",
+            model,
+            CompletionUsage(completion_tokens=0, prompt_tokens=0, total_tokens=0),
+        )
 
     try:
         result = await asyncio.wait_for(

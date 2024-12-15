@@ -38,10 +38,10 @@ namespaces = {
         load_dataset("rajpurkar/squad", split="validation").select(range(1500)),  # type: ignore
     ),
     "hotpot_raw": lambda: get_dataset(
-        load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="train").select(range(1500)),  # type: ignore
+        load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="train").select(range(150)),  # type: ignore
     ),
     "hotpot_summarized": lambda: get_dataset(
-        load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="train").select(range(1500)),  # type: ignore
+        load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="train").select(range(150)),  # type: ignore
     ),
 }
 

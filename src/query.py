@@ -3,7 +3,12 @@ from helpers.pc import query_index
 
 
 namespaces = [
+    "pubmed_raw",
+    "pubmed_summarized",
+    "squad_raw",
     "squad_summarized",
+    "hotpot_raw",
+    "hotpot_summarized",
 ]
 namespace_str = "\n".join(
     [f"{i + 1}. {namespace}" for i, namespace in enumerate(namespaces)]

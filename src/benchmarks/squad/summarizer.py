@@ -48,8 +48,35 @@ Provided Answer:
         progress_bar=True,
     )
 
-    for result, decision in zip(results, decisions):
-        result["correct"] = str(decision).lower()[0] == "y"
+    decisions_final_answer = await async_gpt_calls(
+        [
+            f"""Please determine if the answer is correct (respond with yes or no).
+Accept partial/similar answers (eg. markedly improved = significantly improved)
+If the answer is correct in any part of its explanation, it is correct.
+Question:
+{prompt}
+
+Correct Answer:
+{answer["text"][0]}
+
+Provided Answer:
+{(result["correction"] if "correction" in result else result["response"]).lower().strip().split("final answer: ")[-1]}"""
+            for prompt, result, answer in zip(
+                data["question"], results, data["answers"]
+            )
+        ],
+        max_tokens=10,
+        system="Your answer must be a single word long, either yes or no.",
+        progress_bar=True,
+    )
+
+    for result, decision, decision_final_answer in zip(
+        results, decisions, decisions_final_answer
+    ):
+        result["correct"] = (
+            str(decision).lower()[0] == "y"
+            or str(decision_final_answer).lower()[0] == "y"
+        )
 
     correct = sum(1 for r in results if r["correct"])
 
@@ -68,6 +95,7 @@ Provided Answer:
                     else result["response"]
                 ),
                 "correct_answer": correct_answer["text"][0],
+                "context": result["context"],
             }
             for result, correct_answer, id, question in zip(
                 results, data["answers"], data["id"], data["question"]

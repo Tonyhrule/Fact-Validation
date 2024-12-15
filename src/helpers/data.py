@@ -56,7 +56,7 @@ def get_number(string: str) -> str:
 
 
 async def queue(data: list[Callable[[], Coroutine[Any, Any, Any]]], max_concurrent=80):
-    async def worker(queue, results):
+    async def worker(queue: asyncio.Queue, results):
         while True:
             index, func = await queue.get()
             try:
@@ -78,6 +78,7 @@ async def queue(data: list[Callable[[], Coroutine[Any, Any, Any]]], max_concurre
 
     for w in workers:
         w.cancel()
+
     await asyncio.gather(*workers, return_exceptions=True)
 
     return results

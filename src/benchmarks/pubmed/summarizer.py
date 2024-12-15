@@ -53,6 +53,7 @@ Answer:
                 "is_correct": result["correct"],
                 "decision": str(decision),
                 "correct_answer": correct_answer,
+                "context": result["context"],
             }
             for result, correct_answer, pubid, decision in zip(
                 results, data["final_decision"], data["pubid"], decisions

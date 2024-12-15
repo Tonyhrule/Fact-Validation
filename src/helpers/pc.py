@@ -27,12 +27,21 @@ index = pinecone.Index(host=PINECONE_HOST)
 
 
 def upsert_index(namespace: str, vectors: list[dict]):
-    requests = [
-        index.upsert(namespace=namespace, vectors=batch, async_req=True)
-        for batch in chunk_list(vectors, 100)
-    ]
+    result = []
 
-    return [request.result() for request in requests]  # type: ignore
+    chunks = chunk_list(vectors, 100)
+
+    batches = chunk_list(chunks, 30)
+
+    for batch in batches:
+        requests = [
+            index.upsert(namespace=namespace, vectors=chunk, async_req=True)
+            for chunk in batch
+        ]
+
+        result += [request.result() for request in requests]  # type: ignore
+
+    return result
 
 
 async def embed_small(
@@ -111,21 +120,34 @@ async def async_query_index(
     progress: Progress | None = None,
     filter={},
 ):
-    if isinstance(query, str):
-        query = (await get_embedding(query)).vector
-    response = index.query(
-        namespace=namespace,
-        vector=query,
-        top_k=top_k,
-        include_metadata=include_metadata,
-        include_vector=include_vector,
-        filter=filter,
-        async_req=True,
-    )  # type: ignore
-    result = response.result()
-    if progress:
-        progress.increment()
-    return [match for match in result.matches if match.score >= min_score]
+    async def run(query, namespace, top_k, include_metadata, include_vector, filter):
+        if isinstance(query, str):
+            query = (await get_embedding(query)).vector
+        response = index.query(
+            namespace=namespace,
+            vector=query,
+            top_k=top_k,
+            include_metadata=include_metadata,
+            include_vector=include_vector,
+            filter=filter,
+            async_req=True,
+        )  # type: ignore
+        result = response.result()
+        if progress:
+            progress.increment()
+        return [match for match in result.matches if match.score >= min_score]
+
+    try:
+        result = await asyncio.wait_for(
+            run(query, namespace, top_k, include_metadata, include_vector, filter),
+            timeout=60,
+        )
+        return result
+    except asyncio.TimeoutError:
+        return []
+    except Exception as e:
+        print("Error querying index:", e)
+        return []
 
 
 async def multiple_queries(
@@ -206,3 +228,8 @@ def content_from_query_result(result: QueryResponse | list) -> list[str]:
         match.metadata["content"]
         for match in (result if isinstance(result, QueryResponse) else result)
     ]
+
+
+def get_namespace_size(namespace: str):
+    stats = index.describe_index_stats(namespace=namespace)
+    return stats["namespaces"][namespace]["vector_count"]

@@ -22,13 +22,14 @@ Text:
 def get_compress_prompt(cluster: list[str]):
     statements = "\n".join(cluster)
     return f"""Combine the following statements into ONE statement.
+The statement should be relatively short.
 
 Statements:
 {statements}"""
 
 
 async def hotpot_summarize():
-    dataset = load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="test")
+    dataset = load_dataset("hotpotqa/hotpot_qa", "fullwiki", split="train")
 
     data = dataset.select_columns(["id", "context", "question", "supporting_facts"]).select(range(150))  # type: ignore
 
@@ -95,15 +96,12 @@ async def hotpot_summarize():
             {"vector": embedding.vector, "id": statement["id"]}
             for embedding, statement in zip(embeddings, statements)
         ],
-        eps=45 * (1000 / len(embeddings)) ** 6,
     )
 
     print("Compressing clusters...")
 
     no_compress = [cluster[0] for cluster in clusters if len(cluster) == 1]
     to_compress = [cluster for cluster in clusters if len(cluster) > 1]
-
-    print(len(to_compress), len(no_compress))
 
     compressions = [
         str(x)

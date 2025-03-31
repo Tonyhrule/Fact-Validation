@@ -29,16 +29,16 @@ async def squad_raw():
     decisions = await async_gpt_calls(
         [
             f"""Please determine if the answer is correct (respond with yes or no).
-Accept partial/similar answers (eg. markedly improved = significantly improved)
-If the answer is correct in any part of its explanation, it is correct.
-Question:
-{prompt}
+            Accept partial/similar answers (eg. markedly improved = significantly improved)
+            If the answer is correct in any part of its explanation, it is correct.
+            Question:
+            {prompt}
 
-Correct Answer:
-{answer["text"][0]}
+            Correct Answer:
+            {answer["text"][0]}
 
-Provided Answer:
-{result["correction"] if "correction" in result else result["response"]}"""
+            Provided Answer:
+            {result["correction"] if "correction" in result else result["response"]}"""
             for prompt, result, answer in zip(
                 data["question"], results, data["answers"]
             )
@@ -51,16 +51,16 @@ Provided Answer:
     decisions_final_answer = await async_gpt_calls(
         [
             f"""Please determine if the answer is correct (respond with yes or no).
-Accept partial/similar answers (eg. markedly improved = significantly improved)
-If the answer is correct in any part of its explanation, it is correct.
-Question:
-{prompt}
+            Accept partial/similar answers (eg. markedly improved = significantly improved)
+            If the answer is correct in any part of its explanation, it is correct.
+            Question:
+            {prompt}
 
-Correct Answer:
-{answer["text"][0]}
+            Correct Answer:
+            {answer["text"][0]}
 
-Provided Answer:
-{(result["correction"] if "correction" in result else result["response"]).lower().strip().split("final answer: ")[-1]}"""
+            Provided Answer:
+            {(result["correction"] if "correction" in result else result["response"]).lower().strip().split("final answer: ")[-1]}"""
             for prompt, result, answer in zip(
                 data["question"], results, data["answers"]
             )

@@ -29,11 +29,11 @@ async def pubmed_summarized():
     decisions = await async_gpt_calls(
         [
             f"""Please extract a one-word decision from the text that was answering this question (yes, no, maybe).
-Question:
-{prompt}
+                Question:
+                {prompt}
 
-Answer:
-{result["correction"] if "correction" in result else result["response"]}"""
+                Answer:
+                {result["correction"] if "correction" in result else result["response"]}"""
             for prompt, result in zip(data["question"], results)
         ]
     )

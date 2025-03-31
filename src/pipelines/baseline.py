@@ -10,14 +10,14 @@ NEWLINE = "\n"
 def get_prompt(question: str, contexts: list[str]):
     context = "\n\n".join(contexts)
     return f"""Given the following text:
-{context}
-Answer the following question:
-{question}
-Do a bit of reasoning with the context and question to determine the answer.
-If the significance of a correlation is small, then there is no relationship.
-Generally avoid maybe unless it is extremely close to being significant.
-Be careful to answer the question asked.
-Respond with a yes, no, or maybe decision at the end."""
+    {context}
+    Answer the following question:
+    {question}
+    Do a bit of reasoning with the context and question to determine the answer.
+    If the significance of a correlation is small, then there is no relationship.
+    Generally avoid maybe unless it is extremely close to being significant.
+    Be careful to answer the question asked.
+    Respond with a yes, no, or maybe decision at the end."""
 
 async def run_raw(namespace: str, prompt: str, progress: Progress | None = None):
     context = query_index(

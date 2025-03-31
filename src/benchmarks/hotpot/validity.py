@@ -32,14 +32,14 @@ async def hotpot_validity():
     decisions = await async_gpt_calls(
         [
             f"""Please determine if these two answers to this question match (respond with yes or no):
-Question:
-{prompt}
+                Question:
+                {prompt}
 
-Answer 1:
-{result["correction"] if "correction" in result else result["response"]}
+                Answer 1:
+                {result["correction"] if "correction" in result else result["response"]}
 
-Answer 2:
-{answer}"""
+                Answer 2:
+                {answer}"""
             for prompt, result, answer in zip(data["question"], results, data["answer"])
         ],
         max_tokens=10,

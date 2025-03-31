@@ -1,10 +1,8 @@
 import asyncio
 import os
 from dotenv import load_dotenv
-from pinecone.grpc import PineconeGRPC as Pinecone
-from pinecone_plugins.inference import Inference
-from pinecone.core.openapi.data.model.query_response import QueryResponse
-from typing import Literal
+from pinecone import Pinecone
+from typing import Literal, Any
 
 from helpers.data import chunk_list
 from helpers.oai import get_embedding, get_embeddings
@@ -21,9 +19,12 @@ if not PINECONE_API_KEY:
 if not PINECONE_HOST:
     raise Exception("Pinecone Host not found")
 
-pinecone = Pinecone(api_key=PINECONE_API_KEY)
-inference: Inference = pinecone.inference  # type: ignore
-index = pinecone.Index(host=PINECONE_HOST)
+pc = Pinecone(api_key=PINECONE_API_KEY)
+index = pc.Index(host=PINECONE_HOST)
+
+class QueryResponse:
+    def __init__(self, matches):
+        self.matches = matches
 
 
 def upsert_index(namespace: str, vectors: list[dict]):
@@ -50,17 +51,9 @@ async def embed_small(
     input_type: Literal["query", "passage"] = "passage",
     truncate=False,
 ):
-    return [
-        embedding["values"]
-        for embedding in inference.embed(
-            model=model,
-            inputs=inputs,
-            parameters={
-                "input_type": input_type,
-                "truncate": "END" if truncate else "NONE",
-            },
-        ).data
-    ]
+    from helpers.oai import get_embeddings
+    embeddings = await get_embeddings(inputs)
+    return [embedding.vector for embedding in embeddings]
 
 
 async def embed(
@@ -99,15 +92,16 @@ async def query_index(
     filter={},
 ):
     embedding = await get_embedding(query)
-    response: QueryResponse = index.query(
+    response = index.query(
         namespace=namespace,
         vector=embedding.vector,
         top_k=top_k,
         include_metadata=include_metadata,
         include_values=include_vector,
         filter=filter,
-    )  # type: ignore
-    return [match for match in response.matches if match.score >= min_score]
+    )
+    response_obj = QueryResponse(response.matches)
+    return [match for match in response_obj.matches if match.score >= min_score]
 
 
 async def async_query_index(
@@ -128,14 +122,12 @@ async def async_query_index(
             vector=query,
             top_k=top_k,
             include_metadata=include_metadata,
-            include_vector=include_vector,
+            include_values=include_vector,
             filter=filter,
-            async_req=True,
-        )  # type: ignore
-        result = response.result()
+        )
         if progress:
             progress.increment()
-        return [match for match in result.matches if match.score >= min_score]
+        return [match for match in response.matches if match.score >= min_score]
 
     try:
         result = await asyncio.wait_for(
@@ -224,12 +216,15 @@ async def query_batches(
 
 
 def content_from_query_result(result: QueryResponse | list) -> list[str]:
+    matches = result.matches if isinstance(result, QueryResponse) else result
     return [
-        match.metadata["content"]
-        for match in (result if isinstance(result, QueryResponse) else result)
+        match.metadata["content"] 
+        for match in matches if hasattr(match, 'metadata') and "content" in match.metadata
     ]
 
 
 def get_namespace_size(namespace: str):
-    stats = index.describe_index_stats(namespace=namespace)
-    return stats["namespaces"][namespace]["vector_count"]
+    stats = index.describe_index_stats()
+    if namespace in stats.namespaces:
+        return stats.namespaces[namespace].vector_count
+    return 0

@@ -9,22 +9,22 @@ NEWLINE = "\n"
 
 def get_statement_prompt(context: str):
     return f"""Convert the following text into a series of concise, standalone statements.
-This should be in bullet-points (- ).
-Each statement should be a complete thought and should NOT reference any other bullet points or wider context.
-This means that each statement should be able to stand alone and make sense.
-For a statement to stand alone, it should contain all the context it needs to be understood.
-Each statement MUST include its FULL setting (eg. In xyz, abc happened), and this setting must be specific (eg. Superbowl 50 instead of Superbowl).
-ALWAYS use proper nouns if possible. (eg. "Superbowl 50" instead of "the game")
+    This should be in bullet-points (- ).
+    Each statement should be a complete thought and should NOT reference any other bullet points or wider context.
+    This means that each statement should be able to stand alone and make sense.
+    For a statement to stand alone, it should contain all the context it needs to be understood.
+    Each statement MUST include its FULL setting (eg. In xyz, abc happened), and this setting must be specific (eg. Superbowl 50 instead of Superbowl).
+    ALWAYS use proper nouns if possible. (eg. "Superbowl 50" instead of "the game")
 
-Text:
-{context}"""
+    Text:
+    {context}"""
 
 def get_compress_prompt(cluster: list[str]):
     statements = "\n".join(cluster)
     return f"""Combine the following statements into ONE statement. The statement should be relatively short.
 
-Statements:
-{statements}"""
+    Statements:
+    {statements}"""
 
 async def summarize_article():
     # Hardcoded article

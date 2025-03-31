@@ -1,6 +1,6 @@
 # Factual Context Validation and Simplification: A Scalable Method to Enhance GPT Trustworthiness and Efficiency
 
-> **ICLR 2025 Blogpost Track Publication**  
+> **ICLR 2025 Blogpost Track**  
 > This work has been accepted at the ICLR 2025 Blogpost Track. [View the full blog](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-factual-validation-simplification-192/blog/factual-validation-simplification/).
 
 ## Abstract

@@ -74,7 +74,7 @@ src/
 1. Clone the repository:
 ```bash
 git clone https://github.com/Tonyhrule/Facts.git
-cd Facts
+cd Factual-Validation-Simplification
 ```
 
 2. Install dependencies:
